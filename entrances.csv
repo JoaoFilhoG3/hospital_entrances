@@ -1,0 +1,1001 @@
+id,nome,data_nascimento,sexo,causa_entrada,sintomas,condicoes,dt_hr_chegada,dt_hr_entrada,dt_hr_saida,unidade,leito,status
+1,Lian Tothe,07/04/1966,F,Dor no peito,Cansaço,Doença cardíaca,2018-04-22 17:18:39,2019-01-19 02:06:50,2019-06-22 08:39:01,Hospital São Raimundo,29,REALOCADO
+2,Eddi Isacoff,05/10/2016,F,Dor no peito,Dor de cabeça,Doença respiratória,2018-05-05 12:50:16,2019-01-25 19:52:38,2019-08-01 00:55:29,Hospital São Raimundo,22,REALOCADO
+3,Cathryn Wesson,04/23/1943,F,Acidente no trânsito,Dor de cabeça,Doença respiratória,2018-12-28 14:48:45,2019-01-06 01:52:54,2019-04-30 15:34:03,Hospital São Raimundo,19,AGUARDANDO
+4,Fergus Benedite,02/18/2011,M,Violência doméstica,Vômito,Doença respiratória,2018-06-22 02:51:47,2019-02-23 06:17:03,2019-06-17 16:53:42,Hospital São Raimundo,43,AGUARDANDO
+5,Sorcha Gallen,12/27/1948,F,Dor no peito,Dor de cabeça,Doença respiratória,2018-08-30 13:01:59,2019-01-06 09:42:45,2019-09-23 05:16:02,Hospital geral do vale do Jaguaribe,42,EM ATENDIMENTO
+6,Collen Olyff,04/21/2019,F,Acidente no trânsito,Dor de cabeça,Diabetes,2018-02-09 00:41:07,2019-01-07 14:08:07,2019-07-28 12:01:48,Hospital e maternidade celestina colares,3,EM ATENDIMENTO
+7,Hillery Furmonger,06/06/2014,M,Acidente no trânsito,Vômito,Doença respiratória,2018-04-05 11:46:12,2019-01-17 20:54:41,2019-03-13 03:44:52,Hospital São Raimundo,46,EM ATENDIMENTO
+8,Tate Baskerfield,10/24/2006,M,Acidente no trânsito,Cansaço,Hipertensão,2018-04-21 13:55:01,,,Hospital São Raimundo,18,AGUARDANDO
+9,Abramo Batrop,03/15/2011,M,Dor de cabeça,Cansaço,Doença cardíaca,2018-04-14 18:31:29,2019-01-23 00:14:49,2019-03-08 14:08:24,Hospital geral do vale do Jaguaribe,38,EM ATENDIMENTO
+10,Norrie Wands,11/23/1986,M,Violência doméstica,Dor de cabeça,Doença cardíaca,2018-12-25 17:05:09,2019-02-22 03:23:20,2019-04-25 12:17:42,Hospital geral do vale do Jaguaribe,13,AGUARDANDO
+11,Aloin Terzo,05/29/1960,M,Dor no peito,Cansaço,Doença cardíaca,2018-11-23 21:44:56,2019-02-14 15:10:45,2019-10-10 09:50:04,Hospital São Raimundo,5,AGUARDANDO
+12,Linnea Shinefield,04/16/1962,F,Desmaio,Dor no peito,Diabetes,2018-01-23 14:48:56,2019-02-10 13:31:27,2019-08-14 11:14:05,Hospital e maternidade celestina colares,9,CONCLUÍDO
+13,Patsy Boulton,01/27/1978,F,Febre,Cansaço,Hipertensão,2018-07-31 19:38:53,2019-01-01 18:39:42,2019-06-21 02:01:05,Hospital São Raimundo,24,REALOCADO
+14,Waylen MacMaykin,12/23/1957,M,Violência doméstica,Vômito,Doença respiratória,2018-07-08 02:15:32,2019-02-16 23:13:31,2019-10-12 05:57:39,Hospital e maternidade celestina colares,48,AGUARDANDO
+15,Benny Lorie,06/17/1967,M,Dor no peito,Dor no peito,Doença respiratória,2018-06-05 06:41:01,2019-02-09 12:59:55,2019-09-07 13:58:46,Hospital e maternidade celestina colares,10,EM ATENDIMENTO
+16,Myrilla Ward,02/15/1955,F,Acidente no trânsito,Vômito,Doença respiratória,2018-07-25 22:32:11,2019-02-17 16:19:15,2019-03-03 12:38:58,Hospital geral do vale do Jaguaribe,48,EM ATENDIMENTO
+17,Alair Heaphy,06/13/1975,M,Febre,Falta de ar,Doença respiratória,2018-12-27 03:49:57,2019-01-02 22:38:04,2019-10-04 18:33:15,Hospital São Raimundo,46,AGUARDANDO
+18,Mil Seavers,12/01/1960,F,Acidente doméstico,Febre,Hipertensão,2018-06-11 01:05:22,2019-02-20 07:06:22,2019-10-14 15:18:09,Hospital geral do vale do Jaguaribe,3,REALOCADO
+19,Wolfie Cahillane,03/11/1950,M,Febre,Dor no peito,Doença respiratória,2018-03-12 06:39:31,2019-01-15 20:37:12,2019-07-19 19:34:00,Hospital e maternidade celestina colares,28,EM ATENDIMENTO
+20,Robinia Easbie,07/26/1996,F,Febre,Falta de ar,Doença cardíaca,2018-08-07 12:01:51,,,Hospital geral do vale do Jaguaribe,25,CONCLUÍDO
+21,Terrell Petrovic,09/19/1998,M,Violência doméstica,Dor no peito,Doença cardíaca,2018-05-11 21:25:52,2019-02-13 22:53:06,2019-08-18 22:40:28,Hospital e maternidade celestina colares,38,EM ATENDIMENTO
+22,Clarita Beggi,01/22/1983,F,Dor no peito,Cansaço,Doença respiratória,2018-06-18 15:34:58,2019-02-13 23:33:04,2019-07-03 04:44:20,Hospital São Raimundo,27,AGUARDANDO
+23,Karine Burhouse,06/02/2010,F,Acidente no trânsito,Febre,Doença respiratória,2018-02-08 22:17:58,,,Hospital geral do vale do Jaguaribe,17,AGUARDANDO
+24,Boote Cowderoy,11/06/1972,M,Acidente no trânsito,Febre,Doença cardíaca,2018-10-12 06:14:34,,,Hospital São Raimundo,48,REALOCADO
+25,Ruthy Shatliff,09/28/2006,F,Violência doméstica,Dor no peito,Hipertensão,2018-09-20 16:10:37,,,Hospital São Raimundo,46,AGUARDANDO
+26,Nora Youll,02/24/1953,F,Violência doméstica,Cansaço,Doença respiratória,2018-03-26 12:45:44,,,Hospital São Raimundo,24,EM ATENDIMENTO
+27,Arabella Roggers,04/22/1952,F,Violência doméstica,Vômito,Hipertensão,2018-06-12 23:52:21,,,Hospital e maternidade celestina colares,14,AGUARDANDO
+28,Errol Pien,02/01/1946,M,Acidente no trânsito,Falta de ar,Diabetes,2018-12-29 03:38:16,2019-02-22 22:01:29,2019-07-20 02:05:02,Hospital e maternidade celestina colares,48,REALOCADO
+29,Cesare Errol,04/03/1989,M,Dor de cabeça,Dor de cabeça,Diabetes,2018-02-12 09:17:52,2019-02-05 19:26:35,2019-05-18 02:16:29,Hospital geral do vale do Jaguaribe,43,AGUARDANDO
+30,Caryn Witchard,05/29/2017,F,Febre,Febre,Doença cardíaca,2018-08-16 06:28:36,,,Hospital geral do vale do Jaguaribe,50,EM ATENDIMENTO
+31,Daren Domsalla,08/16/1965,M,Desmaio,Falta de ar,Hipertensão,2018-12-25 17:25:36,2019-02-14 02:29:08,2019-04-27 03:05:07,Hospital São Raimundo,18,EM ATENDIMENTO
+32,Nelly Adamowitz,11/04/1980,F,Violência doméstica,Cansaço,Hipertensão,2018-04-26 13:38:53,2019-02-12 05:39:45,2019-09-19 10:47:56,Hospital geral do vale do Jaguaribe,14,REALOCADO
+33,Mercedes Feedome,08/12/1977,F,Febre,Cansaço,Doença cardíaca,2018-01-14 10:06:19,2019-01-17 12:07:02,2019-09-22 03:22:45,Hospital geral do vale do Jaguaribe,32,REALOCADO
+34,Iorgo McMeyler,05/03/1969,M,Dor de cabeça,Falta de ar,Doença cardíaca,2018-05-12 19:59:12,2019-01-12 08:17:30,2019-03-11 02:12:55,Hospital geral do vale do Jaguaribe,34,AGUARDANDO
+35,Park Schuchmacher,10/09/1970,M,Desmaio,Dor de cabeça,Diabetes,2018-04-05 09:05:59,,,Hospital e maternidade celestina colares,42,REALOCADO
+36,Gav Kunzelmann,10/04/1953,M,Violência doméstica,Vômito,Doença cardíaca,2018-01-25 03:11:54,,,Hospital São Raimundo,32,CONCLUÍDO
+37,Dorine Corradetti,12/19/2011,F,Desmaio,Dor de cabeça,Diabetes,2018-10-23 04:45:04,2019-02-19 04:28:47,2019-10-22 20:16:36,Hospital e maternidade celestina colares,6,EM ATENDIMENTO
+38,Tarra Iveagh,02/04/1942,F,Acidente no trânsito,Dor no peito,Diabetes,2018-11-06 22:36:24,,,Hospital São Raimundo,39,REALOCADO
+39,Erhard Strathe,08/02/1941,M,Dor no peito,Febre,Doença cardíaca,2018-07-03 02:26:21,,,Hospital geral do vale do Jaguaribe,50,AGUARDANDO
+40,Amby Grcic,04/02/2016,M,Violência doméstica,Vômito,Hipertensão,2018-04-15 07:06:09,,,Hospital e maternidade celestina colares,26,EM ATENDIMENTO
+41,Ruthi Amsberger,04/26/1993,F,Febre,Vômito,Doença cardíaca,2018-10-10 14:14:45,2019-01-28 12:36:27,2019-07-22 14:30:44,Hospital e maternidade celestina colares,41,EM ATENDIMENTO
+42,Mureil Burriss,09/04/2004,F,Violência doméstica,Cansaço,Diabetes,2018-07-02 07:44:26,2019-01-21 09:33:31,2019-05-15 15:54:29,Hospital e maternidade celestina colares,30,REALOCADO
+43,Cayla Ladd,03/04/1992,F,Dor de cabeça,Falta de ar,Doença cardíaca,2018-07-18 15:42:33,2019-01-24 10:18:55,2019-03-14 18:52:02,Hospital São Raimundo,38,REALOCADO
+44,Katine Garey,01/11/1964,F,Acidente no trânsito,Febre,Hipertensão,2018-03-19 00:44:07,2019-01-29 10:31:59,2019-04-05 06:40:02,Hospital São Raimundo,13,EM ATENDIMENTO
+45,Issy Cymper,10/28/1944,F,Acidente doméstico,Falta de ar,Hipertensão,2018-05-03 11:34:41,2019-01-18 10:33:40,2019-09-13 22:54:56,Hospital e maternidade celestina colares,39,EM ATENDIMENTO
+46,Sidonnie Fisby,06/01/1965,F,Dor de cabeça,Dor no peito,Doença cardíaca,2018-05-30 06:15:15,2019-02-26 03:50:56,2019-04-11 16:08:05,Hospital geral do vale do Jaguaribe,41,REALOCADO
+47,Cyril Hegg,01/05/1956,M,Acidente no trânsito,Falta de ar,Hipertensão,2018-03-20 02:00:51,2019-02-07 21:26:15,2019-10-01 08:38:16,Hospital São Raimundo,1,CONCLUÍDO
+48,Carlene Bernardelli,04/02/1970,F,Dor de cabeça,Cansaço,Diabetes,2018-04-24 12:22:11,2019-02-21 15:38:22,2019-07-06 15:16:24,Hospital e maternidade celestina colares,49,AGUARDANDO
+49,Boyce Taree,03/14/1945,M,Acidente no trânsito,Dor de cabeça,Hipertensão,2018-08-03 20:47:47,2019-01-20 06:33:58,2019-09-04 14:15:30,Hospital geral do vale do Jaguaribe,30,AGUARDANDO
+50,Gasparo Barosch,09/19/1942,M,Desmaio,Febre,Doença cardíaca,2018-06-29 22:10:38,,,Hospital geral do vale do Jaguaribe,40,EM ATENDIMENTO
+51,Fritz Mulqueeny,05/04/1962,M,Febre,Dor de cabeça,Hipertensão,2018-10-31 15:20:26,2019-01-27 21:19:39,2019-03-22 16:38:19,Hospital geral do vale do Jaguaribe,20,CONCLUÍDO
+52,Cynthia Blei,06/19/1943,F,Acidente no trânsito,Dor de cabeça,Diabetes,2018-05-15 13:13:08,,,Hospital e maternidade celestina colares,49,REALOCADO
+53,Ag Catcheside,03/01/1979,F,Dor no peito,Falta de ar,Diabetes,2018-08-06 09:39:21,,,Hospital e maternidade celestina colares,17,CONCLUÍDO
+54,Viki Gillani,08/09/2010,F,Desmaio,Dor de cabeça,Hipertensão,2018-07-19 01:10:49,2019-01-06 09:53:23,2019-09-04 03:15:12,Hospital geral do vale do Jaguaribe,17,EM ATENDIMENTO
+55,Truman Papes,06/16/2008,M,Acidente no trânsito,Febre,Diabetes,2018-07-31 23:40:35,2019-02-18 15:56:34,2019-07-16 14:18:13,Hospital geral do vale do Jaguaribe,39,EM ATENDIMENTO
+56,Brendin Murton,10/03/1968,M,Dor no peito,Cansaço,Doença respiratória,2018-06-24 02:57:52,2019-02-05 20:17:01,2019-08-21 08:51:17,Hospital São Raimundo,22,CONCLUÍDO
+57,Wallace Earlam,06/12/1966,M,Febre,Dor de cabeça,Diabetes,2018-05-02 07:51:55,2019-01-18 04:07:24,2019-07-18 02:59:51,Hospital e maternidade celestina colares,31,REALOCADO
+58,Effie Davenall,02/25/2017,F,Dor no peito,Dor de cabeça,Diabetes,2018-11-17 09:22:31,2019-01-23 23:54:29,2019-05-09 03:17:11,Hospital e maternidade celestina colares,36,AGUARDANDO
+59,Carce Powys,05/21/2015,M,Febre,Febre,Doença respiratória,2018-12-09 18:18:53,2019-02-23 04:34:30,2019-06-18 12:17:12,Hospital São Raimundo,3,EM ATENDIMENTO
+60,Marsha Tommis,02/17/1950,F,Desmaio,Dor no peito,Hipertensão,2018-04-30 10:25:37,2019-02-15 21:55:02,2019-03-25 11:52:18,Hospital São Raimundo,15,CONCLUÍDO
+61,Jacynth Topley,04/04/2007,F,Febre,Dor no peito,Hipertensão,2018-04-17 15:53:22,2019-01-15 16:09:32,2019-07-27 21:37:22,Hospital geral do vale do Jaguaribe,46,AGUARDANDO
+62,Willyt Egalton,01/06/1998,F,Dor no peito,Dor de cabeça,Doença respiratória,2018-08-18 18:20:42,,,Hospital São Raimundo,22,AGUARDANDO
+63,Aliza Vida,03/12/1940,F,Acidente doméstico,Vômito,Doença respiratória,2018-08-02 00:38:08,,,Hospital geral do vale do Jaguaribe,26,CONCLUÍDO
+64,Ugo Hobbema,09/02/1953,M,Violência doméstica,Dor no peito,Doença respiratória,2018-11-23 10:43:37,2019-01-21 23:30:17,2019-10-02 00:06:33,Hospital São Raimundo,49,AGUARDANDO
+65,Irene Dunkerly,05/21/1982,F,Violência doméstica,Vômito,Doença respiratória,2018-04-20 22:41:59,,,Hospital geral do vale do Jaguaribe,15,EM ATENDIMENTO
+66,Gerrie Kynman,07/02/1997,M,Febre,Dor no peito,Hipertensão,2018-01-31 10:32:55,2019-02-23 08:16:42,2019-04-29 02:26:00,Hospital e maternidade celestina colares,13,REALOCADO
+67,Carey Torresi,04/12/1963,F,Acidente no trânsito,Cansaço,Doença cardíaca,2018-09-09 14:08:02,,,Hospital São Raimundo,9,REALOCADO
+68,Lelah McGillreich,04/25/1964,F,Febre,Dor no peito,Doença respiratória,2018-07-21 22:42:15,2019-01-07 18:42:41,2019-05-15 10:51:45,Hospital São Raimundo,38,AGUARDANDO
+69,Ramsay Renton,06/02/1994,M,Dor no peito,Dor de cabeça,Doença cardíaca,2018-05-15 14:45:29,2019-02-19 14:17:35,2019-10-17 23:43:34,Hospital São Raimundo,10,CONCLUÍDO
+70,Ruperto Negus,08/30/2007,M,Febre,Febre,Doença cardíaca,2018-03-24 10:00:08,2019-02-04 09:58:14,2019-07-13 21:08:34,Hospital geral do vale do Jaguaribe,40,CONCLUÍDO
+71,Spenser Dishmon,05/12/2019,M,Dor no peito,Febre,Doença cardíaca,2018-01-17 04:32:17,2019-02-08 00:10:38,2019-09-28 12:18:35,Hospital São Raimundo,40,CONCLUÍDO
+72,Parnell Wabersich,05/17/1995,M,Desmaio,Falta de ar,Doença cardíaca,2018-02-15 12:32:59,2019-02-23 04:37:21,2019-07-19 11:06:49,Hospital São Raimundo,9,AGUARDANDO
+73,Erica Josephoff,04/15/1963,F,Dor no peito,Vômito,Doença respiratória,2018-06-02 03:59:46,2019-01-05 10:50:58,2019-03-09 01:53:05,Hospital São Raimundo,13,EM ATENDIMENTO
+74,Jayme Iannuzzi,03/31/1985,F,Acidente doméstico,Febre,Diabetes,2018-07-03 13:49:21,,,Hospital e maternidade celestina colares,34,EM ATENDIMENTO
+75,Jerrold Covendon,03/15/1982,M,Desmaio,Cansaço,Doença respiratória,2018-08-20 00:17:13,2019-02-24 13:06:47,2019-10-15 16:09:17,Hospital e maternidade celestina colares,19,EM ATENDIMENTO
+76,Clayson Antao,12/14/2011,M,Dor no peito,Dor no peito,Hipertensão,2018-09-22 21:14:30,2019-01-25 07:26:04,2019-07-26 16:41:28,Hospital e maternidade celestina colares,22,CONCLUÍDO
+77,Wally Tolley,10/16/1957,F,Dor de cabeça,Falta de ar,Doença respiratória,2018-07-11 15:32:04,2019-01-05 09:34:14,2019-07-22 11:25:40,Hospital geral do vale do Jaguaribe,17,EM ATENDIMENTO
+78,Alvis Glander,04/26/1963,M,Dor no peito,Falta de ar,Doença respiratória,2018-05-17 14:56:34,2019-02-26 03:44:52,2019-06-15 08:47:39,Hospital São Raimundo,17,CONCLUÍDO
+79,Krissy Lintall,10/15/1969,F,Violência doméstica,Dor no peito,Doença respiratória,2018-03-11 22:47:29,2019-02-25 09:28:49,2019-04-05 19:02:59,Hospital e maternidade celestina colares,25,EM ATENDIMENTO
+80,Miltie Dilks,05/11/1944,M,Desmaio,Dor no peito,Hipertensão,2018-03-24 08:14:58,2019-02-23 05:12:05,2019-09-07 04:04:38,Hospital São Raimundo,33,AGUARDANDO
+81,Maureen Peperell,02/20/1952,F,Febre,Vômito,Doença respiratória,2018-07-20 16:38:33,,,Hospital São Raimundo,1,EM ATENDIMENTO
+82,Jordon Ord,04/14/2000,M,Dor no peito,Vômito,Diabetes,2018-04-16 09:57:59,,,Hospital e maternidade celestina colares,49,CONCLUÍDO
+83,Emmanuel Court,11/18/1979,M,Dor de cabeça,Dor no peito,Doença cardíaca,2018-08-23 07:27:07,2019-01-25 10:17:51,2019-05-01 07:23:50,Hospital São Raimundo,19,AGUARDANDO
+84,Udall Ert,10/10/2016,M,Acidente doméstico,Vômito,Doença cardíaca,2018-03-11 03:57:32,2019-01-24 05:40:26,2019-04-26 22:13:09,Hospital e maternidade celestina colares,50,EM ATENDIMENTO
+85,Jobina Demoge,03/21/2004,F,Acidente doméstico,Dor no peito,Hipertensão,2018-02-03 12:39:05,2019-01-22 05:31:08,2019-03-21 16:34:01,Hospital geral do vale do Jaguaribe,16,EM ATENDIMENTO
+86,Sarajane Beldom,07/02/1972,F,Dor no peito,Vômito,Doença cardíaca,2018-08-14 01:52:46,,,Hospital São Raimundo,48,EM ATENDIMENTO
+87,Rosamund Marmyon,08/26/1970,F,Dor de cabeça,Cansaço,Diabetes,2018-02-03 22:02:23,2019-02-12 13:22:54,2019-06-09 11:27:26,Hospital São Raimundo,9,CONCLUÍDO
+88,Archy Gunton,01/21/1958,M,Dor de cabeça,Dor no peito,Doença cardíaca,2018-11-04 02:41:15,,,Hospital e maternidade celestina colares,10,CONCLUÍDO
+89,Halley Slides,08/11/2017,F,Desmaio,Febre,Doença cardíaca,2018-09-21 16:55:40,,,Hospital e maternidade celestina colares,32,AGUARDANDO
+90,Brannon Firsby,02/05/1964,M,Acidente no trânsito,Falta de ar,Doença cardíaca,2018-02-02 14:45:57,,,Hospital São Raimundo,6,AGUARDANDO
+91,Alano Dimmne,06/13/1950,M,Acidente no trânsito,Falta de ar,Doença respiratória,2018-06-05 04:51:11,2019-01-23 06:48:14,2019-09-14 16:22:11,Hospital geral do vale do Jaguaribe,42,EM ATENDIMENTO
+92,Kahlil Hollebon,10/28/1956,M,Acidente doméstico,Dor de cabeça,Diabetes,2018-05-29 03:18:20,2019-02-18 08:12:51,2019-08-25 12:55:18,Hospital e maternidade celestina colares,28,EM ATENDIMENTO
+93,Boniface Kingzet,12/20/2011,M,Desmaio,Vômito,Doença respiratória,2018-12-26 03:36:58,,,Hospital São Raimundo,13,EM ATENDIMENTO
+94,Selene Busson,04/27/1943,F,Desmaio,Falta de ar,Hipertensão,2018-01-13 15:22:36,,,Hospital geral do vale do Jaguaribe,21,REALOCADO
+95,Erskine Hallut,05/13/2006,M,Febre,Dor no peito,Doença respiratória,2018-10-25 10:15:26,2019-01-28 12:19:32,2019-05-24 03:52:11,Hospital geral do vale do Jaguaribe,23,AGUARDANDO
+96,Werner Poupard,11/13/1949,M,Desmaio,Vômito,Doença cardíaca,2018-05-07 17:03:35,2019-01-16 07:55:33,2019-05-15 02:33:55,Hospital São Raimundo,27,AGUARDANDO
+97,Frannie Wherrit,09/29/1989,F,Violência doméstica,Dor no peito,Doença cardíaca,2018-06-03 02:37:42,2019-01-01 12:51:16,2019-09-20 05:50:12,Hospital São Raimundo,8,AGUARDANDO
+98,Odelle Callcott,05/18/1969,F,Violência doméstica,Febre,Diabetes,2018-03-16 22:24:12,2019-02-15 07:09:40,2019-10-08 23:07:48,Hospital São Raimundo,23,REALOCADO
+99,Hart Pinckstone,09/12/2010,M,Febre,Dor no peito,Diabetes,2018-05-24 09:27:27,2019-02-22 10:53:30,2019-08-21 08:13:12,Hospital São Raimundo,50,EM ATENDIMENTO
+100,Eberhard Joint,04/15/1981,M,Acidente doméstico,Cansaço,Hipertensão,2018-08-12 15:48:38,,,Hospital São Raimundo,7,CONCLUÍDO
+101,Emilio Allcoat,05/07/1976,M,Acidente no trânsito,Falta de ar,Doença cardíaca,2018-08-17 03:52:21,2019-01-13 19:51:52,2019-09-17 04:56:23,Hospital São Raimundo,17,CONCLUÍDO
+102,Craggy Al Hirsi,04/08/1960,M,Violência doméstica,Dor no peito,Diabetes,2018-04-05 07:47:59,,,Hospital geral do vale do Jaguaribe,42,EM ATENDIMENTO
+103,Raimund Swalteridge,12/16/2008,M,Desmaio,Dor no peito,Doença respiratória,2018-10-24 05:19:56,,,Hospital São Raimundo,46,REALOCADO
+104,Benji Biasetti,06/23/2007,M,Desmaio,Dor de cabeça,Hipertensão,2018-06-04 20:37:44,2019-02-07 09:36:38,2019-05-30 04:40:24,Hospital São Raimundo,22,EM ATENDIMENTO
+105,Rhody Janzen,05/02/1976,F,Febre,Falta de ar,Hipertensão,2018-12-25 06:51:34,2019-02-08 05:29:53,2019-06-15 20:36:27,Hospital geral do vale do Jaguaribe,27,CONCLUÍDO
+106,Rick Okroy,07/01/1986,M,Desmaio,Dor no peito,Doença respiratória,2018-04-21 23:05:35,,,Hospital São Raimundo,32,AGUARDANDO
+107,Anne Shooter,08/27/1980,F,Violência doméstica,Falta de ar,Doença cardíaca,2018-06-15 14:19:31,,,Hospital e maternidade celestina colares,11,AGUARDANDO
+108,Hector Lieber,04/30/2014,M,Acidente no trânsito,Cansaço,Doença respiratória,2018-08-05 19:13:41,2019-02-23 21:17:36,2019-04-29 11:41:45,Hospital e maternidade celestina colares,18,REALOCADO
+109,Wilmer Deyenhardt,08/15/1964,M,Dor de cabeça,Cansaço,Hipertensão,2018-08-03 12:16:59,2019-01-21 05:37:41,2019-09-19 06:20:34,Hospital e maternidade celestina colares,5,REALOCADO
+110,Ferne Habbema,06/08/1994,F,Dor no peito,Dor no peito,Hipertensão,2018-03-30 10:06:41,2019-02-20 13:40:34,2019-03-11 09:32:24,Hospital e maternidade celestina colares,38,REALOCADO
+111,Sylvia Loxston,02/26/1963,F,Desmaio,Dor no peito,Diabetes,2018-12-29 18:43:41,2019-02-17 05:41:18,2019-09-03 18:15:29,Hospital geral do vale do Jaguaribe,33,REALOCADO
+112,Janetta Gatward,01/31/1986,F,Acidente doméstico,Dor de cabeça,Hipertensão,2018-02-06 03:02:54,,,Hospital e maternidade celestina colares,33,CONCLUÍDO
+113,Aloin Gurwood,09/28/1949,M,Febre,Falta de ar,Diabetes,2018-01-14 08:10:43,,,Hospital geral do vale do Jaguaribe,6,REALOCADO
+114,Kirsti Peiser,08/14/1970,F,Dor no peito,Vômito,Doença respiratória,2018-03-23 21:40:10,,,Hospital São Raimundo,37,REALOCADO
+115,Dur Ferby,06/09/2000,M,Desmaio,Falta de ar,Hipertensão,2018-04-17 00:21:18,2019-02-14 19:57:16,2019-07-25 02:37:56,Hospital e maternidade celestina colares,13,REALOCADO
+116,Aubry Cuesta,03/28/1978,F,Violência doméstica,Cansaço,Diabetes,2018-10-14 03:12:46,2019-01-19 01:34:48,2019-04-03 13:57:12,Hospital geral do vale do Jaguaribe,12,REALOCADO
+117,Cherice Bakes,07/08/1985,F,Acidente doméstico,Febre,Diabetes,2018-12-23 08:22:50,2019-02-12 06:32:04,2019-04-19 07:39:52,Hospital e maternidade celestina colares,14,AGUARDANDO
+118,Nollie Rablen,07/25/1990,M,Acidente doméstico,Dor de cabeça,Doença cardíaca,2018-03-26 02:17:37,2019-01-21 03:00:56,2019-03-31 16:01:45,Hospital geral do vale do Jaguaribe,38,CONCLUÍDO
+119,Ryann Veldstra,10/16/1976,F,Dor no peito,Cansaço,Hipertensão,2018-08-27 01:38:57,2019-02-25 14:20:52,2019-08-16 13:50:45,Hospital geral do vale do Jaguaribe,43,CONCLUÍDO
+120,Gilbertina Piesing,02/27/2013,F,Acidente no trânsito,Dor de cabeça,Hipertensão,2018-09-10 09:00:10,2019-02-05 04:52:48,2019-08-14 21:49:10,Hospital e maternidade celestina colares,10,AGUARDANDO
+121,Lorianna Blackstone,02/26/2004,F,Acidente doméstico,Cansaço,Diabetes,2018-07-31 19:38:44,2019-01-26 05:52:35,2019-09-08 20:16:14,Hospital geral do vale do Jaguaribe,5,AGUARDANDO
+122,Trumaine Burfoot,05/07/1958,M,Dor no peito,Dor no peito,Doença respiratória,2018-03-09 00:31:21,,,Hospital geral do vale do Jaguaribe,3,EM ATENDIMENTO
+123,Garret Kyffin,07/17/1975,M,Acidente doméstico,Febre,Doença cardíaca,2018-09-04 23:13:38,,,Hospital e maternidade celestina colares,40,AGUARDANDO
+124,Alair Tetsall,11/13/1947,M,Acidente doméstico,Cansaço,Hipertensão,2018-04-29 14:05:56,2019-01-15 17:04:54,2019-07-30 14:19:03,Hospital São Raimundo,30,AGUARDANDO
+125,Hugh Biaggiotti,04/21/1943,M,Desmaio,Falta de ar,Doença cardíaca,2018-10-07 21:52:52,,,Hospital e maternidade celestina colares,31,EM ATENDIMENTO
+126,Vicky Danford,11/26/2017,F,Desmaio,Falta de ar,Diabetes,2018-06-02 23:36:28,,,Hospital São Raimundo,37,EM ATENDIMENTO
+127,Reuven Flaxon,05/04/2003,M,Acidente no trânsito,Dor de cabeça,Doença respiratória,2018-03-12 11:05:56,2019-02-06 17:33:55,2019-03-25 06:12:52,Hospital e maternidade celestina colares,11,AGUARDANDO
+128,Portie Huggins,12/05/1951,M,Dor no peito,Falta de ar,Doença respiratória,2018-06-22 16:58:30,2019-01-27 23:21:07,2019-06-05 16:39:35,Hospital São Raimundo,44,EM ATENDIMENTO
+129,Allie Brosini,11/15/1971,M,Dor de cabeça,Falta de ar,Hipertensão,2018-03-28 20:03:04,2019-02-08 09:22:43,2019-08-25 10:11:00,Hospital e maternidade celestina colares,7,AGUARDANDO
+130,Cleavland Cavolini,10/09/2016,M,Febre,Dor de cabeça,Doença respiratória,2018-11-22 07:44:44,2019-02-05 01:09:02,2019-03-26 06:51:11,Hospital São Raimundo,10,REALOCADO
+131,Dallas Elford,08/25/1999,F,Acidente doméstico,Falta de ar,Doença cardíaca,2018-07-04 21:25:36,,,Hospital e maternidade celestina colares,6,AGUARDANDO
+132,Becki Seyfart,09/15/1965,F,Violência doméstica,Febre,Diabetes,2018-10-26 09:18:03,2019-02-04 12:20:09,2019-09-08 13:55:01,Hospital e maternidade celestina colares,26,EM ATENDIMENTO
+133,Marian Bulger,01/11/1940,F,Acidente no trânsito,Dor no peito,Diabetes,2018-03-10 10:57:52,2019-01-06 12:55:05,2019-10-20 16:04:52,Hospital São Raimundo,21,CONCLUÍDO
+134,Adele Archambault,08/20/1961,F,Acidente no trânsito,Cansaço,Doença respiratória,2018-05-28 15:15:58,,,Hospital São Raimundo,44,AGUARDANDO
+135,Dulsea Mahody,07/24/1947,F,Desmaio,Dor no peito,Diabetes,2018-03-11 16:19:30,2019-02-19 00:26:21,2019-03-07 14:32:13,Hospital e maternidade celestina colares,38,CONCLUÍDO
+136,Herculie Phette,08/29/1997,M,Acidente doméstico,Dor no peito,Diabetes,2018-11-28 17:40:50,,,Hospital geral do vale do Jaguaribe,33,AGUARDANDO
+137,Rodolfo de Verson,08/24/1992,M,Dor de cabeça,Vômito,Hipertensão,2018-06-12 18:24:57,,,Hospital geral do vale do Jaguaribe,8,CONCLUÍDO
+138,Odille Copnar,08/14/1994,F,Acidente doméstico,Febre,Doença cardíaca,2018-09-17 02:53:39,2019-02-04 10:36:42,2019-09-22 21:45:11,Hospital geral do vale do Jaguaribe,44,REALOCADO
+139,Corbin Stuttman,09/05/1975,M,Violência doméstica,Febre,Doença respiratória,2018-10-30 17:31:45,2019-02-20 08:48:31,2019-04-07 12:37:21,Hospital geral do vale do Jaguaribe,41,CONCLUÍDO
+140,Harriette Mohammad,07/24/1942,F,Febre,Cansaço,Doença respiratória,2018-08-08 12:58:09,2019-02-15 12:17:49,2019-06-28 12:10:44,Hospital São Raimundo,38,AGUARDANDO
+141,Courtnay Portt,11/01/2017,F,Dor de cabeça,Dor de cabeça,Hipertensão,2018-06-21 09:10:02,2019-02-18 15:26:32,2019-05-30 20:05:03,Hospital geral do vale do Jaguaribe,39,AGUARDANDO
+142,Bunni Ilchenko,12/27/1952,F,Desmaio,Vômito,Doença cardíaca,2018-09-18 12:27:36,2019-02-27 16:12:38,2019-05-08 08:52:29,Hospital São Raimundo,48,REALOCADO
+143,Saundra Pawden,02/11/1941,F,Violência doméstica,Cansaço,Hipertensão,2018-11-23 18:19:37,2019-01-30 07:44:49,2019-07-18 15:11:24,Hospital e maternidade celestina colares,38,REALOCADO
+144,Alvan Dyble,05/21/1982,M,Dor no peito,Febre,Doença respiratória,2018-08-27 12:10:02,,,Hospital São Raimundo,20,EM ATENDIMENTO
+145,Robinia Barkus,02/06/1946,F,Desmaio,Vômito,Hipertensão,2018-11-06 06:16:38,2019-01-01 08:58:47,2019-07-10 09:02:10,Hospital geral do vale do Jaguaribe,38,AGUARDANDO
+146,Cynthea Lerego,01/23/1971,F,Desmaio,Vômito,Doença cardíaca,2018-03-12 16:07:37,2019-02-24 13:58:40,2019-09-20 21:59:57,Hospital São Raimundo,37,REALOCADO
+147,Albrecht Ashcroft,05/31/2007,M,Violência doméstica,Vômito,Diabetes,2018-10-30 22:43:50,2019-02-08 02:46:58,2019-05-31 16:03:33,Hospital São Raimundo,49,CONCLUÍDO
+148,Molli Station,05/18/2007,F,Dor de cabeça,Dor no peito,Hipertensão,2018-02-11 00:33:28,2019-02-12 04:08:08,2019-07-03 17:55:07,Hospital geral do vale do Jaguaribe,44,AGUARDANDO
+149,Conway Bouda,09/23/2002,M,Acidente no trânsito,Febre,Hipertensão,2018-01-27 11:21:13,2019-02-17 00:29:13,2019-06-13 22:44:49,Hospital geral do vale do Jaguaribe,13,EM ATENDIMENTO
+150,Cosimo MacCracken,11/11/1957,M,Desmaio,Febre,Doença cardíaca,2018-03-04 16:42:21,2019-02-21 10:34:05,2019-06-06 19:29:20,Hospital e maternidade celestina colares,5,EM ATENDIMENTO
+151,Sharleen Goodridge,08/15/2019,F,Febre,Febre,Hipertensão,2018-06-10 20:04:23,,,Hospital geral do vale do Jaguaribe,46,REALOCADO
+152,Atlante Klemmt,09/21/2013,F,Febre,Dor de cabeça,Doença respiratória,2018-07-28 12:22:14,,,Hospital São Raimundo,15,EM ATENDIMENTO
+153,Devinne Chate,05/17/1956,F,Febre,Dor no peito,Doença cardíaca,2018-03-16 01:29:37,,,Hospital geral do vale do Jaguaribe,50,AGUARDANDO
+154,Iorgos Forte,11/18/1948,M,Acidente no trânsito,Dor de cabeça,Hipertensão,2018-03-18 17:21:28,2019-02-07 05:24:03,2019-09-07 16:32:54,Hospital e maternidade celestina colares,20,EM ATENDIMENTO
+155,Esma Knevit,12/31/1991,F,Acidente no trânsito,Cansaço,Hipertensão,2018-02-13 02:40:17,2019-01-14 13:57:10,2019-04-07 11:00:28,Hospital São Raimundo,18,CONCLUÍDO
+156,Lombard Bruinemann,01/12/1942,M,Dor no peito,Dor de cabeça,Doença cardíaca,2018-06-03 11:06:00,2019-01-04 13:48:28,2019-04-01 21:22:03,Hospital e maternidade celestina colares,47,EM ATENDIMENTO
+157,Risa Snelling,02/11/1974,F,Febre,Cansaço,Diabetes,2018-07-01 06:19:37,2019-01-14 08:24:55,2019-05-30 20:59:51,Hospital e maternidade celestina colares,50,REALOCADO
+158,Rosette Schoenleiter,09/26/1953,F,Desmaio,Cansaço,Doença respiratória,2018-03-20 04:10:08,2019-02-23 15:27:39,2019-10-19 02:34:45,Hospital e maternidade celestina colares,9,EM ATENDIMENTO
+159,Krystalle Tal,02/04/2013,F,Dor de cabeça,Vômito,Hipertensão,2018-10-22 18:02:18,2019-02-22 04:06:20,2019-07-23 08:29:53,Hospital e maternidade celestina colares,19,AGUARDANDO
+160,Tracy McCartan,03/08/1965,F,Violência doméstica,Febre,Hipertensão,2018-08-07 16:32:58,,,Hospital e maternidade celestina colares,36,CONCLUÍDO
+161,Clea Audry,06/02/1981,F,Acidente no trânsito,Falta de ar,Doença respiratória,2018-12-08 08:56:46,2019-02-05 04:42:00,2019-09-29 01:58:41,Hospital e maternidade celestina colares,39,EM ATENDIMENTO
+162,Vassily Fury,03/29/1970,M,Acidente no trânsito,Cansaço,Doença cardíaca,2018-07-05 00:08:26,,,Hospital geral do vale do Jaguaribe,40,AGUARDANDO
+163,Cecil Merali,09/30/1978,F,Febre,Dor de cabeça,Doença cardíaca,2018-09-21 13:03:33,,,Hospital geral do vale do Jaguaribe,27,REALOCADO
+164,Valery Traise,09/03/1991,F,Acidente no trânsito,Dor de cabeça,Hipertensão,2018-09-28 22:26:05,2019-02-27 08:19:55,2019-10-12 10:11:42,Hospital São Raimundo,10,CONCLUÍDO
+165,Mychal Charville,08/15/1990,M,Febre,Febre,Diabetes,2018-08-03 03:08:55,,,Hospital e maternidade celestina colares,11,REALOCADO
+166,Sutherlan Powley,04/27/1953,M,Dor de cabeça,Febre,Doença respiratória,2018-02-19 08:16:11,2019-02-03 01:25:05,2019-10-22 01:28:29,Hospital geral do vale do Jaguaribe,32,EM ATENDIMENTO
+167,Marleah Crompton,06/09/1986,F,Acidente doméstico,Cansaço,Hipertensão,2018-03-27 06:56:15,2019-01-19 21:05:29,2019-04-03 09:32:52,Hospital e maternidade celestina colares,31,CONCLUÍDO
+168,Myca O'Corren,02/07/2014,M,Violência doméstica,Dor de cabeça,Doença respiratória,2018-09-22 14:49:29,2019-02-13 21:01:49,2019-03-16 08:49:21,Hospital e maternidade celestina colares,13,REALOCADO
+169,Lisbeth Lathe,05/16/1991,F,Acidente doméstico,Dor de cabeça,Doença cardíaca,2018-09-19 00:40:59,2019-01-18 22:50:25,2019-07-18 08:20:40,Hospital São Raimundo,42,CONCLUÍDO
+170,Corbin Gillingwater,09/04/2005,M,Acidente doméstico,Febre,Hipertensão,2018-05-20 21:49:12,,,Hospital e maternidade celestina colares,20,AGUARDANDO
+171,Dodie Mellmoth,05/14/1955,F,Febre,Dor de cabeça,Doença cardíaca,2018-07-08 10:28:16,2019-02-08 08:27:38,2019-08-20 00:50:07,Hospital São Raimundo,29,EM ATENDIMENTO
+172,Brendin Gylle,05/11/1984,M,Violência doméstica,Falta de ar,Doença respiratória,2018-09-21 21:45:16,2019-01-10 17:52:42,2019-10-01 06:40:53,Hospital e maternidade celestina colares,43,CONCLUÍDO
+173,Kristos Feye,04/17/1967,M,Acidente no trânsito,Dor no peito,Hipertensão,2018-02-18 01:53:39,2019-01-04 13:06:15,2019-09-26 05:26:19,Hospital São Raimundo,40,CONCLUÍDO
+174,Jerald Machent,07/16/1962,M,Dor no peito,Dor no peito,Diabetes,2018-04-13 14:20:09,,,Hospital geral do vale do Jaguaribe,14,CONCLUÍDO
+175,Moselle Jacke,10/10/1997,F,Desmaio,Dor de cabeça,Diabetes,2018-11-26 03:43:30,2019-01-23 09:55:17,2019-04-26 00:03:19,Hospital geral do vale do Jaguaribe,14,REALOCADO
+176,Kincaid McCunn,08/12/2010,M,Febre,Falta de ar,Doença cardíaca,2018-07-01 19:48:46,2019-01-25 00:55:40,2019-03-07 18:31:27,Hospital São Raimundo,5,EM ATENDIMENTO
+177,Elmira Stanier,06/27/1949,F,Desmaio,Dor de cabeça,Doença respiratória,2018-05-27 20:46:30,2019-02-18 15:12:19,2019-03-06 10:01:40,Hospital e maternidade celestina colares,41,AGUARDANDO
+178,Aldo Eshmade,06/11/2015,M,Acidente doméstico,Vômito,Hipertensão,2018-05-17 19:08:22,2019-02-11 16:03:03,2019-05-22 21:53:55,Hospital geral do vale do Jaguaribe,23,REALOCADO
+179,Towny Harvison,08/16/1995,M,Acidente no trânsito,Dor no peito,Doença respiratória,2018-01-17 09:40:59,2019-01-22 12:30:01,2019-07-17 09:03:17,Hospital geral do vale do Jaguaribe,22,AGUARDANDO
+180,Major Balharrie,07/04/1973,M,Dor no peito,Febre,Doença respiratória,2018-12-13 23:34:56,2019-01-08 03:16:29,2019-06-24 01:03:27,Hospital São Raimundo,29,AGUARDANDO
+181,Rosamond Perrott,09/05/1995,F,Febre,Dor no peito,Doença respiratória,2018-10-12 11:13:41,,,Hospital São Raimundo,46,REALOCADO
+182,Graeme Barrett,03/22/1953,M,Dor de cabeça,Dor no peito,Hipertensão,2018-12-10 15:38:34,2019-01-26 18:56:23,2019-09-27 17:52:46,Hospital e maternidade celestina colares,17,AGUARDANDO
+183,Iago Lequeux,04/17/2008,M,Acidente doméstico,Febre,Doença respiratória,2018-05-13 20:03:44,2019-01-08 02:26:42,2019-05-20 01:57:37,Hospital geral do vale do Jaguaribe,44,EM ATENDIMENTO
+184,Marlene Perott,05/10/1986,F,Febre,Dor de cabeça,Diabetes,2018-12-29 18:37:42,,,Hospital São Raimundo,40,REALOCADO
+185,Judd Flacke,04/09/1990,M,Acidente doméstico,Dor de cabeça,Diabetes,2018-02-11 11:15:08,,,Hospital e maternidade celestina colares,6,AGUARDANDO
+186,Katusha Andrzejczak,11/28/1983,F,Desmaio,Falta de ar,Hipertensão,2018-10-04 04:39:13,2019-01-30 14:35:13,2019-10-10 13:15:07,Hospital São Raimundo,15,EM ATENDIMENTO
+187,Candi West,04/17/1944,F,Violência doméstica,Falta de ar,Doença respiratória,2018-06-24 18:45:19,2019-02-12 17:21:01,2019-08-17 23:43:17,Hospital geral do vale do Jaguaribe,25,REALOCADO
+188,Cesare Rodger,07/27/1989,M,Acidente no trânsito,Febre,Doença respiratória,2018-10-23 06:12:30,,,Hospital geral do vale do Jaguaribe,32,EM ATENDIMENTO
+189,Caesar Jephcott,10/13/1988,M,Desmaio,Dor de cabeça,Doença respiratória,2018-02-07 10:47:12,2019-02-25 22:32:33,2019-06-27 05:23:34,Hospital e maternidade celestina colares,10,AGUARDANDO
+190,Stanly Christophle,08/03/1949,M,Dor de cabeça,Cansaço,Hipertensão,2018-10-07 01:50:00,2019-02-15 10:03:21,2019-05-19 14:48:09,Hospital São Raimundo,40,REALOCADO
+191,Teresa Holburn,11/15/1979,F,Violência doméstica,Falta de ar,Doença cardíaca,2018-07-18 13:28:46,,,Hospital São Raimundo,24,REALOCADO
+192,Edmund Brenard,05/03/2018,M,Violência doméstica,Falta de ar,Hipertensão,2018-11-05 01:58:13,2019-01-22 06:27:31,2019-09-09 03:55:27,Hospital e maternidade celestina colares,6,CONCLUÍDO
+193,Bradney Arkill,10/02/1940,M,Desmaio,Dor de cabeça,Doença cardíaca,2018-10-21 08:18:33,2019-01-12 12:06:26,2019-07-19 12:15:06,Hospital São Raimundo,29,CONCLUÍDO
+194,Vanessa Cardoo,04/15/1971,F,Dor no peito,Dor de cabeça,Doença respiratória,2018-04-10 06:18:32,,,Hospital geral do vale do Jaguaribe,35,REALOCADO
+195,Valaria Labb,01/31/2003,F,Febre,Dor no peito,Doença cardíaca,2018-12-11 16:58:34,2019-02-10 21:14:31,2019-09-15 06:06:59,Hospital e maternidade celestina colares,23,AGUARDANDO
+196,Neill Corryer,11/03/1990,M,Desmaio,Dor de cabeça,Doença respiratória,2018-01-22 09:57:39,2019-01-16 00:00:52,2019-09-08 20:28:11,Hospital geral do vale do Jaguaribe,8,CONCLUÍDO
+197,Kenneth Doucette,05/16/2002,M,Dor de cabeça,Vômito,Diabetes,2018-03-18 12:40:08,2019-02-24 07:50:54,2019-06-01 13:51:43,Hospital geral do vale do Jaguaribe,47,AGUARDANDO
+198,Willie Koppelmann,11/08/1943,M,Desmaio,Febre,Doença cardíaca,2018-05-14 02:58:17,,,Hospital e maternidade celestina colares,10,EM ATENDIMENTO
+199,Silvana Dufty,03/09/1972,F,Acidente no trânsito,Febre,Doença respiratória,2018-02-17 15:23:49,2019-02-07 15:09:59,2019-09-10 00:08:44,Hospital e maternidade celestina colares,2,EM ATENDIMENTO
+200,Krispin Ingledow,11/23/2009,M,Acidente doméstico,Vômito,Doença respiratória,2018-12-07 13:03:13,,,Hospital geral do vale do Jaguaribe,29,EM ATENDIMENTO
+201,Emera Crannage,12/10/1998,F,Acidente no trânsito,Dor de cabeça,Hipertensão,2018-09-01 20:53:27,2019-02-26 15:46:17,2019-08-07 08:29:17,Hospital geral do vale do Jaguaribe,27,CONCLUÍDO
+202,Tillie Pardy,09/11/2001,F,Dor de cabeça,Cansaço,Diabetes,2018-02-19 12:36:02,2019-01-09 12:22:30,2019-07-08 04:53:38,Hospital São Raimundo,33,CONCLUÍDO
+203,Elinore Hedde,04/25/1945,F,Febre,Falta de ar,Diabetes,2018-09-15 17:26:18,2019-02-26 06:00:19,2019-08-23 13:13:13,Hospital São Raimundo,23,EM ATENDIMENTO
+204,Torrin Vittery,02/18/1989,M,Acidente no trânsito,Falta de ar,Diabetes,2018-01-16 07:43:12,2019-02-22 04:08:21,2019-05-01 05:37:56,Hospital São Raimundo,50,CONCLUÍDO
+205,Aurore Gumme,03/25/1943,F,Dor de cabeça,Vômito,Doença respiratória,2018-07-29 13:33:26,2019-01-25 08:20:12,2019-05-08 03:02:04,Hospital e maternidade celestina colares,5,AGUARDANDO
+206,Gaby Mc Faul,02/19/2015,F,Desmaio,Dor no peito,Hipertensão,2018-04-15 22:56:09,,,Hospital geral do vale do Jaguaribe,32,AGUARDANDO
+207,Cazzie Lehrer,10/22/2001,M,Dor no peito,Falta de ar,Hipertensão,2018-05-25 08:12:56,2019-02-09 00:48:19,2019-08-22 10:33:38,Hospital e maternidade celestina colares,17,EM ATENDIMENTO
+208,Thaxter Corney,12/26/2001,M,Dor no peito,Falta de ar,Hipertensão,2018-07-03 06:38:07,,,Hospital e maternidade celestina colares,7,CONCLUÍDO
+209,Karlotta Gammage,02/07/1952,F,Dor de cabeça,Dor no peito,Diabetes,2018-06-29 18:53:10,2019-02-24 14:00:18,2019-09-02 15:44:27,Hospital geral do vale do Jaguaribe,49,REALOCADO
+210,Riley Albarez,08/20/1992,M,Dor no peito,Dor no peito,Diabetes,2018-06-20 05:42:38,2019-02-06 22:12:26,2019-07-23 23:23:51,Hospital São Raimundo,29,EM ATENDIMENTO
+211,Minny Haszard,05/23/1954,F,Dor de cabeça,Dor de cabeça,Diabetes,2018-06-14 22:16:13,2019-02-22 07:45:14,2019-06-20 09:28:03,Hospital São Raimundo,30,AGUARDANDO
+212,Lefty Lattimore,07/11/1956,M,Febre,Cansaço,Doença respiratória,2018-06-21 18:39:02,2019-02-01 08:13:36,2019-03-03 23:41:19,Hospital geral do vale do Jaguaribe,31,AGUARDANDO
+213,Gill Yoxen,03/02/1993,M,Febre,Cansaço,Hipertensão,2018-02-09 02:43:59,2019-02-27 21:54:52,2019-08-17 11:20:48,Hospital e maternidade celestina colares,9,EM ATENDIMENTO
+214,Dela Fontel,08/27/1967,F,Desmaio,Febre,Doença respiratória,2018-05-02 01:14:14,2019-02-22 02:15:33,2019-06-08 11:37:43,Hospital São Raimundo,7,AGUARDANDO
+215,Aryn Balmadier,05/16/1973,F,Dor de cabeça,Dor no peito,Hipertensão,2018-07-13 01:44:16,2019-01-06 13:54:24,2019-10-10 19:06:18,Hospital geral do vale do Jaguaribe,46,AGUARDANDO
+216,Raychel Garvie,05/12/2007,F,Dor no peito,Dor no peito,Diabetes,2018-03-28 11:19:24,2019-01-15 01:51:07,2019-10-05 16:26:59,Hospital São Raimundo,3,CONCLUÍDO
+217,Amabel Straker,08/13/2013,F,Dor no peito,Dor de cabeça,Diabetes,2018-03-17 05:58:03,2019-02-23 12:12:53,2019-03-02 06:04:42,Hospital geral do vale do Jaguaribe,22,EM ATENDIMENTO
+218,Verile Roscamp,07/28/2011,F,Dor no peito,Falta de ar,Doença cardíaca,2018-09-07 19:36:37,2019-01-12 23:40:03,2019-05-04 16:54:45,Hospital geral do vale do Jaguaribe,34,CONCLUÍDO
+219,Antonia Aris,03/09/1981,F,Dor no peito,Febre,Hipertensão,2018-11-24 18:25:03,,,Hospital geral do vale do Jaguaribe,16,AGUARDANDO
+220,Ricoriki Hintzer,03/05/1994,M,Acidente doméstico,Dor no peito,Doença respiratória,2018-05-05 16:01:03,2019-01-06 08:27:15,2019-03-16 15:08:51,Hospital geral do vale do Jaguaribe,6,EM ATENDIMENTO
+221,Shaylah Bresnen,03/14/1952,F,Acidente no trânsito,Dor de cabeça,Doença respiratória,2018-02-19 03:20:23,2019-02-01 07:45:47,2019-08-13 19:40:18,Hospital geral do vale do Jaguaribe,20,EM ATENDIMENTO
+222,Demetra Canham,10/23/1970,F,Febre,Febre,Hipertensão,2018-03-04 20:09:42,2019-01-13 13:08:16,2019-08-27 11:36:39,Hospital geral do vale do Jaguaribe,50,AGUARDANDO
+223,Chester Dalyiel,09/09/1984,M,Acidente no trânsito,Dor no peito,Hipertensão,2018-08-10 17:21:59,2019-02-21 06:32:06,2019-09-26 05:07:16,Hospital São Raimundo,11,AGUARDANDO
+224,Lukas Grishechkin,04/02/2008,M,Acidente no trânsito,Dor no peito,Doença respiratória,2018-07-02 19:04:11,,,Hospital São Raimundo,24,CONCLUÍDO
+225,Ellissa O'Dowgaine,08/01/1973,F,Acidente doméstico,Dor de cabeça,Diabetes,2018-02-11 15:56:27,2019-02-25 19:19:36,2019-05-20 22:51:19,Hospital geral do vale do Jaguaribe,15,EM ATENDIMENTO
+226,Eachelle Mullett,10/30/1949,F,Dor de cabeça,Febre,Diabetes,2018-06-05 18:53:52,2019-02-01 04:11:58,2019-04-03 15:15:19,Hospital e maternidade celestina colares,1,CONCLUÍDO
+227,Kettie Scottini,11/26/1961,F,Dor de cabeça,Falta de ar,Doença cardíaca,2018-02-03 15:51:24,,,Hospital São Raimundo,28,EM ATENDIMENTO
+228,Laughton Revett,11/05/1947,M,Desmaio,Dor no peito,Diabetes,2018-05-19 16:42:24,2019-01-09 04:28:04,2019-06-11 03:19:23,Hospital e maternidade celestina colares,49,AGUARDANDO
+229,Manolo Jeffels,02/12/1983,M,Acidente doméstico,Febre,Doença respiratória,2018-05-20 15:36:45,2019-01-20 04:57:28,2019-03-17 11:30:00,Hospital geral do vale do Jaguaribe,10,CONCLUÍDO
+230,Aubert Chrichton,11/07/1963,M,Dor de cabeça,Febre,Hipertensão,2018-04-06 10:29:07,2019-01-29 01:11:56,2019-10-04 21:26:31,Hospital e maternidade celestina colares,45,EM ATENDIMENTO
+231,Llewellyn Rickardsson,01/15/1962,M,Dor no peito,Dor de cabeça,Diabetes,2018-10-31 03:35:23,,,Hospital e maternidade celestina colares,41,EM ATENDIMENTO
+232,Elihu Newtown,05/26/2002,M,Acidente doméstico,Dor no peito,Hipertensão,2018-04-28 08:55:45,2019-02-23 02:23:16,2019-07-27 00:26:30,Hospital e maternidade celestina colares,3,AGUARDANDO
+233,Page Silman,10/30/1954,M,Violência doméstica,Falta de ar,Hipertensão,2018-01-22 15:20:21,,,Hospital São Raimundo,36,REALOCADO
+234,Orel Redmille,02/28/1959,F,Febre,Dor de cabeça,Diabetes,2018-02-05 07:25:02,2019-01-14 12:13:32,2019-08-26 14:18:05,Hospital São Raimundo,21,AGUARDANDO
+235,Reggie Balham,03/10/1980,F,Desmaio,Cansaço,Doença cardíaca,2018-05-10 14:38:47,2019-02-19 00:26:39,2019-08-28 03:17:24,Hospital geral do vale do Jaguaribe,23,REALOCADO
+236,Hogan Chellingworth,10/05/1965,M,Violência doméstica,Dor no peito,Doença respiratória,2018-02-06 12:26:56,,,Hospital São Raimundo,6,AGUARDANDO
+237,Munroe De Lacey,09/05/1964,M,Acidente doméstico,Dor de cabeça,Doença cardíaca,2018-12-15 15:58:52,2019-01-12 06:54:39,2019-09-01 10:09:47,Hospital São Raimundo,4,REALOCADO
+238,Kimball Pendred,10/22/2018,M,Febre,Febre,Doença cardíaca,2018-09-23 22:14:44,2019-02-21 05:16:28,2019-04-08 10:25:14,Hospital São Raimundo,28,CONCLUÍDO
+239,Glenda Luten,07/19/2006,F,Desmaio,Cansaço,Hipertensão,2018-06-02 10:32:22,2019-02-19 01:17:50,2019-09-13 10:35:11,Hospital e maternidade celestina colares,16,EM ATENDIMENTO
+240,Barnebas Alyukin,08/30/2017,M,Acidente no trânsito,Cansaço,Hipertensão,2018-11-10 19:06:22,,,Hospital geral do vale do Jaguaribe,24,CONCLUÍDO
+241,Dawn Melloi,10/13/2019,F,Acidente doméstico,Febre,Doença cardíaca,2018-02-11 11:53:32,,,Hospital geral do vale do Jaguaribe,43,REALOCADO
+242,Nissie Gotfrey,05/19/1995,F,Dor de cabeça,Vômito,Doença respiratória,2018-07-28 17:22:44,2019-02-06 17:23:57,2019-09-01 00:07:06,Hospital e maternidade celestina colares,33,REALOCADO
+243,Samantha Malenoir,08/25/2013,F,Acidente no trânsito,Dor de cabeça,Doença cardíaca,2018-05-02 18:34:33,2019-01-05 07:52:37,2019-08-17 03:54:33,Hospital geral do vale do Jaguaribe,38,REALOCADO
+244,Trudey Cranefield,12/18/1944,F,Dor no peito,Dor no peito,Hipertensão,2018-12-16 18:42:49,,,Hospital São Raimundo,47,CONCLUÍDO
+245,Fitz Ball,10/03/1980,M,Desmaio,Cansaço,Doença cardíaca,2018-12-16 20:01:48,2019-02-26 10:31:31,2019-04-29 18:34:31,Hospital geral do vale do Jaguaribe,42,REALOCADO
+246,Simonette Stebbin,07/28/2017,F,Acidente no trânsito,Dor no peito,Diabetes,2018-11-11 19:26:15,,,Hospital São Raimundo,15,AGUARDANDO
+247,Brenna Von Der Empten,07/03/2001,F,Desmaio,Falta de ar,Hipertensão,2018-08-12 06:31:01,,,Hospital São Raimundo,46,AGUARDANDO
+248,Dusty Capstaff,12/10/1996,F,Febre,Cansaço,Diabetes,2018-05-30 10:26:27,,,Hospital São Raimundo,49,EM ATENDIMENTO
+249,Suzette Whear,07/15/1975,F,Dor no peito,Dor no peito,Hipertensão,2018-04-09 18:15:25,2019-01-13 16:27:05,2019-07-15 12:19:13,Hospital e maternidade celestina colares,44,REALOCADO
+250,Hart Hopkyns,10/21/1973,M,Dor no peito,Falta de ar,Hipertensão,2018-09-03 21:21:50,,,Hospital geral do vale do Jaguaribe,17,EM ATENDIMENTO
+251,Andres Bougourd,03/23/1989,M,Acidente no trânsito,Vômito,Diabetes,2018-06-17 08:18:10,,,Hospital geral do vale do Jaguaribe,42,CONCLUÍDO
+252,Raf Tasseler,05/19/2018,F,Dor no peito,Falta de ar,Doença cardíaca,2018-10-06 21:01:40,,,Hospital São Raimundo,7,EM ATENDIMENTO
+253,Luelle Ors,07/30/2019,F,Desmaio,Cansaço,Diabetes,2018-03-25 06:12:13,2019-01-15 03:05:05,2019-03-25 17:42:27,Hospital São Raimundo,9,AGUARDANDO
+254,Nealy Niaves,04/10/1981,M,Violência doméstica,Cansaço,Hipertensão,2018-04-02 08:37:05,2019-01-10 15:29:04,2019-03-13 09:17:42,Hospital geral do vale do Jaguaribe,34,EM ATENDIMENTO
+255,Cletis Warmisham,12/09/1975,M,Acidente no trânsito,Falta de ar,Doença respiratória,2018-05-29 16:24:43,,,Hospital e maternidade celestina colares,16,CONCLUÍDO
+256,Stephana Belcher,08/20/1957,F,Dor no peito,Falta de ar,Hipertensão,2018-06-13 21:23:24,2019-02-25 14:26:42,2019-10-01 16:21:55,Hospital São Raimundo,40,EM ATENDIMENTO
+257,Meredithe Ellsworthe,08/14/1967,F,Dor no peito,Dor de cabeça,Doença respiratória,2018-05-23 07:14:29,2019-01-18 13:07:16,2019-04-04 16:47:03,Hospital São Raimundo,18,REALOCADO
+258,Gregg Duffield,04/24/1970,M,Acidente doméstico,Cansaço,Diabetes,2018-12-25 16:52:20,2019-02-15 06:54:18,2019-07-06 18:56:16,Hospital São Raimundo,30,EM ATENDIMENTO
+259,Clareta Dullard,04/26/1952,F,Dor de cabeça,Vômito,Doença respiratória,2018-06-07 02:05:15,2019-02-16 08:07:12,2019-08-31 12:23:45,Hospital geral do vale do Jaguaribe,46,REALOCADO
+260,Ody Danelet,12/20/1978,M,Febre,Falta de ar,Doença respiratória,2018-08-10 15:21:39,2019-02-09 21:42:39,2019-06-08 07:51:54,Hospital São Raimundo,10,REALOCADO
+261,Winfield Blader,12/14/1942,M,Dor no peito,Febre,Doença cardíaca,2018-11-07 03:44:22,2019-01-27 07:49:40,2019-10-09 11:41:31,Hospital geral do vale do Jaguaribe,29,REALOCADO
+262,Micah Bacon,10/29/2012,M,Dor no peito,Febre,Diabetes,2018-03-31 11:49:00,2019-01-06 13:34:09,2019-04-29 15:41:41,Hospital e maternidade celestina colares,24,CONCLUÍDO
+263,Jacquenetta Wornum,05/07/2012,F,Dor no peito,Dor no peito,Doença respiratória,2018-04-12 08:23:38,2019-01-30 05:49:30,2019-08-12 14:18:51,Hospital geral do vale do Jaguaribe,21,AGUARDANDO
+264,Cletus Grigoryov,01/10/2017,M,Acidente doméstico,Dor de cabeça,Hipertensão,2018-03-25 05:25:20,2019-02-14 16:30:36,2019-04-22 04:52:01,Hospital geral do vale do Jaguaribe,33,EM ATENDIMENTO
+265,Rem Lafond,12/10/2005,M,Violência doméstica,Vômito,Doença cardíaca,2018-10-07 06:58:17,2019-02-13 15:10:03,2019-08-13 12:05:00,Hospital geral do vale do Jaguaribe,20,CONCLUÍDO
+266,Whitaker Ainge,12/27/1981,M,Violência doméstica,Vômito,Diabetes,2018-08-13 10:43:29,,,Hospital geral do vale do Jaguaribe,30,CONCLUÍDO
+267,Quillan Knewstub,03/31/1973,M,Desmaio,Falta de ar,Doença respiratória,2018-07-20 23:04:41,2019-01-23 17:51:43,2019-10-10 18:46:32,Hospital geral do vale do Jaguaribe,15,CONCLUÍDO
+268,Billie Draxford,04/24/1958,F,Acidente no trânsito,Dor no peito,Doença respiratória,2018-04-17 13:21:24,,,Hospital e maternidade celestina colares,6,CONCLUÍDO
+269,Bary Bedrosian,10/15/1940,M,Dor no peito,Vômito,Doença cardíaca,2018-11-20 17:20:18,2019-02-05 08:02:38,2019-05-16 19:44:08,Hospital São Raimundo,10,REALOCADO
+270,Francisca Ogilby,03/12/2001,F,Violência doméstica,Dor no peito,Hipertensão,2018-10-19 06:28:31,2019-01-20 13:27:09,2019-04-05 07:50:22,Hospital geral do vale do Jaguaribe,20,CONCLUÍDO
+271,Byrom Ciraldo,02/26/2016,M,Violência doméstica,Falta de ar,Diabetes,2018-11-18 03:46:32,,,Hospital geral do vale do Jaguaribe,35,CONCLUÍDO
+272,Kaia Revie,02/08/1991,F,Acidente no trânsito,Dor de cabeça,Doença cardíaca,2018-10-10 22:52:50,2019-02-05 05:24:53,2019-04-03 14:15:41,Hospital geral do vale do Jaguaribe,9,CONCLUÍDO
+273,Friederike Thamelt,10/21/1948,F,Acidente doméstico,Febre,Diabetes,2018-03-16 05:36:56,,,Hospital São Raimundo,11,AGUARDANDO
+274,Sollie Remon,01/16/1983,M,Acidente no trânsito,Febre,Doença cardíaca,2018-09-17 22:59:59,2019-01-17 03:27:56,2019-09-29 17:57:08,Hospital São Raimundo,40,CONCLUÍDO
+275,Wayne Cancelier,11/14/1997,M,Violência doméstica,Febre,Hipertensão,2018-04-23 22:30:34,,,Hospital geral do vale do Jaguaribe,10,EM ATENDIMENTO
+276,Nikoletta Bentame,12/11/1972,F,Desmaio,Falta de ar,Doença respiratória,2018-02-07 06:11:39,2019-01-14 10:43:55,2019-06-28 20:28:12,Hospital e maternidade celestina colares,24,REALOCADO
+277,Wit Learmond,05/16/1995,M,Dor de cabeça,Dor de cabeça,Hipertensão,2018-07-29 10:04:41,2019-01-07 12:51:21,2019-05-11 17:19:34,Hospital e maternidade celestina colares,40,AGUARDANDO
+278,Patric Laurenceau,01/27/2017,M,Acidente doméstico,Dor de cabeça,Doença respiratória,2018-04-03 08:20:42,2019-01-28 02:24:23,2019-09-05 03:56:58,Hospital São Raimundo,8,EM ATENDIMENTO
+279,Raoul Swinglehurst,01/10/2005,M,Desmaio,Falta de ar,Doença cardíaca,2018-05-25 11:38:17,,,Hospital e maternidade celestina colares,42,REALOCADO
+280,Ellerey Litton,07/15/1960,M,Acidente doméstico,Cansaço,Diabetes,2018-10-04 15:56:42,2019-02-19 07:16:21,2019-08-03 23:59:32,Hospital e maternidade celestina colares,4,CONCLUÍDO
+281,Lief Woolnough,07/13/1998,M,Violência doméstica,Dor no peito,Hipertensão,2018-06-09 16:57:31,,,Hospital São Raimundo,16,AGUARDANDO
+282,Brendin Wedmore.,06/02/1977,M,Acidente doméstico,Dor de cabeça,Doença respiratória,2018-12-24 22:22:36,2019-01-06 12:45:56,2019-10-07 16:43:04,Hospital geral do vale do Jaguaribe,38,EM ATENDIMENTO
+283,Rhetta Springle,05/23/2016,F,Acidente no trânsito,Cansaço,Hipertensão,2018-04-17 05:28:24,2019-02-26 14:07:12,2019-05-03 18:32:49,Hospital São Raimundo,32,REALOCADO
+284,Winne Haestier,04/22/1951,F,Dor de cabeça,Cansaço,Diabetes,2018-12-13 05:17:28,2019-01-05 12:32:40,2019-03-04 04:24:58,Hospital geral do vale do Jaguaribe,38,AGUARDANDO
+285,Jessy Munton,01/24/1999,F,Acidente doméstico,Falta de ar,Doença cardíaca,2018-01-13 13:17:47,2019-01-24 21:40:39,2019-05-08 15:23:07,Hospital geral do vale do Jaguaribe,35,CONCLUÍDO
+286,Vernen Smeal,10/11/1941,M,Febre,Dor de cabeça,Doença respiratória,2018-04-25 12:18:18,2019-02-19 12:26:24,2019-09-01 23:59:55,Hospital geral do vale do Jaguaribe,32,AGUARDANDO
+287,Elisha Bangham,10/14/1964,F,Acidente no trânsito,Febre,Doença respiratória,2018-03-18 09:50:50,,,Hospital e maternidade celestina colares,46,CONCLUÍDO
+288,Darby Grimston,10/13/1990,F,Dor no peito,Cansaço,Hipertensão,2018-09-17 06:20:24,2019-01-10 03:12:12,2019-07-11 21:02:30,Hospital São Raimundo,38,CONCLUÍDO
+289,Estel Widdowfield,06/09/1964,F,Febre,Febre,Doença cardíaca,2018-04-26 23:25:52,2019-02-27 03:58:34,2019-05-27 05:30:14,Hospital geral do vale do Jaguaribe,38,AGUARDANDO
+290,Tallia Kinneir,04/17/1993,F,Dor de cabeça,Dor de cabeça,Diabetes,2018-11-13 17:53:06,2019-01-10 19:12:31,2019-08-02 03:03:25,Hospital e maternidade celestina colares,29,REALOCADO
+291,Regina Sinderson,01/08/2004,F,Desmaio,Dor de cabeça,Doença respiratória,2018-04-15 18:16:42,2019-02-05 09:19:45,2019-07-17 00:10:04,Hospital geral do vale do Jaguaribe,50,CONCLUÍDO
+292,Ignace Morfett,07/04/1984,M,Dor de cabeça,Vômito,Doença cardíaca,2018-04-26 21:35:20,2019-01-09 18:40:12,2019-10-12 22:21:37,Hospital e maternidade celestina colares,16,EM ATENDIMENTO
+293,Evvy Stockdale,12/28/2013,F,Dor de cabeça,Vômito,Doença cardíaca,2018-03-31 18:12:41,2019-01-23 11:46:35,2019-04-27 11:01:43,Hospital geral do vale do Jaguaribe,42,REALOCADO
+294,Jarrid Ghiotto,08/25/2018,M,Dor de cabeça,Falta de ar,Doença cardíaca,2018-06-15 06:12:13,2019-01-14 22:47:51,2019-06-02 03:14:06,Hospital geral do vale do Jaguaribe,12,CONCLUÍDO
+295,Mira Castlake,12/01/1947,F,Febre,Cansaço,Diabetes,2018-12-11 21:03:11,2019-01-08 11:34:37,2019-08-16 11:51:30,Hospital São Raimundo,3,CONCLUÍDO
+296,Shane Ewols,02/28/1964,M,Febre,Vômito,Doença cardíaca,2018-12-14 18:46:41,2019-01-28 07:09:16,2019-06-26 16:25:20,Hospital São Raimundo,18,AGUARDANDO
+297,Darrelle Hodgets,06/27/1946,F,Acidente doméstico,Falta de ar,Diabetes,2018-08-26 12:32:23,2019-01-28 02:20:12,2019-08-16 18:23:25,Hospital geral do vale do Jaguaribe,24,CONCLUÍDO
+298,Jarrod Felstead,06/05/1972,M,Desmaio,Dor no peito,Diabetes,2018-01-22 09:11:22,2019-02-04 00:50:26,2019-03-21 20:30:27,Hospital São Raimundo,31,REALOCADO
+299,Jinny Courtonne,11/27/1971,F,Acidente doméstico,Dor no peito,Hipertensão,2018-10-12 09:41:46,2019-01-27 20:41:05,2019-07-14 00:31:27,Hospital e maternidade celestina colares,1,REALOCADO
+300,Saree Sommerfeld,10/08/2014,F,Acidente no trânsito,Cansaço,Doença respiratória,2018-11-04 13:37:55,2019-02-02 17:59:24,2019-05-19 14:19:07,Hospital São Raimundo,28,EM ATENDIMENTO
+301,Bern Artis,01/08/1969,M,Acidente no trânsito,Falta de ar,Diabetes,2018-04-06 08:44:49,,,Hospital geral do vale do Jaguaribe,25,CONCLUÍDO
+302,Skell Overall,04/06/2011,M,Acidente no trânsito,Cansaço,Doença cardíaca,2018-04-05 22:05:50,2019-01-31 03:00:02,2019-10-04 13:46:36,Hospital geral do vale do Jaguaribe,19,REALOCADO
+303,Emiline Mc Elory,10/28/2012,F,Desmaio,Cansaço,Doença cardíaca,2018-05-13 05:16:48,2019-02-04 19:26:39,2019-03-20 00:26:37,Hospital geral do vale do Jaguaribe,12,REALOCADO
+304,Brandi Queen,07/11/1961,F,Febre,Dor no peito,Doença cardíaca,2018-09-04 14:08:09,,,Hospital e maternidade celestina colares,26,AGUARDANDO
+305,Bruno Stockdale,02/25/1994,M,Dor no peito,Vômito,Diabetes,2018-11-01 15:24:04,,,Hospital geral do vale do Jaguaribe,22,CONCLUÍDO
+306,Shepard Siveter,08/07/1990,M,Desmaio,Febre,Doença cardíaca,2018-10-30 08:36:29,,,Hospital geral do vale do Jaguaribe,26,EM ATENDIMENTO
+307,Sky Tasseler,11/04/1985,M,Desmaio,Febre,Hipertensão,2018-06-24 17:01:45,,,Hospital e maternidade celestina colares,3,EM ATENDIMENTO
+308,Wilhelm Eglese,08/07/1976,M,Dor no peito,Vômito,Diabetes,2018-12-25 06:16:49,2019-01-29 05:39:51,2019-09-19 09:35:39,Hospital São Raimundo,8,EM ATENDIMENTO
+309,Dagmar Cathel,07/24/1982,F,Acidente doméstico,Febre,Diabetes,2018-05-31 11:14:11,2019-01-12 11:19:19,2019-03-30 18:22:24,Hospital São Raimundo,21,CONCLUÍDO
+310,Yvonne Atkins,01/16/1956,F,Febre,Dor de cabeça,Doença respiratória,2018-05-25 14:55:01,2019-02-20 12:00:41,2019-06-22 04:32:43,Hospital São Raimundo,2,EM ATENDIMENTO
+311,Jordan Ellissen,05/01/1966,F,Acidente doméstico,Dor no peito,Hipertensão,2018-10-14 01:59:38,2019-01-14 18:25:21,2019-03-13 10:56:51,Hospital geral do vale do Jaguaribe,22,EM ATENDIMENTO
+312,Jacquenetta Easterbrook,10/01/1996,F,Dor no peito,Febre,Hipertensão,2018-08-05 11:50:03,,,Hospital e maternidade celestina colares,33,REALOCADO
+313,Will Oherlihy,05/20/1966,M,Violência doméstica,Vômito,Doença respiratória,2018-04-15 12:46:35,2019-02-02 03:53:19,2019-05-08 10:21:46,Hospital geral do vale do Jaguaribe,50,AGUARDANDO
+314,Broddy Deplacido,01/25/2017,M,Febre,Febre,Diabetes,2018-05-02 22:46:47,2019-02-26 15:15:23,2019-03-28 15:13:26,Hospital São Raimundo,2,REALOCADO
+315,Ferdy Friman,11/14/1952,M,Acidente doméstico,Falta de ar,Diabetes,2018-10-03 05:02:42,2019-01-20 18:06:14,2019-06-17 00:49:18,Hospital geral do vale do Jaguaribe,19,AGUARDANDO
+316,Humfried Hanrott,10/11/2008,M,Acidente no trânsito,Falta de ar,Doença cardíaca,2018-12-19 09:37:31,2019-01-04 23:36:44,2019-08-04 07:17:07,Hospital e maternidade celestina colares,24,EM ATENDIMENTO
+317,Daryl De Ferrari,10/24/1988,M,Acidente no trânsito,Cansaço,Hipertensão,2018-10-05 01:38:28,2019-02-22 16:48:22,2019-03-20 05:53:40,Hospital e maternidade celestina colares,20,REALOCADO
+318,Egbert Roughley,03/30/1962,M,Dor de cabeça,Cansaço,Doença cardíaca,2018-10-14 06:22:19,2019-01-29 09:42:48,2019-06-18 13:39:47,Hospital São Raimundo,26,REALOCADO
+319,Whitney Farey,08/12/1954,M,Desmaio,Vômito,Doença cardíaca,2018-07-03 02:58:03,,,Hospital São Raimundo,40,EM ATENDIMENTO
+320,Wit Cafferky,03/22/2013,M,Dor de cabeça,Dor no peito,Doença cardíaca,2018-06-02 08:19:51,,,Hospital São Raimundo,44,EM ATENDIMENTO
+321,Curt Rangeley,01/27/1996,M,Dor de cabeça,Dor no peito,Doença respiratória,2018-06-09 08:40:58,2019-01-25 22:35:23,2019-10-16 05:32:52,Hospital São Raimundo,18,EM ATENDIMENTO
+322,Silva Sweetland,06/03/1998,F,Acidente doméstico,Falta de ar,Doença cardíaca,2018-11-29 23:10:49,2019-02-04 17:13:02,2019-05-25 01:30:03,Hospital geral do vale do Jaguaribe,8,EM ATENDIMENTO
+323,Danette Denes,11/28/1984,F,Desmaio,Falta de ar,Doença cardíaca,2018-12-06 22:40:07,,,Hospital São Raimundo,32,AGUARDANDO
+324,Dierdre Barrass,05/21/1948,F,Violência doméstica,Dor no peito,Doença respiratória,2018-04-11 03:08:32,2019-01-17 22:11:38,2019-07-24 18:42:07,Hospital e maternidade celestina colares,34,REALOCADO
+325,Base McLellan,08/09/2010,M,Febre,Dor no peito,Hipertensão,2018-04-29 23:27:51,,,Hospital geral do vale do Jaguaribe,38,CONCLUÍDO
+326,Teddy Maunder,11/12/1993,F,Acidente no trânsito,Vômito,Hipertensão,2018-10-21 23:11:34,2019-02-20 10:37:46,2019-04-23 02:36:16,Hospital São Raimundo,21,EM ATENDIMENTO
+327,Derick Bapty,03/04/1983,M,Dor de cabeça,Cansaço,Doença cardíaca,2018-01-18 19:37:19,2019-02-19 03:26:52,2019-03-06 18:17:24,Hospital geral do vale do Jaguaribe,37,REALOCADO
+328,Justen Maber,07/18/1944,M,Acidente doméstico,Falta de ar,Doença cardíaca,2018-12-06 03:56:22,2019-01-23 13:31:01,2019-05-03 08:36:32,Hospital São Raimundo,49,EM ATENDIMENTO
+329,Clementine Pleavin,03/07/1999,F,Dor de cabeça,Febre,Doença respiratória,2018-02-28 21:54:34,2019-01-22 19:12:34,2019-10-17 04:46:12,Hospital geral do vale do Jaguaribe,37,CONCLUÍDO
+330,Oona Chominski,03/13/2011,F,Febre,Febre,Hipertensão,2018-06-13 05:18:59,2019-02-13 18:04:02,2019-03-07 03:33:01,Hospital e maternidade celestina colares,38,REALOCADO
+331,Ambur Crayke,08/04/2009,F,Dor no peito,Falta de ar,Hipertensão,2018-06-05 03:17:49,2019-02-17 22:18:33,2019-07-16 10:02:39,Hospital São Raimundo,12,EM ATENDIMENTO
+332,Olga Grishakov,01/19/1944,F,Acidente no trânsito,Falta de ar,Diabetes,2018-04-19 01:55:37,,,Hospital geral do vale do Jaguaribe,2,EM ATENDIMENTO
+333,Laurie Strangeways,04/19/2012,F,Dor de cabeça,Cansaço,Hipertensão,2018-06-20 01:03:40,2019-02-20 09:45:50,2019-08-24 16:58:07,Hospital São Raimundo,4,AGUARDANDO
+334,Huntlee Kos,06/13/1981,M,Dor de cabeça,Febre,Hipertensão,2018-03-29 17:48:58,2019-02-22 02:44:53,2019-06-24 18:02:44,Hospital São Raimundo,32,EM ATENDIMENTO
+335,Jeth Chimienti,09/17/1973,M,Desmaio,Febre,Diabetes,2018-01-22 18:39:11,2019-02-21 00:55:38,2019-03-05 05:03:37,Hospital geral do vale do Jaguaribe,27,EM ATENDIMENTO
+336,Clifford Barbe,07/27/1957,M,Acidente doméstico,Vômito,Doença cardíaca,2018-03-08 17:27:02,2019-02-02 05:34:36,2019-09-28 14:41:08,Hospital e maternidade celestina colares,45,REALOCADO
+337,Thomasine Baudet,10/06/1989,F,Violência doméstica,Cansaço,Doença cardíaca,2018-06-17 01:00:32,2019-01-20 20:48:37,2019-06-22 19:33:04,Hospital e maternidade celestina colares,9,REALOCADO
+338,Billie Kempe,10/05/1945,M,Dor no peito,Dor de cabeça,Hipertensão,2018-06-21 12:49:52,2019-02-05 09:10:26,2019-09-07 04:45:19,Hospital geral do vale do Jaguaribe,28,AGUARDANDO
+339,Corina Gledstane,09/24/1958,F,Desmaio,Cansaço,Doença respiratória,2018-10-28 06:29:30,2019-02-03 15:43:12,2019-06-10 21:10:32,Hospital São Raimundo,29,EM ATENDIMENTO
+340,Aubrette Deadman,03/17/1958,F,Acidente doméstico,Febre,Diabetes,2018-07-18 00:23:40,2019-01-02 01:05:53,2019-09-23 03:07:17,Hospital e maternidade celestina colares,35,AGUARDANDO
+341,Avril Rene,08/27/2012,F,Dor no peito,Vômito,Hipertensão,2018-06-24 00:06:53,2019-01-04 04:56:16,2019-10-03 11:09:40,Hospital e maternidade celestina colares,21,EM ATENDIMENTO
+342,Verena Race,05/25/1963,F,Acidente no trânsito,Vômito,Diabetes,2018-11-12 01:14:10,2019-02-24 10:17:46,2019-10-09 08:19:00,Hospital São Raimundo,26,CONCLUÍDO
+343,Alfy Crinkley,02/19/1984,F,Desmaio,Dor de cabeça,Hipertensão,2018-09-20 22:26:06,2019-02-27 18:05:33,2019-07-12 06:00:29,Hospital geral do vale do Jaguaribe,29,CONCLUÍDO
+344,Parnell Gawne,08/30/1941,M,Desmaio,Dor no peito,Hipertensão,2018-10-05 18:54:36,,,Hospital geral do vale do Jaguaribe,44,CONCLUÍDO
+345,Ginni Klimpke,07/15/1997,F,Febre,Dor de cabeça,Doença cardíaca,2018-08-05 14:21:46,2019-02-17 09:32:28,2019-09-10 16:34:25,Hospital geral do vale do Jaguaribe,17,REALOCADO
+346,Samaria Strong,09/28/1972,F,Desmaio,Cansaço,Hipertensão,2018-04-08 04:12:44,,,Hospital e maternidade celestina colares,47,CONCLUÍDO
+347,Linus Ends,11/11/1984,M,Acidente no trânsito,Falta de ar,Doença cardíaca,2018-03-30 07:42:53,2019-02-20 16:42:19,2019-04-27 11:45:26,Hospital São Raimundo,24,AGUARDANDO
+348,Cassie Carville,10/19/1986,M,Febre,Falta de ar,Doença respiratória,2018-02-13 23:27:19,2019-02-21 06:46:04,2019-09-12 14:49:09,Hospital São Raimundo,46,AGUARDANDO
+349,Auberta Bridgeland,07/17/1963,F,Acidente no trânsito,Dor de cabeça,Doença respiratória,2018-01-21 23:56:30,2019-01-02 02:42:37,2019-07-30 02:24:12,Hospital e maternidade celestina colares,1,AGUARDANDO
+350,Ham Tuffell,08/11/1954,M,Febre,Dor de cabeça,Hipertensão,2018-07-15 16:27:07,2019-01-14 20:46:44,2019-08-27 02:23:31,Hospital São Raimundo,40,EM ATENDIMENTO
+351,Hadrian Furnival,09/29/1997,M,Violência doméstica,Dor no peito,Doença respiratória,2018-11-29 12:25:54,2019-01-18 03:20:37,2019-09-27 00:28:53,Hospital e maternidade celestina colares,49,EM ATENDIMENTO
+352,Byrle Naile,01/11/1946,M,Dor de cabeça,Vômito,Doença respiratória,2018-02-22 20:51:19,2019-02-19 18:21:16,2019-09-13 22:06:03,Hospital geral do vale do Jaguaribe,44,EM ATENDIMENTO
+353,Glynis Halwell,01/03/2013,F,Violência doméstica,Cansaço,Doença respiratória,2018-07-23 08:38:21,2019-02-20 02:44:25,2019-07-21 08:03:00,Hospital São Raimundo,50,CONCLUÍDO
+354,Janel Hailwood,07/04/1972,F,Febre,Febre,Doença cardíaca,2018-07-08 06:52:22,,,Hospital geral do vale do Jaguaribe,37,REALOCADO
+355,Amabel Longmate,03/22/1942,F,Desmaio,Falta de ar,Hipertensão,2018-05-25 08:08:35,2019-01-28 03:31:33,2019-03-10 21:55:43,Hospital São Raimundo,27,AGUARDANDO
+356,Myrwyn Labat,11/08/1963,M,Dor no peito,Falta de ar,Doença cardíaca,2018-01-23 11:54:44,2019-01-13 17:40:49,2019-08-25 19:34:17,Hospital São Raimundo,30,REALOCADO
+357,Tad Draisey,03/23/2012,M,Acidente no trânsito,Cansaço,Diabetes,2018-06-21 03:21:50,2019-02-21 01:04:36,2019-05-25 22:12:05,Hospital geral do vale do Jaguaribe,5,AGUARDANDO
+358,Daron Guerreau,11/26/2011,M,Acidente doméstico,Dor de cabeça,Hipertensão,2018-07-02 14:35:35,2019-01-28 13:13:22,2019-08-09 15:38:36,Hospital geral do vale do Jaguaribe,7,EM ATENDIMENTO
+359,Anabella Shirlaw,09/28/1951,F,Desmaio,Dor de cabeça,Doença cardíaca,2018-05-25 19:44:58,,,Hospital e maternidade celestina colares,40,REALOCADO
+360,Teresina Swidenbank,11/06/1948,F,Acidente no trânsito,Dor de cabeça,Doença respiratória,2018-05-04 06:18:42,2019-01-31 03:11:20,2019-03-16 16:54:08,Hospital e maternidade celestina colares,15,REALOCADO
+361,Mireille Ottiwill,01/03/1980,F,Acidente no trânsito,Dor de cabeça,Doença cardíaca,2018-12-27 14:33:29,2019-02-01 18:55:09,2019-03-01 15:51:42,Hospital geral do vale do Jaguaribe,33,CONCLUÍDO
+362,Hilliary Thwaites,10/14/1999,F,Violência doméstica,Cansaço,Hipertensão,2018-07-31 10:16:53,2019-01-06 02:29:17,2019-03-10 22:55:37,Hospital geral do vale do Jaguaribe,44,REALOCADO
+363,Cortney Challenor,05/06/1984,F,Desmaio,Dor de cabeça,Diabetes,2018-12-16 15:19:01,2019-02-04 03:28:29,2019-05-06 00:30:45,Hospital e maternidade celestina colares,38,CONCLUÍDO
+364,Rebekah Steynor,09/07/1951,F,Violência doméstica,Dor no peito,Doença cardíaca,2018-10-04 01:16:50,2019-02-26 12:37:34,2019-04-19 06:02:25,Hospital geral do vale do Jaguaribe,30,EM ATENDIMENTO
+365,Barnaby Franckton,08/03/1977,M,Dor no peito,Febre,Doença cardíaca,2018-03-08 09:08:29,2019-01-20 13:02:56,2019-05-21 08:09:29,Hospital e maternidade celestina colares,18,EM ATENDIMENTO
+366,Charmine Aucock,09/09/1962,F,Dor no peito,Dor no peito,Diabetes,2018-03-17 05:47:19,,,Hospital São Raimundo,44,EM ATENDIMENTO
+367,Arturo Simmonett,12/12/1999,M,Violência doméstica,Dor no peito,Diabetes,2018-08-12 12:58:32,2019-01-01 04:39:30,2019-05-11 09:21:51,Hospital e maternidade celestina colares,7,REALOCADO
+368,Udale Nelissen,04/01/1994,M,Febre,Cansaço,Diabetes,2018-06-11 06:17:38,,,Hospital São Raimundo,50,REALOCADO
+369,Billy Stedall,05/05/1989,F,Desmaio,Falta de ar,Diabetes,2018-01-24 04:41:39,2019-02-14 02:23:50,2019-03-30 17:56:16,Hospital São Raimundo,14,AGUARDANDO
+370,Carly Tilbrook,08/12/1952,M,Acidente doméstico,Febre,Hipertensão,2018-09-11 16:57:58,,,Hospital e maternidade celestina colares,4,EM ATENDIMENTO
+371,Gael Luxmoore,07/17/1954,F,Violência doméstica,Vômito,Diabetes,2018-06-04 19:28:11,,,Hospital geral do vale do Jaguaribe,23,AGUARDANDO
+372,Tisha Hodge,03/27/1948,F,Desmaio,Falta de ar,Diabetes,2018-06-16 17:03:10,,,Hospital São Raimundo,46,CONCLUÍDO
+373,Ari Jobbins,10/16/2007,M,Violência doméstica,Dor no peito,Doença cardíaca,2018-12-15 23:02:58,2019-02-18 15:57:26,2019-07-04 03:53:51,Hospital São Raimundo,26,EM ATENDIMENTO
+374,Ara Baston,05/30/1972,M,Desmaio,Cansaço,Doença respiratória,2018-11-29 16:08:52,,,Hospital São Raimundo,15,CONCLUÍDO
+375,Hebert Cottill,05/08/1997,M,Violência doméstica,Vômito,Doença respiratória,2018-10-10 17:48:48,2019-02-22 15:40:56,2019-08-29 03:10:15,Hospital São Raimundo,40,AGUARDANDO
+376,Guthrey Ohrt,09/30/1996,M,Dor de cabeça,Vômito,Doença cardíaca,2018-04-06 12:29:38,2019-01-25 18:17:54,2019-10-19 10:44:29,Hospital São Raimundo,10,REALOCADO
+377,Alex Ottley,02/09/1955,M,Acidente doméstico,Dor no peito,Diabetes,2018-08-05 04:33:49,,,Hospital São Raimundo,23,EM ATENDIMENTO
+378,Jerome Duckworth,02/06/2018,M,Acidente no trânsito,Falta de ar,Doença respiratória,2018-10-19 03:16:15,2019-01-21 11:51:09,2019-03-03 12:42:19,Hospital geral do vale do Jaguaribe,50,EM ATENDIMENTO
+379,Teirtza Wyley,08/03/1991,F,Acidente doméstico,Dor no peito,Doença cardíaca,2018-01-22 16:21:59,2019-01-28 20:00:15,2019-05-25 08:29:34,Hospital e maternidade celestina colares,41,EM ATENDIMENTO
+380,Mikel Hebbard,05/30/2003,M,Violência doméstica,Falta de ar,Doença respiratória,2018-06-09 01:29:24,2019-01-24 09:44:34,2019-09-28 04:38:59,Hospital e maternidade celestina colares,32,REALOCADO
+381,Meredeth Damarell,01/12/1996,M,Dor de cabeça,Febre,Diabetes,2018-06-19 21:56:42,2019-02-23 17:24:53,2019-09-04 01:19:50,Hospital geral do vale do Jaguaribe,5,REALOCADO
+382,Henrik Lightbown,01/18/1985,M,Violência doméstica,Dor de cabeça,Doença cardíaca,2018-02-03 20:14:03,2019-02-25 10:50:40,2019-09-29 13:06:12,Hospital e maternidade celestina colares,42,REALOCADO
+383,Ike Jonah,09/22/1977,M,Acidente no trânsito,Falta de ar,Doença cardíaca,2018-03-28 05:17:35,2019-01-21 06:39:43,2019-03-03 21:17:27,Hospital geral do vale do Jaguaribe,39,EM ATENDIMENTO
+384,Sauveur Goodinge,12/05/1964,M,Acidente no trânsito,Febre,Diabetes,2018-11-11 05:40:05,,,Hospital São Raimundo,29,REALOCADO
+385,Murdoch Weir,03/09/1967,M,Acidente doméstico,Falta de ar,Doença respiratória,2018-09-11 14:11:43,,,Hospital São Raimundo,4,AGUARDANDO
+386,Townsend Garfit,11/06/1997,M,Acidente no trânsito,Dor no peito,Diabetes,2018-03-23 03:52:54,,,Hospital São Raimundo,5,CONCLUÍDO
+387,Lydie Malam,10/17/1940,F,Acidente no trânsito,Vômito,Diabetes,2018-01-22 16:44:05,2019-01-15 10:59:39,2019-09-04 01:38:48,Hospital e maternidade celestina colares,20,REALOCADO
+388,Egan Eagles,03/04/1953,M,Acidente doméstico,Febre,Doença cardíaca,2018-03-28 05:50:33,2019-01-05 05:23:51,2019-08-20 19:21:32,Hospital geral do vale do Jaguaribe,14,CONCLUÍDO
+389,Teressa Ellingford,02/05/1988,F,Acidente no trânsito,Febre,Diabetes,2018-01-23 18:19:01,2019-02-01 05:10:02,2019-06-29 00:44:04,Hospital geral do vale do Jaguaribe,49,EM ATENDIMENTO
+390,Talbot Boleyn,02/02/1941,M,Acidente no trânsito,Falta de ar,Doença cardíaca,2018-12-26 01:55:47,,,Hospital São Raimundo,35,CONCLUÍDO
+391,Bobbie Gallegos,02/08/2004,M,Dor no peito,Cansaço,Doença respiratória,2018-07-23 19:26:02,2019-01-16 15:46:53,2019-09-23 11:11:43,Hospital e maternidade celestina colares,41,REALOCADO
+392,Kyle Vasilik,12/23/1976,F,Acidente no trânsito,Falta de ar,Diabetes,2018-05-23 22:53:01,,,Hospital e maternidade celestina colares,37,CONCLUÍDO
+393,Johnna Coster,09/09/1996,F,Acidente no trânsito,Cansaço,Doença respiratória,2018-07-09 16:26:51,2019-02-09 04:38:58,2019-08-28 01:19:56,Hospital geral do vale do Jaguaribe,47,CONCLUÍDO
+394,Dniren Huggens,03/04/1990,F,Acidente doméstico,Dor no peito,Diabetes,2018-07-25 18:48:04,2019-01-26 21:35:16,2019-09-29 06:10:06,Hospital geral do vale do Jaguaribe,19,REALOCADO
+395,Kahlil Born,08/26/1982,M,Dor no peito,Dor no peito,Hipertensão,2018-12-16 22:33:35,2019-01-31 15:37:33,2019-10-02 14:36:55,Hospital e maternidade celestina colares,44,EM ATENDIMENTO
+396,Ellette Bates,03/16/1955,F,Acidente doméstico,Falta de ar,Doença cardíaca,2018-08-18 12:27:28,,,Hospital e maternidade celestina colares,45,REALOCADO
+397,Magdalen Hosier,06/10/2012,F,Dor de cabeça,Falta de ar,Diabetes,2018-09-09 06:52:50,2019-02-07 12:54:46,2019-08-20 22:52:39,Hospital São Raimundo,38,AGUARDANDO
+398,Erick Bowsher,10/27/2014,M,Dor de cabeça,Dor de cabeça,Doença respiratória,2018-08-08 21:58:19,,,Hospital e maternidade celestina colares,6,AGUARDANDO
+399,Brigid Browett,11/15/1961,F,Febre,Falta de ar,Diabetes,2018-12-04 00:44:38,,,Hospital e maternidade celestina colares,34,REALOCADO
+400,Averyl Chetwind,07/04/2006,F,Desmaio,Dor no peito,Doença cardíaca,2018-04-11 15:34:36,2019-02-05 13:20:01,2019-09-23 17:30:23,Hospital São Raimundo,25,CONCLUÍDO
+401,Lonni Catonne,06/14/1951,F,Febre,Cansaço,Doença cardíaca,2018-11-02 23:55:17,2019-02-07 01:34:07,2019-05-15 03:08:40,Hospital e maternidade celestina colares,15,EM ATENDIMENTO
+402,Butch Cianni,04/13/1960,M,Dor no peito,Dor de cabeça,Doença cardíaca,2018-10-09 20:29:26,2019-01-11 13:56:39,2019-04-29 04:39:01,Hospital São Raimundo,39,AGUARDANDO
+403,Joanne Collingridge,01/23/1980,F,Dor de cabeça,Falta de ar,Hipertensão,2018-01-30 03:56:57,,,Hospital geral do vale do Jaguaribe,29,REALOCADO
+404,Rossie Peat,05/11/1942,M,Febre,Dor de cabeça,Diabetes,2018-05-18 14:53:43,,,Hospital São Raimundo,47,REALOCADO
+405,Teador Shaplin,08/12/1976,M,Desmaio,Vômito,Doença cardíaca,2018-08-25 18:56:35,,,Hospital e maternidade celestina colares,7,REALOCADO
+406,Wayland Govan,11/03/1964,M,Dor no peito,Febre,Doença cardíaca,2018-12-09 18:48:33,2019-02-12 10:25:18,2019-09-18 22:17:12,Hospital São Raimundo,34,AGUARDANDO
+407,Eleanore Dunrige,09/12/2016,F,Acidente doméstico,Falta de ar,Diabetes,2018-07-15 10:55:00,2019-01-26 18:50:49,2019-07-20 15:35:42,Hospital geral do vale do Jaguaribe,28,AGUARDANDO
+408,Ninnette Jobey,06/27/1966,F,Desmaio,Febre,Hipertensão,2018-06-10 09:37:32,2019-01-02 14:45:57,2019-05-08 20:10:13,Hospital geral do vale do Jaguaribe,48,CONCLUÍDO
+409,Joannes Onn,08/23/2001,F,Dor no peito,Vômito,Hipertensão,2018-08-02 12:49:49,,,Hospital e maternidade celestina colares,30,CONCLUÍDO
+410,Ailene Radnedge,07/05/1974,F,Dor no peito,Febre,Diabetes,2018-11-22 14:46:07,,,Hospital São Raimundo,41,CONCLUÍDO
+411,Demetra Gillison,08/08/1944,F,Dor no peito,Dor no peito,Doença respiratória,2018-07-29 13:38:35,2019-02-03 05:14:21,2019-08-13 11:59:28,Hospital geral do vale do Jaguaribe,21,AGUARDANDO
+412,Raffarty Pawsey,09/03/1996,M,Febre,Dor no peito,Hipertensão,2018-01-20 08:23:25,2019-02-07 22:51:37,2019-08-27 18:23:11,Hospital São Raimundo,10,AGUARDANDO
+413,Coleen McGilvary,01/23/1974,F,Febre,Cansaço,Diabetes,2018-06-30 04:49:45,2019-02-19 07:58:42,2019-05-18 22:35:54,Hospital geral do vale do Jaguaribe,28,AGUARDANDO
+414,Annamarie Beine,12/29/1989,F,Acidente doméstico,Dor no peito,Hipertensão,2018-12-23 08:24:57,,,Hospital São Raimundo,32,AGUARDANDO
+415,Trixie Hugett,04/22/1974,F,Desmaio,Falta de ar,Hipertensão,2018-07-04 19:21:35,,,Hospital e maternidade celestina colares,37,AGUARDANDO
+416,Onofredo Maharry,10/07/1950,M,Acidente doméstico,Falta de ar,Diabetes,2018-06-30 15:26:54,2019-02-23 02:57:07,2019-08-21 12:31:41,Hospital geral do vale do Jaguaribe,42,EM ATENDIMENTO
+417,Yoshi Snazle,06/22/1953,F,Dor de cabeça,Vômito,Doença respiratória,2018-07-26 07:32:01,,,Hospital e maternidade celestina colares,24,REALOCADO
+418,Mavis Olesen,11/27/2006,F,Desmaio,Dor de cabeça,Doença respiratória,2018-07-02 21:48:40,,,Hospital e maternidade celestina colares,24,CONCLUÍDO
+419,Kaja Jeste,07/24/1984,F,Febre,Vômito,Doença cardíaca,2018-11-04 23:31:51,2019-02-11 09:00:31,2019-03-23 01:25:01,Hospital São Raimundo,2,AGUARDANDO
+420,Amerigo Fermer,12/26/1988,M,Acidente doméstico,Dor de cabeça,Hipertensão,2018-11-15 22:16:03,2019-02-09 00:17:58,2019-04-24 17:00:22,Hospital e maternidade celestina colares,4,CONCLUÍDO
+421,Theadora Digance,01/08/2005,F,Dor no peito,Falta de ar,Doença respiratória,2018-11-20 00:24:27,,,Hospital São Raimundo,36,REALOCADO
+422,Zsa zsa Bowle,08/14/1942,F,Acidente no trânsito,Dor de cabeça,Doença respiratória,2018-09-16 22:01:39,,,Hospital e maternidade celestina colares,39,CONCLUÍDO
+423,Roley Argrave,10/27/1985,M,Dor de cabeça,Dor no peito,Hipertensão,2018-07-11 18:10:11,2019-02-20 14:40:54,2019-05-22 05:23:16,Hospital e maternidade celestina colares,30,REALOCADO
+424,Rebekah Syratt,09/05/1971,F,Violência doméstica,Febre,Doença respiratória,2018-03-14 23:33:08,,,Hospital geral do vale do Jaguaribe,46,AGUARDANDO
+425,Gaspar Henniger,09/21/1968,M,Acidente no trânsito,Vômito,Diabetes,2018-09-28 22:17:59,,,Hospital geral do vale do Jaguaribe,48,REALOCADO
+426,Finley Kleinplatz,05/15/2007,M,Acidente no trânsito,Vômito,Hipertensão,2018-03-12 20:57:04,,,Hospital e maternidade celestina colares,16,AGUARDANDO
+427,Seana Yegorov,03/23/1949,F,Violência doméstica,Febre,Doença cardíaca,2018-05-19 02:55:25,2019-02-19 19:33:48,2019-07-19 05:16:13,Hospital e maternidade celestina colares,6,AGUARDANDO
+428,Bryan Sherreard,07/02/1984,M,Acidente doméstico,Febre,Diabetes,2018-09-08 10:50:08,2019-02-19 22:09:55,2019-05-24 05:57:25,Hospital geral do vale do Jaguaribe,39,CONCLUÍDO
+429,Claudetta Crutcher,05/10/1984,F,Febre,Falta de ar,Doença respiratória,2018-06-29 14:52:28,,,Hospital e maternidade celestina colares,15,CONCLUÍDO
+430,Ange Stammirs,03/10/1982,F,Acidente doméstico,Febre,Doença cardíaca,2018-11-15 01:43:13,2019-01-15 22:54:47,2019-03-11 23:22:41,Hospital São Raimundo,38,AGUARDANDO
+431,Bent Galey,07/20/1978,M,Violência doméstica,Vômito,Doença cardíaca,2018-12-25 18:28:51,2019-01-30 02:26:31,2019-03-08 16:49:38,Hospital São Raimundo,19,CONCLUÍDO
+432,Colin Garland,03/26/1973,M,Acidente doméstico,Vômito,Doença cardíaca,2018-09-19 20:40:34,2019-01-24 21:35:41,2019-08-12 02:24:13,Hospital geral do vale do Jaguaribe,19,CONCLUÍDO
+433,Elsi Springate,03/12/1966,F,Acidente doméstico,Dor no peito,Doença respiratória,2018-07-18 17:18:15,2019-02-04 14:48:12,2019-09-25 01:58:46,Hospital geral do vale do Jaguaribe,30,EM ATENDIMENTO
+434,Xerxes Mabone,09/05/1941,M,Acidente doméstico,Dor no peito,Doença cardíaca,2018-05-26 20:03:29,2019-01-11 19:01:11,2019-09-13 02:28:24,Hospital e maternidade celestina colares,46,REALOCADO
+435,Evered Grishakov,06/17/1981,M,Desmaio,Dor de cabeça,Diabetes,2018-02-09 04:36:08,,,Hospital geral do vale do Jaguaribe,4,AGUARDANDO
+436,Archibaldo Bugdell,06/22/2010,M,Dor no peito,Cansaço,Doença respiratória,2018-06-05 14:49:36,2019-01-21 22:21:52,2019-04-20 11:29:57,Hospital São Raimundo,15,CONCLUÍDO
+437,Suzanna Paal,04/15/2018,F,Violência doméstica,Dor de cabeça,Diabetes,2018-02-14 15:48:38,,,Hospital geral do vale do Jaguaribe,29,REALOCADO
+438,Lavinie Blankman,06/29/1962,F,Febre,Dor de cabeça,Doença cardíaca,2018-10-22 04:44:49,2019-02-15 17:17:40,2019-10-21 19:59:03,Hospital São Raimundo,30,AGUARDANDO
+439,Gelya Aviss,02/01/1983,F,Desmaio,Falta de ar,Doença cardíaca,2018-03-21 07:47:43,2019-01-24 21:32:59,2019-09-07 08:35:06,Hospital São Raimundo,25,AGUARDANDO
+440,Jan Peegrem,02/02/2020,M,Febre,Febre,Doença respiratória,2018-08-04 14:40:53,2019-02-27 13:13:42,2019-10-19 09:33:25,Hospital e maternidade celestina colares,46,AGUARDANDO
+441,Kristin Winterbotham,07/31/1966,F,Febre,Cansaço,Hipertensão,2018-11-06 21:45:14,2019-02-18 05:52:53,2019-08-30 17:35:36,Hospital geral do vale do Jaguaribe,41,REALOCADO
+442,Calhoun Vaneschi,01/17/1977,M,Dor no peito,Vômito,Doença respiratória,2018-10-08 09:55:33,,,Hospital São Raimundo,27,EM ATENDIMENTO
+443,Peterus FitzGibbon,10/20/2013,M,Febre,Febre,Hipertensão,2018-08-07 13:14:58,2019-01-12 13:30:17,2019-07-12 05:08:01,Hospital e maternidade celestina colares,24,EM ATENDIMENTO
+444,Davin Korf,02/14/1994,M,Acidente no trânsito,Cansaço,Doença respiratória,2018-04-03 22:48:27,,,Hospital geral do vale do Jaguaribe,44,AGUARDANDO
+445,Goran Skotcher,01/29/1944,M,Acidente doméstico,Dor de cabeça,Doença respiratória,2018-03-05 16:24:58,2019-01-16 04:50:10,2019-03-01 18:02:04,Hospital e maternidade celestina colares,2,EM ATENDIMENTO
+446,Gunther Ticksall,01/23/1983,M,Desmaio,Cansaço,Doença respiratória,2018-05-25 03:06:04,2019-01-24 04:13:35,2019-08-05 09:35:28,Hospital São Raimundo,21,CONCLUÍDO
+447,Joella Soigne,05/15/1979,F,Acidente no trânsito,Falta de ar,Diabetes,2018-11-10 13:45:39,2019-02-17 00:31:06,2019-05-11 05:53:23,Hospital São Raimundo,26,REALOCADO
+448,Lizzie Scrine,04/20/1990,F,Desmaio,Febre,Doença cardíaca,2018-05-21 12:59:22,2019-02-25 06:46:43,2019-04-19 22:45:19,Hospital geral do vale do Jaguaribe,8,EM ATENDIMENTO
+449,Kathie Klees,09/27/1956,F,Febre,Dor de cabeça,Doença cardíaca,2018-09-07 08:03:11,2019-01-03 07:22:46,2019-05-01 11:44:37,Hospital e maternidade celestina colares,41,AGUARDANDO
+450,Kissee Allchorn,06/03/2001,F,Acidente doméstico,Febre,Doença cardíaca,2018-12-15 22:39:03,2019-02-14 16:01:27,2019-07-24 12:41:04,Hospital São Raimundo,25,CONCLUÍDO
+451,Rolph Gallaher,02/17/1994,M,Acidente doméstico,Febre,Diabetes,2018-02-13 16:59:56,2019-01-03 03:24:06,2019-03-07 18:18:17,Hospital geral do vale do Jaguaribe,8,CONCLUÍDO
+452,Erinna Caddock,02/18/1959,F,Dor no peito,Cansaço,Diabetes,2018-11-11 11:32:25,2019-02-11 07:35:42,2019-07-12 19:01:17,Hospital geral do vale do Jaguaribe,24,EM ATENDIMENTO
+453,Vassili MacFaul,01/21/2020,M,Dor de cabeça,Cansaço,Doença respiratória,2018-12-22 17:37:17,2019-02-02 14:20:26,2019-03-11 21:23:19,Hospital e maternidade celestina colares,14,REALOCADO
+454,Jerrold Scobie,12/21/2003,M,Acidente no trânsito,Dor no peito,Doença respiratória,2018-12-12 17:53:22,2019-02-04 12:37:48,2019-07-02 14:49:24,Hospital geral do vale do Jaguaribe,36,AGUARDANDO
+455,Alexandros Gronauer,03/11/1992,M,Violência doméstica,Vômito,Doença cardíaca,2018-06-06 06:08:18,2019-02-22 05:26:00,2019-05-14 09:54:43,Hospital São Raimundo,12,CONCLUÍDO
+456,Anita Vaune,07/03/1947,F,Febre,Dor no peito,Hipertensão,2018-08-24 02:08:44,2019-01-23 10:44:03,2019-03-07 11:21:41,Hospital São Raimundo,2,EM ATENDIMENTO
+457,Paloma Harcombe,06/06/2011,F,Dor no peito,Cansaço,Diabetes,2018-10-03 05:06:11,2019-02-04 13:59:01,2019-07-05 17:58:56,Hospital São Raimundo,34,CONCLUÍDO
+458,Fidole Lammerts,06/06/1943,M,Febre,Vômito,Doença cardíaca,2018-11-14 07:57:31,2019-01-24 21:57:56,2019-04-27 07:57:32,Hospital geral do vale do Jaguaribe,48,AGUARDANDO
+459,Jan Grinsted,11/06/1975,F,Acidente no trânsito,Dor no peito,Diabetes,2018-09-17 02:37:30,2019-01-23 10:08:26,2019-04-20 01:55:31,Hospital São Raimundo,23,EM ATENDIMENTO
+460,Tobie Gallager,08/23/1948,M,Dor no peito,Dor de cabeça,Doença cardíaca,2018-05-05 06:58:17,,,Hospital geral do vale do Jaguaribe,38,EM ATENDIMENTO
+461,Juana Rapp,11/20/1972,F,Violência doméstica,Dor de cabeça,Doença respiratória,2018-01-16 07:25:27,2019-01-08 07:52:01,2019-10-01 00:34:44,Hospital geral do vale do Jaguaribe,36,AGUARDANDO
+462,Merle Carress,12/09/1970,M,Dor no peito,Dor de cabeça,Hipertensão,2018-01-20 01:54:58,,,Hospital geral do vale do Jaguaribe,40,CONCLUÍDO
+463,Sayre Willder,12/18/2013,M,Violência doméstica,Vômito,Diabetes,2018-06-02 09:57:36,2019-01-07 10:08:44,2019-08-01 11:31:04,Hospital e maternidade celestina colares,49,AGUARDANDO
+464,Quintana Bickerstaffe,07/30/1940,F,Acidente doméstico,Dor no peito,Hipertensão,2018-12-08 23:18:08,2019-02-03 09:06:39,2019-04-09 09:45:05,Hospital e maternidade celestina colares,3,CONCLUÍDO
+465,Grete Ricciardi,12/07/1993,F,Dor no peito,Dor no peito,Doença respiratória,2018-08-11 22:40:33,2019-01-25 16:24:00,2019-09-24 17:53:13,Hospital geral do vale do Jaguaribe,29,CONCLUÍDO
+466,Katusha Undrell,01/24/1973,F,Dor de cabeça,Vômito,Diabetes,2018-07-23 11:56:30,2019-01-06 22:04:15,2019-06-04 23:19:25,Hospital São Raimundo,3,CONCLUÍDO
+467,Ulick Oxenden,01/31/1948,M,Dor no peito,Falta de ar,Doença cardíaca,2018-03-26 18:01:21,2019-01-01 03:07:33,2019-04-21 00:22:30,Hospital geral do vale do Jaguaribe,2,EM ATENDIMENTO
+468,Daisi Croom,11/18/1967,F,Febre,Dor de cabeça,Doença respiratória,2018-09-05 21:09:31,2019-01-24 09:34:26,2019-03-06 15:13:36,Hospital geral do vale do Jaguaribe,4,AGUARDANDO
+469,Hewe Rudland,06/19/1967,M,Acidente no trânsito,Febre,Doença respiratória,2018-09-16 02:02:04,2019-02-09 12:44:14,2019-09-12 19:48:38,Hospital geral do vale do Jaguaribe,13,REALOCADO
+470,Levin Zappel,12/08/1991,M,Acidente doméstico,Febre,Doença respiratória,2018-12-21 17:53:40,2019-01-09 19:44:14,2019-07-26 10:58:58,Hospital geral do vale do Jaguaribe,10,AGUARDANDO
+471,Jacquenette Posner,01/14/1959,F,Acidente no trânsito,Vômito,Hipertensão,2018-09-17 09:52:09,2019-01-31 20:05:03,2019-08-20 20:43:07,Hospital geral do vale do Jaguaribe,46,REALOCADO
+472,Hobart Murgatroyd,10/06/1987,M,Acidente no trânsito,Febre,Doença respiratória,2018-08-19 22:33:38,2019-02-14 01:48:23,2019-10-09 21:05:51,Hospital geral do vale do Jaguaribe,25,AGUARDANDO
+473,Rudiger Weatherburn,03/04/1966,M,Acidente no trânsito,Cansaço,Doença respiratória,2018-01-19 19:34:40,2019-01-11 19:53:59,2019-06-18 16:32:01,Hospital e maternidade celestina colares,50,CONCLUÍDO
+474,Lilia Boyford,03/09/1954,F,Febre,Dor de cabeça,Doença respiratória,2018-04-23 08:01:15,,,Hospital geral do vale do Jaguaribe,14,REALOCADO
+475,Rick Powling,12/12/1978,M,Dor de cabeça,Dor no peito,Diabetes,2018-10-15 02:28:57,2019-02-03 14:19:05,2019-09-07 15:08:57,Hospital e maternidade celestina colares,17,EM ATENDIMENTO
+476,Philomena Bench,05/21/1989,F,Febre,Vômito,Hipertensão,2018-07-01 14:18:23,2019-01-12 08:08:09,2019-05-30 02:41:20,Hospital geral do vale do Jaguaribe,44,AGUARDANDO
+477,Luther Blakemore,07/07/1982,M,Violência doméstica,Dor no peito,Diabetes,2018-06-25 15:08:01,2019-02-02 11:24:37,2019-07-15 00:31:28,Hospital e maternidade celestina colares,5,REALOCADO
+478,Perren Kincey,05/01/1991,M,Desmaio,Dor no peito,Diabetes,2018-12-18 09:09:05,,,Hospital e maternidade celestina colares,13,AGUARDANDO
+479,Neille Ansill,10/05/2009,F,Desmaio,Cansaço,Hipertensão,2018-05-07 20:24:32,2019-01-10 04:47:11,2019-05-02 15:45:38,Hospital São Raimundo,30,EM ATENDIMENTO
+480,Bryce Giacobazzi,08/14/1995,M,Acidente doméstico,Vômito,Hipertensão,2018-02-15 03:40:37,,,Hospital São Raimundo,27,REALOCADO
+481,Andonis Josupeit,03/11/2006,M,Desmaio,Falta de ar,Doença cardíaca,2018-02-26 11:43:57,,,Hospital São Raimundo,4,EM ATENDIMENTO
+482,Sybille Sebire,05/08/1970,F,Dor de cabeça,Falta de ar,Doença cardíaca,2018-11-04 14:37:49,2019-01-05 22:34:40,2019-07-29 18:24:18,Hospital geral do vale do Jaguaribe,45,CONCLUÍDO
+483,Bronson Ridsdale,03/16/1973,M,Desmaio,Dor no peito,Doença cardíaca,2018-09-28 13:40:44,2019-02-26 21:19:38,2019-10-18 15:56:20,Hospital São Raimundo,33,CONCLUÍDO
+484,Daffy MacTurlough,12/12/1962,F,Febre,Vômito,Diabetes,2018-11-26 07:47:27,2019-02-08 01:05:36,2019-03-01 04:41:22,Hospital e maternidade celestina colares,23,AGUARDANDO
+485,Spike Castagnier,10/14/1978,M,Febre,Cansaço,Diabetes,2018-01-21 09:25:38,2019-01-16 17:03:52,2019-09-14 17:54:59,Hospital e maternidade celestina colares,37,REALOCADO
+486,Temple Ellerington,07/03/1950,M,Desmaio,Febre,Diabetes,2018-06-19 13:53:30,,,Hospital geral do vale do Jaguaribe,16,EM ATENDIMENTO
+487,Axel Corriea,04/20/1990,M,Febre,Dor de cabeça,Doença respiratória,2018-10-31 06:30:37,,,Hospital e maternidade celestina colares,26,AGUARDANDO
+488,Shamus Leishman,11/24/1955,M,Acidente doméstico,Febre,Diabetes,2018-12-01 01:25:25,2019-01-14 10:22:36,2019-06-06 03:25:43,Hospital geral do vale do Jaguaribe,36,REALOCADO
+489,Angus Soot,03/06/1969,M,Desmaio,Vômito,Hipertensão,2018-07-01 07:24:00,2019-02-07 12:54:44,2019-05-14 12:28:08,Hospital e maternidade celestina colares,32,AGUARDANDO
+490,Gilda Broxap,05/01/2014,F,Acidente no trânsito,Dor no peito,Doença cardíaca,2018-04-17 14:08:41,,,Hospital São Raimundo,1,REALOCADO
+491,Balduin Mohun,05/29/1943,M,Violência doméstica,Dor no peito,Doença cardíaca,2018-05-18 01:34:05,,,Hospital geral do vale do Jaguaribe,7,CONCLUÍDO
+492,Arther Narraway,08/25/1985,M,Febre,Dor de cabeça,Hipertensão,2018-05-10 04:52:17,2019-02-01 10:31:44,2019-08-18 08:23:56,Hospital São Raimundo,15,EM ATENDIMENTO
+493,Demetri Kave,07/26/1942,M,Dor no peito,Vômito,Doença cardíaca,2018-08-11 12:33:13,,,Hospital São Raimundo,38,AGUARDANDO
+494,Krystyna Hakking,06/13/1949,F,Desmaio,Cansaço,Diabetes,2018-06-26 05:38:17,,,Hospital geral do vale do Jaguaribe,16,EM ATENDIMENTO
+495,Myriam Ealam,11/24/2007,F,Dor no peito,Dor de cabeça,Doença cardíaca,2018-07-03 08:57:39,2019-02-20 05:38:22,2019-05-13 12:58:00,Hospital São Raimundo,39,EM ATENDIMENTO
+496,Cybill Branch,11/13/1978,F,Desmaio,Vômito,Hipertensão,2018-06-10 23:54:00,2019-02-09 23:53:47,2019-05-27 18:00:20,Hospital geral do vale do Jaguaribe,40,REALOCADO
+497,Davida Maffucci,08/25/2009,F,Dor no peito,Cansaço,Doença respiratória,2018-06-11 18:27:32,2019-02-26 21:15:12,2019-08-28 01:33:22,Hospital São Raimundo,38,CONCLUÍDO
+498,Ives Broadfield,11/09/2017,M,Acidente no trânsito,Cansaço,Doença respiratória,2018-11-07 03:16:44,2019-01-04 22:19:15,2019-10-10 10:22:57,Hospital e maternidade celestina colares,24,EM ATENDIMENTO
+499,Mercie Handman,05/06/1965,F,Febre,Vômito,Doença respiratória,2018-07-19 21:21:41,2019-02-06 15:50:42,2019-03-28 21:07:02,Hospital geral do vale do Jaguaribe,34,CONCLUÍDO
+500,Amelie McLaine,03/28/2013,F,Violência doméstica,Falta de ar,Doença respiratória,2018-08-31 11:14:07,,,Hospital e maternidade celestina colares,14,CONCLUÍDO
+501,Zach Libbie,07/25/1996,M,Desmaio,Dor no peito,Doença respiratória,2018-02-27 07:15:44,,,Hospital São Raimundo,37,CONCLUÍDO
+502,Bat Maryska,04/20/1969,M,Desmaio,Dor de cabeça,Doença cardíaca,2018-10-05 12:58:19,,,Hospital geral do vale do Jaguaribe,30,EM ATENDIMENTO
+503,Moyra Heselwood,02/06/2015,F,Desmaio,Dor de cabeça,Doença cardíaca,2018-07-25 14:37:02,2019-01-26 20:09:47,2019-10-10 18:16:19,Hospital e maternidade celestina colares,28,REALOCADO
+504,Lotti Skrines,12/08/1965,F,Dor de cabeça,Dor no peito,Hipertensão,2018-02-07 19:26:33,2019-01-06 02:22:00,2019-07-29 04:30:49,Hospital geral do vale do Jaguaribe,13,AGUARDANDO
+505,Cordy Reedy,07/28/1949,M,Desmaio,Vômito,Doença respiratória,2018-11-25 11:55:20,2019-02-14 15:59:41,2019-07-13 15:10:05,Hospital São Raimundo,10,EM ATENDIMENTO
+506,Jobina Dowsey,09/19/2003,F,Violência doméstica,Dor no peito,Diabetes,2018-11-01 05:53:02,2019-02-23 05:47:23,2019-09-23 12:17:24,Hospital São Raimundo,50,EM ATENDIMENTO
+507,Edi Spellar,01/05/2006,F,Febre,Dor no peito,Hipertensão,2018-12-18 09:43:34,2019-02-03 19:21:14,2019-07-09 23:09:06,Hospital geral do vale do Jaguaribe,30,AGUARDANDO
+508,Marlee Choak,04/22/1993,F,Desmaio,Falta de ar,Doença respiratória,2018-09-29 14:22:42,2019-01-27 03:42:07,2019-04-28 11:19:12,Hospital São Raimundo,5,CONCLUÍDO
+509,Teresita Goutcher,08/01/2003,F,Acidente doméstico,Falta de ar,Diabetes,2018-12-21 02:00:03,2019-01-26 01:58:17,2019-05-31 13:00:23,Hospital e maternidade celestina colares,6,EM ATENDIMENTO
+510,Nate Wakeley,03/13/2004,M,Acidente no trânsito,Dor no peito,Diabetes,2018-12-28 03:16:18,,,Hospital e maternidade celestina colares,31,REALOCADO
+511,Timmie Pigny,03/22/1994,F,Desmaio,Dor no peito,Doença cardíaca,2018-09-21 10:48:21,2019-01-25 08:05:50,2019-04-08 12:49:19,Hospital geral do vale do Jaguaribe,26,REALOCADO
+512,Dolorita Whightman,02/18/1974,F,Acidente doméstico,Falta de ar,Hipertensão,2018-10-07 05:06:47,2019-01-18 16:07:51,2019-07-24 11:40:44,Hospital São Raimundo,39,EM ATENDIMENTO
+513,Essy Mackett,11/07/1952,F,Acidente doméstico,Febre,Hipertensão,2018-01-15 00:56:21,2019-02-07 02:20:51,2019-03-07 11:45:00,Hospital geral do vale do Jaguaribe,1,REALOCADO
+514,Deloria Kidman,02/14/1989,F,Violência doméstica,Falta de ar,Diabetes,2018-04-25 23:11:05,2019-02-19 07:03:48,2019-08-05 18:29:47,Hospital geral do vale do Jaguaribe,21,AGUARDANDO
+515,Domenic Boxell,03/11/2017,M,Febre,Cansaço,Diabetes,2018-07-04 02:08:39,2019-02-27 18:11:23,2019-03-24 08:58:52,Hospital geral do vale do Jaguaribe,20,EM ATENDIMENTO
+516,Waly Lawler,11/28/1962,F,Acidente no trânsito,Falta de ar,Diabetes,2018-08-07 11:41:33,2019-02-01 06:06:19,2019-08-10 06:13:46,Hospital geral do vale do Jaguaribe,1,REALOCADO
+517,Eleonora Camamill,08/25/1942,F,Dor de cabeça,Febre,Hipertensão,2018-03-25 22:16:40,2019-02-17 06:56:18,2019-05-14 09:32:07,Hospital geral do vale do Jaguaribe,11,AGUARDANDO
+518,Timofei Shmyr,05/12/1960,M,Febre,Falta de ar,Doença cardíaca,2018-08-27 19:33:50,2019-01-20 21:29:06,2019-05-31 11:21:02,Hospital São Raimundo,26,AGUARDANDO
+519,Alia Hawkes,05/02/1988,F,Desmaio,Dor no peito,Hipertensão,2018-01-27 15:06:52,2019-02-18 15:18:40,2019-09-05 06:12:35,Hospital São Raimundo,18,REALOCADO
+520,Austen Cush,07/08/1979,M,Violência doméstica,Febre,Doença cardíaca,2018-11-14 06:51:21,2019-01-10 01:08:56,2019-07-24 21:03:20,Hospital e maternidade celestina colares,20,AGUARDANDO
+521,Melany Spleving,01/02/1955,F,Desmaio,Cansaço,Diabetes,2018-02-19 07:49:05,2019-01-17 15:50:21,2019-06-16 14:47:55,Hospital e maternidade celestina colares,43,REALOCADO
+522,Calla Dumper,02/29/1992,F,Febre,Febre,Doença respiratória,2018-08-11 14:03:09,2019-02-15 19:23:35,2019-03-28 21:43:45,Hospital e maternidade celestina colares,41,EM ATENDIMENTO
+523,Sanderson Cowdroy,04/22/1974,M,Acidente doméstico,Falta de ar,Doença respiratória,2018-05-14 08:40:25,,,Hospital e maternidade celestina colares,13,CONCLUÍDO
+524,Tandy Connett,08/18/1979,F,Desmaio,Febre,Diabetes,2018-11-26 22:54:15,2019-02-14 03:32:36,2019-03-12 22:27:18,Hospital São Raimundo,41,CONCLUÍDO
+525,Tobey Baldam,04/18/1993,F,Acidente no trânsito,Vômito,Diabetes,2018-09-10 03:15:21,,,Hospital e maternidade celestina colares,4,REALOCADO
+526,Chloette Brenneke,11/13/1965,F,Dor no peito,Dor no peito,Doença cardíaca,2018-04-16 16:42:03,2019-01-19 15:59:27,2019-07-08 17:56:24,Hospital São Raimundo,11,REALOCADO
+527,Rowney Spier,01/10/1944,M,Desmaio,Cansaço,Diabetes,2018-07-20 17:25:50,2019-01-07 11:33:44,2019-08-10 01:10:48,Hospital São Raimundo,35,REALOCADO
+528,Marjie Shannahan,03/04/1967,F,Acidente no trânsito,Dor de cabeça,Diabetes,2018-08-22 18:21:14,2019-02-07 14:00:28,2019-09-01 23:29:00,Hospital geral do vale do Jaguaribe,17,AGUARDANDO
+529,Pepita O' Neligan,07/21/2010,F,Dor no peito,Cansaço,Doença respiratória,2018-06-03 13:18:48,2019-02-06 18:29:06,2019-08-05 10:28:50,Hospital São Raimundo,28,REALOCADO
+530,Ivar Sporrij,06/22/2007,M,Dor no peito,Febre,Doença respiratória,2018-02-05 20:06:54,,,Hospital geral do vale do Jaguaribe,46,AGUARDANDO
+531,Sabina Norewood,01/04/2018,F,Acidente no trânsito,Vômito,Doença cardíaca,2018-06-12 12:12:19,2019-02-11 00:27:50,2019-06-13 22:08:53,Hospital São Raimundo,28,CONCLUÍDO
+532,Vittoria Devenish,03/09/2007,F,Desmaio,Febre,Doença respiratória,2018-08-22 05:20:53,,,Hospital geral do vale do Jaguaribe,2,AGUARDANDO
+533,Bonita Pearmine,06/28/1952,F,Desmaio,Febre,Doença respiratória,2018-06-16 04:13:18,2019-01-14 03:54:02,2019-05-18 10:49:37,Hospital São Raimundo,33,CONCLUÍDO
+534,Zachariah Stainland,07/10/1970,M,Acidente doméstico,Dor de cabeça,Hipertensão,2018-07-03 09:35:21,,,Hospital e maternidade celestina colares,4,EM ATENDIMENTO
+535,Yanaton Poundsford,07/18/2003,M,Dor de cabeça,Dor no peito,Doença cardíaca,2018-06-16 11:57:49,2019-01-14 13:45:17,2019-06-01 10:56:14,Hospital e maternidade celestina colares,18,AGUARDANDO
+536,Porty McGaugie,11/08/1994,M,Acidente doméstico,Dor de cabeça,Doença cardíaca,2018-12-26 03:59:33,2019-01-03 03:34:06,2019-03-18 12:53:38,Hospital geral do vale do Jaguaribe,11,REALOCADO
+537,Stacy Bruckenthal,06/22/2000,M,Desmaio,Cansaço,Diabetes,2018-01-28 06:02:18,,,Hospital geral do vale do Jaguaribe,33,AGUARDANDO
+538,Aimee Aynold,11/27/1976,F,Acidente doméstico,Dor de cabeça,Diabetes,2018-05-28 04:19:36,2019-02-24 15:02:06,2019-05-19 06:23:37,Hospital geral do vale do Jaguaribe,21,CONCLUÍDO
+539,Durante Mashro,01/27/1974,M,Acidente doméstico,Vômito,Doença cardíaca,2018-10-28 16:15:32,2019-02-10 07:36:12,2019-07-28 03:36:30,Hospital e maternidade celestina colares,9,REALOCADO
+540,Catherine Sabati,02/23/1944,F,Dor no peito,Falta de ar,Doença respiratória,2018-09-06 08:58:56,,,Hospital e maternidade celestina colares,20,EM ATENDIMENTO
+541,Minerva Delepine,06/02/2001,F,Desmaio,Cansaço,Hipertensão,2018-10-05 22:50:42,2019-01-15 14:25:23,2019-10-05 13:28:24,Hospital São Raimundo,36,EM ATENDIMENTO
+542,Niel Gleeton,07/25/1966,M,Dor de cabeça,Cansaço,Doença respiratória,2018-08-31 08:04:07,2019-02-11 14:09:16,2019-08-05 10:52:00,Hospital São Raimundo,3,REALOCADO
+543,Case Waylen,07/20/1973,M,Dor no peito,Vômito,Doença respiratória,2018-08-09 00:43:23,,,Hospital e maternidade celestina colares,12,REALOCADO
+544,Georgette Cavalier,06/07/1940,F,Dor de cabeça,Cansaço,Doença cardíaca,2018-11-01 05:47:55,,,Hospital e maternidade celestina colares,2,AGUARDANDO
+545,Shanna Preece,03/17/2010,F,Desmaio,Dor no peito,Doença cardíaca,2018-12-26 10:44:24,2019-02-21 22:04:50,2019-08-10 21:11:52,Hospital São Raimundo,20,EM ATENDIMENTO
+546,Hazel Bartunek,01/23/2010,M,Acidente no trânsito,Cansaço,Hipertensão,2018-12-03 02:09:51,2019-02-11 17:44:39,2019-08-21 19:15:44,Hospital geral do vale do Jaguaribe,29,EM ATENDIMENTO
+547,Mina McNirlan,08/15/1978,F,Acidente doméstico,Cansaço,Diabetes,2018-12-05 17:57:46,2019-02-15 00:03:10,2019-03-09 01:00:29,Hospital geral do vale do Jaguaribe,35,REALOCADO
+548,Gayla Rhelton,08/04/1947,F,Desmaio,Falta de ar,Diabetes,2018-08-13 15:42:22,2019-02-15 03:45:48,2019-07-19 14:13:58,Hospital São Raimundo,11,EM ATENDIMENTO
+549,Garfield Anger,12/04/1981,M,Febre,Dor no peito,Doença cardíaca,2018-06-26 00:01:55,2019-01-05 15:27:52,2019-07-01 03:12:06,Hospital e maternidade celestina colares,8,CONCLUÍDO
+550,Mathilde Kleinmann,11/21/1981,F,Dor de cabeça,Dor de cabeça,Diabetes,2018-10-27 17:56:50,2019-01-27 16:13:49,2019-06-08 23:02:39,Hospital geral do vale do Jaguaribe,34,AGUARDANDO
+551,Maynard Matteuzzi,07/14/1997,M,Acidente no trânsito,Dor no peito,Doença cardíaca,2018-03-11 10:51:57,2019-02-02 12:06:41,2019-08-05 04:23:54,Hospital e maternidade celestina colares,14,CONCLUÍDO
+552,Clarine Tutin,12/10/1961,F,Acidente doméstico,Dor de cabeça,Doença cardíaca,2018-04-06 16:21:17,2019-02-01 01:30:27,2019-05-19 18:51:30,Hospital e maternidade celestina colares,30,AGUARDANDO
+553,Marinna Edgerton,07/01/1955,F,Violência doméstica,Falta de ar,Doença cardíaca,2018-01-23 11:46:44,2019-02-05 09:35:05,2019-08-17 05:06:41,Hospital geral do vale do Jaguaribe,25,AGUARDANDO
+554,Jaymie Commins,07/06/1986,M,Desmaio,Dor de cabeça,Doença respiratória,2018-07-15 21:27:02,2019-01-23 12:12:58,2019-08-08 14:25:56,Hospital geral do vale do Jaguaribe,16,EM ATENDIMENTO
+555,Alleen Humbatch,03/02/2017,F,Desmaio,Febre,Doença cardíaca,2018-08-09 11:36:57,2019-02-05 22:20:24,2019-06-11 17:32:49,Hospital São Raimundo,39,AGUARDANDO
+556,Enrichetta Affuso,06/28/1959,F,Acidente no trânsito,Cansaço,Diabetes,2018-08-14 04:43:08,2019-01-01 13:14:22,2019-03-02 03:54:03,Hospital São Raimundo,10,CONCLUÍDO
+557,Madison Hallgate,03/19/1954,M,Dor de cabeça,Cansaço,Doença cardíaca,2018-04-20 02:28:43,2019-01-31 03:03:13,2019-07-09 16:21:25,Hospital geral do vale do Jaguaribe,23,CONCLUÍDO
+558,Caitrin Defraine,01/31/1949,F,Desmaio,Dor no peito,Hipertensão,2018-03-15 19:42:16,2019-02-22 00:37:32,2019-04-15 16:06:12,Hospital geral do vale do Jaguaribe,3,CONCLUÍDO
+559,Dicky Lifton,05/24/1948,M,Febre,Febre,Doença cardíaca,2018-07-23 21:49:39,2019-02-07 14:00:24,2019-08-17 14:19:48,Hospital geral do vale do Jaguaribe,7,EM ATENDIMENTO
+560,Elfreda Scholling,02/23/1967,F,Dor no peito,Dor no peito,Doença cardíaca,2018-11-09 06:20:40,,,Hospital geral do vale do Jaguaribe,19,CONCLUÍDO
+561,Lorne Menaul,07/09/2020,M,Acidente doméstico,Dor no peito,Diabetes,2018-07-26 01:54:48,,,Hospital São Raimundo,4,EM ATENDIMENTO
+562,Arline Leuty,07/28/1951,F,Dor de cabeça,Falta de ar,Diabetes,2018-10-31 08:02:04,2019-02-02 00:18:53,2019-04-20 06:21:27,Hospital geral do vale do Jaguaribe,23,CONCLUÍDO
+563,Durward Lockyear,11/01/1948,M,Acidente no trânsito,Dor no peito,Hipertensão,2018-04-06 11:41:36,2019-02-18 14:17:42,2019-10-03 11:13:42,Hospital geral do vale do Jaguaribe,21,REALOCADO
+564,Micheil Rolf,08/24/2019,M,Dor de cabeça,Falta de ar,Doença respiratória,2018-08-07 21:17:38,2019-02-24 15:39:55,2019-04-08 16:38:35,Hospital São Raimundo,43,CONCLUÍDO
+565,Mona Umbers,04/07/2019,F,Acidente doméstico,Vômito,Hipertensão,2018-03-23 00:03:00,2019-02-03 22:15:36,2019-08-08 06:06:42,Hospital e maternidade celestina colares,36,EM ATENDIMENTO
+566,Jeramey Gumey,04/01/1970,M,Dor no peito,Cansaço,Hipertensão,2018-11-10 06:09:28,2019-01-26 20:04:47,2019-04-08 08:37:41,Hospital geral do vale do Jaguaribe,16,AGUARDANDO
+567,Saundra Grigoryov,08/18/1997,M,Violência doméstica,Cansaço,Diabetes,2018-07-12 19:29:13,2019-01-10 14:05:11,2019-04-20 03:01:53,Hospital geral do vale do Jaguaribe,6,EM ATENDIMENTO
+568,Terry Guerreau,02/16/1976,M,Febre,Febre,Diabetes,2018-08-15 00:58:27,,,Hospital geral do vale do Jaguaribe,17,EM ATENDIMENTO
+569,Micheil Serridge,04/18/1975,M,Acidente doméstico,Dor no peito,Hipertensão,2018-12-06 08:12:18,2019-02-14 02:19:38,2019-06-19 11:18:42,Hospital São Raimundo,17,AGUARDANDO
+570,Adham Maha,12/26/2011,M,Dor de cabeça,Falta de ar,Diabetes,2018-02-28 06:45:06,2019-01-21 12:58:13,2019-04-18 14:42:46,Hospital São Raimundo,30,EM ATENDIMENTO
+571,Benny Eastam,03/07/1952,F,Violência doméstica,Cansaço,Hipertensão,2018-05-15 23:57:20,,,Hospital geral do vale do Jaguaribe,45,EM ATENDIMENTO
+572,Bondon Lohmeyer,10/14/2007,M,Acidente no trânsito,Cansaço,Diabetes,2018-05-22 00:37:14,2019-02-06 16:50:30,2019-08-03 03:51:41,Hospital São Raimundo,4,EM ATENDIMENTO
+573,Shena Petican,05/14/1972,F,Violência doméstica,Falta de ar,Doença respiratória,2018-06-06 09:12:14,2019-01-07 23:59:40,2019-06-15 17:16:24,Hospital e maternidade celestina colares,36,AGUARDANDO
+574,Darcy Edgett,12/25/1961,M,Acidente no trânsito,Falta de ar,Hipertensão,2018-10-26 12:10:20,2019-02-17 06:57:38,2019-09-13 13:05:03,Hospital e maternidade celestina colares,44,EM ATENDIMENTO
+575,Barbabas Kirk,08/28/1978,M,Dor no peito,Dor de cabeça,Diabetes,2018-12-04 05:34:33,2019-01-05 09:07:00,2019-05-29 08:57:48,Hospital São Raimundo,7,REALOCADO
+576,Bella Cherry Holme,02/21/1946,F,Violência doméstica,Falta de ar,Doença cardíaca,2018-07-07 15:37:19,2019-02-10 09:35:57,2019-07-13 09:56:27,Hospital geral do vale do Jaguaribe,26,REALOCADO
+577,Troy MacMorland,06/07/1971,M,Violência doméstica,Vômito,Doença respiratória,2018-10-15 05:27:08,2019-01-06 16:52:09,2019-07-01 14:15:17,Hospital geral do vale do Jaguaribe,4,EM ATENDIMENTO
+578,Gunther Evreux,10/25/1968,M,Desmaio,Dor de cabeça,Hipertensão,2018-01-25 15:17:05,2019-01-07 20:21:33,2019-05-20 20:01:12,Hospital geral do vale do Jaguaribe,29,REALOCADO
+579,Kip Bedo,07/21/1961,M,Violência doméstica,Vômito,Hipertensão,2018-11-28 18:36:18,2019-01-10 23:41:45,2019-07-23 06:56:57,Hospital e maternidade celestina colares,49,AGUARDANDO
+580,Kendre Baytrop,06/11/2013,F,Acidente doméstico,Dor no peito,Hipertensão,2018-01-25 01:47:26,2019-02-09 17:36:33,2019-05-07 15:41:22,Hospital e maternidade celestina colares,32,AGUARDANDO
+581,Gabbi Macguire,01/24/1952,F,Dor no peito,Febre,Hipertensão,2018-02-15 22:04:57,2019-02-22 05:39:37,2019-03-12 12:47:28,Hospital e maternidade celestina colares,6,REALOCADO
+582,Amory Tomasutti,04/29/1947,M,Febre,Febre,Doença respiratória,2018-10-28 12:03:02,2019-02-16 01:55:44,2019-03-02 19:28:53,Hospital São Raimundo,25,REALOCADO
+583,Courtney Jouhandeau,10/25/2010,M,Violência doméstica,Febre,Diabetes,2018-09-20 09:50:48,,,Hospital e maternidade celestina colares,39,CONCLUÍDO
+584,Peria Moodie,12/17/1982,F,Desmaio,Falta de ar,Doença respiratória,2018-11-27 12:26:39,2019-01-14 09:05:37,2019-04-12 23:26:36,Hospital geral do vale do Jaguaribe,43,CONCLUÍDO
+585,Der Jay,07/31/2016,M,Dor no peito,Dor de cabeça,Doença respiratória,2018-02-28 00:45:26,,,Hospital geral do vale do Jaguaribe,33,REALOCADO
+586,Bank McQuilty,11/01/2002,M,Desmaio,Dor de cabeça,Doença respiratória,2018-12-24 01:48:05,2019-01-30 02:16:08,2019-03-08 09:22:31,Hospital e maternidade celestina colares,29,REALOCADO
+587,Breena Batchelour,10/16/2012,F,Violência doméstica,Cansaço,Doença cardíaca,2018-04-16 01:38:47,2019-01-02 06:42:37,2019-06-18 18:44:45,Hospital São Raimundo,12,CONCLUÍDO
+588,Thayne Windas,07/11/1992,M,Desmaio,Febre,Hipertensão,2018-08-06 19:23:53,2019-01-17 10:24:14,2019-05-13 07:48:54,Hospital geral do vale do Jaguaribe,22,EM ATENDIMENTO
+589,Gerek Iffe,08/09/2004,M,Dor no peito,Vômito,Hipertensão,2018-12-29 06:33:40,,,Hospital geral do vale do Jaguaribe,43,AGUARDANDO
+590,Land Oscroft,08/03/1985,M,Violência doméstica,Falta de ar,Doença respiratória,2018-08-29 05:05:12,2019-01-04 13:15:07,2019-03-24 17:06:38,Hospital São Raimundo,14,AGUARDANDO
+591,Cameron Paskell,06/04/1985,M,Desmaio,Falta de ar,Doença respiratória,2018-03-01 02:53:10,2019-02-02 13:35:24,2019-05-31 09:36:39,Hospital geral do vale do Jaguaribe,8,EM ATENDIMENTO
+592,Jo-ann Sauvage,09/19/1999,F,Acidente doméstico,Cansaço,Diabetes,2018-02-20 02:35:23,2019-02-27 03:55:29,2019-09-14 20:10:02,Hospital geral do vale do Jaguaribe,12,REALOCADO
+593,Mac Renard,12/02/1979,M,Febre,Febre,Hipertensão,2018-04-09 20:54:22,2019-02-24 09:17:54,2019-07-10 07:00:13,Hospital e maternidade celestina colares,43,AGUARDANDO
+594,Maible Baxster,05/28/1956,F,Violência doméstica,Febre,Doença cardíaca,2018-02-12 21:04:11,,,Hospital São Raimundo,33,AGUARDANDO
+595,Else Braitling,10/23/1953,F,Febre,Cansaço,Diabetes,2018-01-21 07:01:14,2019-01-14 19:47:12,2019-05-13 19:46:43,Hospital São Raimundo,4,CONCLUÍDO
+596,Adan Danser,03/16/1987,F,Dor no peito,Vômito,Diabetes,2018-07-18 13:40:12,,,Hospital e maternidade celestina colares,20,AGUARDANDO
+597,Sigismond Stallon,02/25/1993,M,Dor no peito,Dor no peito,Doença cardíaca,2018-01-30 15:44:23,2019-02-17 18:22:38,2019-09-25 08:22:24,Hospital geral do vale do Jaguaribe,34,CONCLUÍDO
+598,Kurtis Casa,08/22/1993,M,Febre,Falta de ar,Hipertensão,2018-12-29 08:37:04,2019-01-04 17:25:10,2019-10-04 12:42:46,Hospital São Raimundo,33,AGUARDANDO
+599,Wendy Jorcke,09/13/1993,F,Acidente no trânsito,Dor no peito,Diabetes,2018-07-14 03:00:31,,,Hospital geral do vale do Jaguaribe,38,REALOCADO
+600,Arnoldo Selbie,09/17/1965,M,Acidente doméstico,Dor de cabeça,Doença respiratória,2018-03-19 02:17:35,2019-01-03 10:25:56,2019-03-29 00:21:46,Hospital e maternidade celestina colares,22,REALOCADO
+601,Clarice Juza,08/19/1967,F,Desmaio,Dor de cabeça,Doença cardíaca,2018-03-11 19:57:14,2019-02-20 03:56:55,2019-04-25 21:45:09,Hospital São Raimundo,16,AGUARDANDO
+602,Poppy Baake,10/31/1981,F,Acidente no trânsito,Dor de cabeça,Doença cardíaca,2018-05-29 02:19:07,,,Hospital geral do vale do Jaguaribe,3,REALOCADO
+603,Dahlia Farrears,10/30/1945,F,Violência doméstica,Dor no peito,Doença cardíaca,2018-06-26 02:30:08,2019-01-30 06:10:12,2019-06-22 15:05:08,Hospital geral do vale do Jaguaribe,13,EM ATENDIMENTO
+604,Deborah Ferrone,04/17/1996,F,Dor no peito,Febre,Diabetes,2018-11-03 04:13:45,,,Hospital São Raimundo,1,AGUARDANDO
+605,Saloma Eagland,09/28/1992,F,Desmaio,Cansaço,Doença respiratória,2018-02-27 13:05:08,2019-01-28 16:33:28,2019-06-08 22:15:06,Hospital geral do vale do Jaguaribe,45,CONCLUÍDO
+606,Pavlov Krolman,04/24/1955,M,Dor no peito,Febre,Hipertensão,2018-12-20 17:32:00,2019-01-19 21:06:22,2019-09-23 00:34:14,Hospital geral do vale do Jaguaribe,41,AGUARDANDO
+607,Aldridge Joutapaitis,09/01/2004,M,Dor no peito,Falta de ar,Hipertensão,2018-11-29 00:08:50,2019-01-30 07:26:47,2019-08-17 09:19:16,Hospital e maternidade celestina colares,6,CONCLUÍDO
+608,Skylar McCandie,04/23/2020,M,Acidente no trânsito,Vômito,Doença cardíaca,2018-04-25 16:37:20,2019-01-23 00:49:13,2019-09-21 09:03:07,Hospital São Raimundo,36,REALOCADO
+609,Kareem Skill,05/12/1996,M,Acidente no trânsito,Falta de ar,Hipertensão,2018-08-26 14:44:49,2019-02-20 15:11:07,2019-04-20 08:28:01,Hospital e maternidade celestina colares,2,REALOCADO
+610,Sibbie Felmingham,10/14/1989,F,Acidente no trânsito,Vômito,Doença cardíaca,2018-04-15 02:38:54,2019-02-17 16:22:01,2019-06-30 17:09:14,Hospital geral do vale do Jaguaribe,5,AGUARDANDO
+611,Talbot Parmeter,10/08/1967,M,Acidente no trânsito,Dor no peito,Hipertensão,2018-03-30 14:34:38,,,Hospital São Raimundo,5,REALOCADO
+612,Gertie Clissett,12/17/1985,F,Dor no peito,Cansaço,Doença respiratória,2018-04-27 19:00:26,2019-02-25 18:17:03,2019-08-13 02:11:56,Hospital geral do vale do Jaguaribe,12,REALOCADO
+613,Colene Dawidowicz,10/03/1999,F,Febre,Vômito,Diabetes,2018-05-03 06:00:25,,,Hospital e maternidade celestina colares,31,EM ATENDIMENTO
+614,Durward Maxsted,02/25/2012,M,Dor no peito,Cansaço,Diabetes,2018-06-11 13:31:17,2019-01-03 16:24:04,2019-09-03 16:44:17,Hospital e maternidade celestina colares,41,AGUARDANDO
+615,Ingeborg Grimolbie,02/20/1941,F,Acidente no trânsito,Dor de cabeça,Diabetes,2018-09-20 10:34:12,2019-01-13 01:48:23,2019-08-02 18:55:22,Hospital geral do vale do Jaguaribe,7,CONCLUÍDO
+616,Talya Dunnan,04/24/2005,F,Acidente no trânsito,Febre,Doença respiratória,2018-04-16 15:17:23,2019-02-14 11:19:00,2019-10-18 18:32:29,Hospital São Raimundo,31,CONCLUÍDO
+617,Lara Evequot,10/03/1948,F,Dor no peito,Falta de ar,Doença cardíaca,2018-01-20 12:47:33,2019-01-30 02:41:31,2019-08-18 01:57:41,Hospital geral do vale do Jaguaribe,48,REALOCADO
+618,Felizio Toffanelli,08/07/1944,M,Desmaio,Dor de cabeça,Hipertensão,2018-10-14 19:54:16,2019-01-06 20:31:49,2019-06-04 12:47:24,Hospital São Raimundo,8,EM ATENDIMENTO
+619,Madonna Derrett,02/06/1995,F,Acidente doméstico,Vômito,Hipertensão,2018-07-06 00:46:32,,,Hospital geral do vale do Jaguaribe,41,AGUARDANDO
+620,Tildie Muat,08/19/2001,F,Dor no peito,Falta de ar,Diabetes,2018-12-24 08:24:44,2019-01-01 11:10:08,2019-09-09 13:31:09,Hospital geral do vale do Jaguaribe,8,EM ATENDIMENTO
+621,Tedmund Phelps,12/27/1970,M,Desmaio,Falta de ar,Doença respiratória,2018-04-09 21:28:54,2019-01-16 06:36:44,2019-09-04 13:15:57,Hospital São Raimundo,30,CONCLUÍDO
+622,Miltie Giorio,11/03/1941,M,Dor no peito,Dor de cabeça,Hipertensão,2018-01-28 21:34:46,2019-01-30 01:25:31,2019-10-14 22:14:03,Hospital geral do vale do Jaguaribe,3,CONCLUÍDO
+623,Mattias Pauley,04/13/2017,M,Febre,Falta de ar,Doença cardíaca,2018-03-21 03:15:16,,,Hospital e maternidade celestina colares,33,CONCLUÍDO
+624,Gasparo Marcam,03/15/2003,M,Desmaio,Dor no peito,Hipertensão,2018-06-07 23:34:59,2019-02-17 07:34:00,2019-03-02 20:03:44,Hospital geral do vale do Jaguaribe,7,AGUARDANDO
+625,Clim Leyborne,04/13/1944,M,Acidente no trânsito,Dor de cabeça,Diabetes,2018-06-05 19:01:29,2019-01-04 22:22:48,2019-08-30 16:39:25,Hospital geral do vale do Jaguaribe,12,AGUARDANDO
+626,Warden Moxted,10/27/1980,M,Acidente no trânsito,Vômito,Diabetes,2018-03-04 22:16:57,2019-02-16 20:14:46,2019-10-15 16:10:47,Hospital São Raimundo,11,CONCLUÍDO
+627,Mendel Likely,05/18/1943,M,Dor no peito,Falta de ar,Doença respiratória,2018-07-15 22:22:08,2019-02-23 17:16:03,2019-10-01 23:26:22,Hospital e maternidade celestina colares,31,REALOCADO
+628,Nap Raynor,11/04/2006,M,Acidente doméstico,Falta de ar,Diabetes,2018-05-12 14:12:18,2019-02-05 03:13:56,2019-06-26 15:38:01,Hospital geral do vale do Jaguaribe,26,EM ATENDIMENTO
+629,Tedmund Adrianello,02/17/1940,M,Febre,Falta de ar,Doença cardíaca,2018-02-09 12:36:28,2019-02-08 08:40:00,2019-09-19 22:50:48,Hospital e maternidade celestina colares,31,CONCLUÍDO
+630,Bettine Denk,10/07/1944,F,Acidente doméstico,Dor de cabeça,Doença cardíaca,2018-02-03 04:21:04,2019-02-16 23:49:42,2019-03-30 02:07:42,Hospital e maternidade celestina colares,49,AGUARDANDO
+631,Julio Bowmen,02/25/1982,M,Desmaio,Cansaço,Doença cardíaca,2018-06-05 19:06:56,2019-02-27 09:29:48,2019-06-11 14:19:55,Hospital e maternidade celestina colares,37,EM ATENDIMENTO
+632,Saundra Hallifax,06/20/2008,F,Desmaio,Cansaço,Hipertensão,2018-09-30 14:30:58,,,Hospital São Raimundo,49,CONCLUÍDO
+633,Buddie Ephgrave,07/14/1953,M,Acidente doméstico,Dor de cabeça,Doença respiratória,2018-09-06 21:11:14,2019-02-17 05:11:27,2019-07-28 15:32:22,Hospital e maternidade celestina colares,8,CONCLUÍDO
+634,Bell Dakhno,05/24/2000,F,Febre,Dor de cabeça,Diabetes,2018-09-12 05:33:08,2019-02-26 18:35:21,2019-10-10 18:13:45,Hospital e maternidade celestina colares,3,AGUARDANDO
+635,Alric Howgate,09/16/1962,M,Dor de cabeça,Cansaço,Doença respiratória,2018-09-04 19:31:53,2019-02-06 21:58:53,2019-08-03 17:49:18,Hospital São Raimundo,18,AGUARDANDO
+636,Cesaro Draycott,05/10/2014,M,Violência doméstica,Febre,Doença cardíaca,2018-04-06 22:05:35,2019-01-24 06:48:52,2019-08-22 18:29:58,Hospital e maternidade celestina colares,44,REALOCADO
+637,Frankie Elington,01/19/2019,F,Acidente no trânsito,Falta de ar,Hipertensão,2018-02-11 21:15:12,2019-02-09 11:06:49,2019-09-04 12:35:20,Hospital geral do vale do Jaguaribe,1,REALOCADO
+638,Hayden Dilleston,04/16/1992,M,Violência doméstica,Dor no peito,Doença respiratória,2018-11-25 04:51:44,2019-01-04 21:36:19,2019-09-23 21:12:48,Hospital São Raimundo,10,EM ATENDIMENTO
+639,Ginni Castleman,07/07/1968,F,Febre,Vômito,Hipertensão,2018-01-20 18:21:16,,,Hospital e maternidade celestina colares,28,CONCLUÍDO
+640,Sophi Cabrer,07/27/2007,F,Desmaio,Falta de ar,Doença respiratória,2018-03-25 18:06:02,2019-01-20 02:53:36,2019-08-23 06:07:52,Hospital geral do vale do Jaguaribe,5,REALOCADO
+641,Zebadiah Favill,06/24/1988,M,Violência doméstica,Falta de ar,Diabetes,2018-07-21 10:41:42,2019-02-17 07:55:09,2019-06-15 01:39:39,Hospital São Raimundo,5,CONCLUÍDO
+642,Jill Beevers,07/24/1944,F,Desmaio,Cansaço,Doença cardíaca,2018-02-16 05:30:39,,,Hospital São Raimundo,18,CONCLUÍDO
+643,Alyse Rawstron,07/16/2004,F,Dor de cabeça,Falta de ar,Doença respiratória,2018-01-22 12:16:20,2019-02-08 21:09:16,2019-09-13 02:29:23,Hospital e maternidade celestina colares,15,CONCLUÍDO
+644,Dalenna Kevis,03/28/1940,F,Dor de cabeça,Falta de ar,Doença cardíaca,2018-12-27 08:38:35,2019-01-25 20:18:38,2019-05-09 10:48:38,Hospital São Raimundo,14,REALOCADO
+645,Roarke Barnsdale,03/06/1969,M,Acidente doméstico,Febre,Doença cardíaca,2018-08-31 00:29:02,,,Hospital e maternidade celestina colares,33,REALOCADO
+646,Dianne Matuszkiewicz,05/01/1949,F,Dor no peito,Dor de cabeça,Hipertensão,2018-01-15 04:20:55,,,Hospital São Raimundo,3,CONCLUÍDO
+647,Gard Bertomeu,12/12/2006,M,Acidente no trânsito,Falta de ar,Diabetes,2018-02-12 17:10:23,,,Hospital e maternidade celestina colares,3,EM ATENDIMENTO
+648,Kristel Hagland,11/01/2019,F,Acidente no trânsito,Cansaço,Hipertensão,2018-09-15 20:30:07,2019-02-23 04:21:13,2019-09-09 07:11:21,Hospital e maternidade celestina colares,12,CONCLUÍDO
+649,Hernando Daniell,07/07/1966,M,Acidente doméstico,Vômito,Diabetes,2018-01-22 18:18:56,,,Hospital São Raimundo,16,AGUARDANDO
+650,Robb McUre,07/02/1954,M,Febre,Cansaço,Doença cardíaca,2018-12-24 04:15:05,2019-01-22 01:27:27,2019-09-25 14:32:44,Hospital São Raimundo,1,CONCLUÍDO
+651,Beverlie Lackham,06/22/1975,F,Dor no peito,Dor no peito,Doença cardíaca,2018-07-10 10:32:17,2019-01-26 08:07:05,2019-03-27 10:52:01,Hospital São Raimundo,31,CONCLUÍDO
+652,Floria Philipet,06/16/1945,F,Dor de cabeça,Dor no peito,Doença respiratória,2018-11-27 16:00:32,2019-02-27 09:54:37,2019-06-01 06:41:16,Hospital geral do vale do Jaguaribe,44,REALOCADO
+653,Barby McNamara,09/09/1976,F,Acidente doméstico,Febre,Hipertensão,2018-07-01 13:30:38,2019-02-22 02:01:47,2019-10-12 14:19:02,Hospital e maternidade celestina colares,41,CONCLUÍDO
+654,Karil Reedyhough,06/16/2014,F,Acidente no trânsito,Vômito,Hipertensão,2018-01-17 07:35:21,2019-01-30 23:21:59,2019-05-15 18:49:53,Hospital São Raimundo,1,CONCLUÍDO
+655,Burk Furness,03/26/1941,M,Dor de cabeça,Dor de cabeça,Hipertensão,2018-10-22 16:25:24,,,Hospital geral do vale do Jaguaribe,24,REALOCADO
+656,Bria Gosnold,08/30/1960,F,Desmaio,Cansaço,Doença respiratória,2018-02-18 19:54:37,,,Hospital São Raimundo,17,REALOCADO
+657,Alidia Dyter,07/29/1955,F,Violência doméstica,Cansaço,Hipertensão,2018-10-07 23:05:13,2019-02-01 12:37:23,2019-08-12 22:59:15,Hospital São Raimundo,7,CONCLUÍDO
+658,Nilson Gringley,06/22/1967,M,Acidente no trânsito,Vômito,Doença respiratória,2018-07-10 14:58:25,2019-01-28 18:04:30,2019-06-26 09:39:27,Hospital geral do vale do Jaguaribe,12,REALOCADO
+659,Efrem Woehler,06/16/1999,M,Violência doméstica,Vômito,Hipertensão,2018-03-21 06:49:56,2019-01-19 19:50:37,2019-06-18 00:13:56,Hospital e maternidade celestina colares,22,AGUARDANDO
+660,Dionisio Harkess,08/26/1984,M,Febre,Dor de cabeça,Doença respiratória,2018-10-31 08:15:49,2019-02-06 13:49:23,2019-04-14 23:02:58,Hospital geral do vale do Jaguaribe,5,CONCLUÍDO
+661,Gabriel Mirfin,03/17/1967,F,Dor de cabeça,Vômito,Doença cardíaca,2018-09-07 10:37:24,2019-02-03 07:29:11,2019-06-10 01:19:54,Hospital e maternidade celestina colares,35,AGUARDANDO
+662,Orbadiah Budding,03/22/2010,M,Dor de cabeça,Febre,Doença cardíaca,2018-11-24 23:02:16,,,Hospital São Raimundo,38,REALOCADO
+663,Jack Skally,08/03/1942,M,Febre,Falta de ar,Doença respiratória,2018-01-14 08:53:01,,,Hospital e maternidade celestina colares,19,EM ATENDIMENTO
+664,Giavani Mewe,12/17/1985,M,Acidente no trânsito,Vômito,Hipertensão,2018-09-11 15:13:52,,,Hospital São Raimundo,35,AGUARDANDO
+665,Lonee Kerner,05/03/2011,F,Acidente no trânsito,Cansaço,Doença cardíaca,2018-02-28 00:40:43,2019-01-13 18:03:40,2019-04-07 12:47:25,Hospital São Raimundo,26,EM ATENDIMENTO
+666,Jessy Clough,08/14/1951,F,Violência doméstica,Febre,Doença respiratória,2018-06-15 19:24:40,2019-01-11 08:38:33,2019-09-30 12:30:22,Hospital São Raimundo,35,CONCLUÍDO
+667,Elisha Jubert,03/31/1968,M,Violência doméstica,Vômito,Diabetes,2018-07-27 05:18:34,2019-01-08 09:04:50,2019-06-12 14:09:03,Hospital e maternidade celestina colares,16,REALOCADO
+668,Sabine Twinn,11/10/1947,F,Violência doméstica,Cansaço,Doença cardíaca,2018-08-10 21:28:04,2019-01-16 00:49:56,2019-04-13 03:27:54,Hospital geral do vale do Jaguaribe,3,REALOCADO
+669,Hesther Skyram,11/11/2019,F,Acidente doméstico,Cansaço,Doença cardíaca,2018-11-29 03:55:46,,,Hospital geral do vale do Jaguaribe,33,REALOCADO
+670,Revkah Tace,07/31/1983,F,Dor de cabeça,Cansaço,Doença respiratória,2018-08-17 02:06:59,2019-01-04 00:18:39,2019-04-25 15:54:01,Hospital e maternidade celestina colares,35,EM ATENDIMENTO
+671,Carolus Heigl,01/16/1971,M,Violência doméstica,Cansaço,Doença cardíaca,2018-09-23 17:29:45,2019-01-27 14:22:49,2019-04-03 08:33:00,Hospital São Raimundo,15,AGUARDANDO
+672,Emlyn Slate,09/13/1985,F,Violência doméstica,Dor de cabeça,Doença cardíaca,2018-04-06 00:47:15,2019-02-08 03:50:14,2019-04-03 15:10:52,Hospital São Raimundo,16,CONCLUÍDO
+673,Nikolai Sharkey,09/14/2006,M,Acidente doméstico,Dor no peito,Diabetes,2018-05-16 16:02:07,2019-01-19 01:48:47,2019-05-12 08:39:32,Hospital e maternidade celestina colares,21,CONCLUÍDO
+674,Thor Concannon,09/12/1958,M,Desmaio,Dor no peito,Doença respiratória,2018-07-03 00:22:08,2019-01-23 06:40:33,2019-04-19 23:20:20,Hospital São Raimundo,9,EM ATENDIMENTO
+675,Charles Vel,10/11/1988,M,Acidente doméstico,Falta de ar,Doença cardíaca,2018-08-14 01:20:11,2019-01-25 00:31:08,2019-06-11 02:03:39,Hospital São Raimundo,44,REALOCADO
+676,Benedetta Sommerling,08/29/1975,F,Violência doméstica,Dor de cabeça,Hipertensão,2018-12-20 03:11:11,2019-02-08 02:08:25,2019-08-28 11:45:09,Hospital São Raimundo,39,REALOCADO
+677,Greg Bagshaw,01/05/1947,M,Febre,Vômito,Doença respiratória,2018-03-02 23:24:46,,,Hospital geral do vale do Jaguaribe,26,REALOCADO
+678,Sibylle Sheehy,12/01/2017,F,Dor no peito,Dor no peito,Hipertensão,2018-05-15 14:50:32,2019-02-23 08:15:46,2019-10-16 06:34:54,Hospital São Raimundo,3,EM ATENDIMENTO
+679,Coretta Kik,12/13/1944,F,Acidente doméstico,Dor de cabeça,Doença respiratória,2018-03-29 15:39:59,,,Hospital São Raimundo,29,AGUARDANDO
+680,Nate Finder,07/01/1977,M,Acidente no trânsito,Dor de cabeça,Hipertensão,2018-12-12 16:25:35,2019-01-25 01:33:51,2019-09-26 12:07:10,Hospital São Raimundo,2,AGUARDANDO
+681,Herby Lippard,05/22/1965,M,Acidente no trânsito,Cansaço,Doença respiratória,2018-04-24 23:57:24,,,Hospital São Raimundo,18,EM ATENDIMENTO
+682,Terese Lakeland,04/04/1975,F,Acidente no trânsito,Falta de ar,Hipertensão,2018-03-28 13:15:31,2019-01-24 10:43:48,2019-10-22 03:25:16,Hospital geral do vale do Jaguaribe,3,REALOCADO
+683,Rube Drabble,04/19/2019,M,Acidente no trânsito,Cansaço,Doença respiratória,2018-02-28 10:44:01,2019-01-03 18:01:58,2019-04-22 00:11:33,Hospital São Raimundo,45,REALOCADO
+684,Joey Shovelbottom,04/18/1999,F,Acidente no trânsito,Vômito,Doença respiratória,2018-07-10 15:00:18,2019-01-05 22:05:19,2019-06-16 16:03:07,Hospital São Raimundo,42,EM ATENDIMENTO
+685,Melicent Peiro,10/06/1997,F,Acidente doméstico,Falta de ar,Doença respiratória,2018-05-25 01:43:39,2019-01-24 00:48:31,2019-04-16 13:33:29,Hospital geral do vale do Jaguaribe,11,EM ATENDIMENTO
+686,Stacy Pirdy,07/05/2007,M,Desmaio,Cansaço,Doença cardíaca,2018-10-18 19:54:15,2019-02-06 17:22:40,2019-07-27 19:25:09,Hospital São Raimundo,33,AGUARDANDO
+687,Melisse Bailie,02/26/2008,F,Febre,Vômito,Doença respiratória,2018-01-18 17:44:22,,,Hospital São Raimundo,21,EM ATENDIMENTO
+688,Rhonda Smickle,08/04/1957,F,Desmaio,Falta de ar,Diabetes,2018-02-03 02:22:26,2019-01-08 11:42:56,2019-08-09 16:31:50,Hospital e maternidade celestina colares,28,REALOCADO
+689,Gussie Apple,11/29/1941,F,Dor no peito,Dor de cabeça,Hipertensão,2018-02-01 01:05:36,2019-01-04 06:55:58,2019-10-19 16:37:56,Hospital e maternidade celestina colares,41,CONCLUÍDO
+690,Udale Crystal,02/20/1999,M,Febre,Dor no peito,Doença respiratória,2018-09-17 14:05:04,2019-02-17 08:47:46,2019-04-28 14:05:07,Hospital e maternidade celestina colares,1,EM ATENDIMENTO
+691,Merrily MacGinlay,12/06/1982,F,Dor de cabeça,Dor de cabeça,Doença respiratória,2018-06-29 13:33:39,2019-02-19 15:06:42,2019-03-08 01:33:38,Hospital e maternidade celestina colares,7,REALOCADO
+692,Melesa Cargill,11/09/1948,F,Acidente doméstico,Cansaço,Doença cardíaca,2018-07-15 13:52:47,,,Hospital geral do vale do Jaguaribe,13,CONCLUÍDO
+693,Bondie Skiggs,02/11/1979,M,Acidente doméstico,Dor de cabeça,Doença cardíaca,2018-04-11 13:04:25,2019-02-23 20:23:02,2019-04-19 01:39:51,Hospital e maternidade celestina colares,9,EM ATENDIMENTO
+694,Zaccaria Gavrielly,07/25/2004,M,Violência doméstica,Falta de ar,Diabetes,2018-07-13 03:53:39,2019-01-05 00:45:11,2019-07-15 05:48:26,Hospital e maternidade celestina colares,13,AGUARDANDO
+695,Marcella Figure,10/25/1982,F,Desmaio,Vômito,Doença cardíaca,2018-06-08 08:42:21,,,Hospital e maternidade celestina colares,17,REALOCADO
+696,Reinwald Agott,08/29/1954,M,Acidente doméstico,Vômito,Diabetes,2018-08-03 09:33:54,,,Hospital São Raimundo,24,REALOCADO
+697,Danya Vondrach,03/13/1994,M,Violência doméstica,Dor no peito,Doença respiratória,2018-02-17 04:44:42,2019-02-09 01:42:47,2019-04-29 15:29:06,Hospital São Raimundo,23,EM ATENDIMENTO
+698,Parnell Lamberteschi,04/24/1966,M,Acidente no trânsito,Falta de ar,Doença cardíaca,2018-05-22 08:08:35,,,Hospital São Raimundo,21,AGUARDANDO
+699,Nikki Gulvin,07/21/1997,M,Violência doméstica,Dor de cabeça,Doença respiratória,2018-03-24 14:19:22,,,Hospital geral do vale do Jaguaribe,23,AGUARDANDO
+700,Vinni Mushart,03/08/1946,F,Desmaio,Dor de cabeça,Hipertensão,2018-02-24 23:07:29,,,Hospital e maternidade celestina colares,9,EM ATENDIMENTO
+701,Axel Gley,05/28/1970,M,Dor de cabeça,Febre,Hipertensão,2018-05-06 07:06:47,,,Hospital São Raimundo,24,REALOCADO
+702,Bronny Lambrook,06/22/1955,M,Acidente doméstico,Dor no peito,Diabetes,2018-04-03 19:01:27,2019-02-08 18:55:22,2019-10-09 06:00:07,Hospital e maternidade celestina colares,50,EM ATENDIMENTO
+703,Hilda Neiland,08/05/1960,F,Acidente doméstico,Falta de ar,Doença cardíaca,2018-03-05 22:50:37,,,Hospital São Raimundo,5,EM ATENDIMENTO
+704,Adina Chaloner,07/21/2018,F,Desmaio,Febre,Doença respiratória,2018-04-04 08:14:36,,,Hospital São Raimundo,9,AGUARDANDO
+705,Jan Sylvaine,06/03/1961,F,Desmaio,Dor no peito,Doença respiratória,2018-10-17 20:58:26,,,Hospital e maternidade celestina colares,14,CONCLUÍDO
+706,Derril Switzer,01/10/2004,M,Violência doméstica,Vômito,Diabetes,2018-03-28 18:35:04,,,Hospital São Raimundo,2,REALOCADO
+707,Lisa Waldock,09/26/1983,F,Acidente no trânsito,Febre,Doença respiratória,2018-10-16 20:20:24,2019-01-30 05:12:32,2019-07-27 23:40:12,Hospital e maternidade celestina colares,5,REALOCADO
+708,Bernie Kalinke,07/18/1988,F,Violência doméstica,Dor de cabeça,Diabetes,2018-01-28 20:18:05,2019-01-29 13:28:26,2019-08-29 23:15:06,Hospital São Raimundo,34,AGUARDANDO
+709,Esta Bartoszewicz,06/23/2018,F,Dor de cabeça,Febre,Doença cardíaca,2018-09-07 10:36:50,2019-01-11 22:46:04,2019-03-13 11:51:23,Hospital e maternidade celestina colares,23,EM ATENDIMENTO
+710,Ave McAlpin,01/25/2008,M,Acidente no trânsito,Vômito,Doença respiratória,2018-11-07 01:28:24,2019-02-05 13:44:54,2019-09-16 22:53:26,Hospital São Raimundo,3,EM ATENDIMENTO
+711,Bliss Gallaway,05/20/1964,F,Acidente doméstico,Dor de cabeça,Diabetes,2018-08-02 15:32:02,2019-01-31 03:37:15,2019-05-14 08:43:42,Hospital geral do vale do Jaguaribe,18,CONCLUÍDO
+712,Ann Gatley,12/04/2009,F,Acidente no trânsito,Febre,Hipertensão,2018-12-21 19:29:56,2019-01-31 01:09:54,2019-07-17 20:14:54,Hospital geral do vale do Jaguaribe,23,REALOCADO
+713,Sandie Marages,09/02/1966,F,Desmaio,Cansaço,Doença respiratória,2018-06-24 18:48:13,2019-01-02 13:29:29,2019-07-28 02:36:45,Hospital e maternidade celestina colares,27,AGUARDANDO
+714,Rachelle Geoghegan,10/26/2008,F,Acidente doméstico,Dor no peito,Diabetes,2018-11-14 23:56:14,2019-01-06 03:35:00,2019-03-31 23:09:44,Hospital geral do vale do Jaguaribe,15,CONCLUÍDO
+715,Elsbeth Gepson,06/08/1966,F,Dor de cabeça,Falta de ar,Doença cardíaca,2018-05-18 14:38:15,2019-02-22 06:05:55,2019-06-26 18:54:27,Hospital São Raimundo,3,REALOCADO
+716,Sissy Shackesby,09/18/1980,F,Dor no peito,Dor no peito,Hipertensão,2018-07-07 14:16:07,2019-02-08 18:01:29,2019-04-14 11:52:12,Hospital São Raimundo,20,EM ATENDIMENTO
+717,Tammara Oscroft,09/26/2013,F,Acidente doméstico,Falta de ar,Hipertensão,2018-04-02 16:00:28,2019-02-12 07:21:52,2019-09-16 21:53:05,Hospital geral do vale do Jaguaribe,16,REALOCADO
+718,Kiele Borrington,02/10/1968,F,Dor no peito,Falta de ar,Doença cardíaca,2018-06-29 09:59:28,2019-02-24 07:23:33,2019-08-16 20:28:12,Hospital geral do vale do Jaguaribe,37,AGUARDANDO
+719,Woodman Osgorby,07/31/1970,M,Acidente doméstico,Dor no peito,Doença respiratória,2018-04-29 13:07:11,2019-02-10 00:15:29,2019-10-07 20:18:36,Hospital São Raimundo,29,AGUARDANDO
+720,Marylynne Justis,11/16/2006,F,Febre,Febre,Doença cardíaca,2018-01-30 16:51:57,2019-02-06 17:34:43,2019-08-27 15:44:43,Hospital e maternidade celestina colares,21,AGUARDANDO
+721,Doti Tregaskis,09/26/2009,F,Violência doméstica,Dor de cabeça,Hipertensão,2018-07-01 08:30:22,2019-02-09 12:16:50,2019-08-14 16:15:32,Hospital e maternidade celestina colares,6,EM ATENDIMENTO
+722,Tyler Vaugham,01/21/1976,M,Febre,Dor no peito,Diabetes,2018-02-03 13:49:31,2019-02-21 00:43:22,2019-09-30 04:47:24,Hospital geral do vale do Jaguaribe,23,AGUARDANDO
+723,Katerine Wilstead,06/29/1948,F,Acidente no trânsito,Dor de cabeça,Diabetes,2018-01-20 12:27:33,2019-02-13 08:55:09,2019-07-25 06:53:07,Hospital e maternidade celestina colares,16,REALOCADO
+724,Clarette Whitwood,06/21/2001,F,Dor de cabeça,Cansaço,Doença cardíaca,2018-06-02 06:54:45,2019-01-11 01:15:21,2019-06-15 13:31:44,Hospital e maternidade celestina colares,11,REALOCADO
+725,Cass Shergold,09/17/1953,M,Dor no peito,Falta de ar,Diabetes,2018-05-29 20:40:22,2019-02-23 08:12:14,2019-06-10 19:05:58,Hospital e maternidade celestina colares,38,REALOCADO
+726,Natale Samworth,10/31/1986,M,Violência doméstica,Dor de cabeça,Doença respiratória,2018-02-03 12:11:58,2019-01-23 02:51:18,2019-08-16 01:36:06,Hospital e maternidade celestina colares,37,EM ATENDIMENTO
+727,Meyer Jedrasik,07/14/1970,M,Febre,Dor de cabeça,Diabetes,2018-02-09 14:52:57,,,Hospital geral do vale do Jaguaribe,35,EM ATENDIMENTO
+728,Cornelius Arlet,11/08/1959,M,Acidente no trânsito,Falta de ar,Hipertensão,2018-04-11 21:41:30,2019-01-20 16:48:58,2019-07-03 03:18:51,Hospital São Raimundo,1,AGUARDANDO
+729,Jan Godsmark,04/09/1999,F,Dor no peito,Dor no peito,Doença respiratória,2018-06-02 21:22:03,,,Hospital e maternidade celestina colares,48,REALOCADO
+730,Beverie Muggach,01/31/2013,F,Acidente no trânsito,Falta de ar,Doença respiratória,2018-08-20 06:28:59,,,Hospital e maternidade celestina colares,40,CONCLUÍDO
+731,Moreen Pointin,03/28/1965,F,Acidente no trânsito,Vômito,Diabetes,2018-09-26 05:49:10,,,Hospital São Raimundo,4,REALOCADO
+732,Shaw Wince,11/11/2011,M,Desmaio,Vômito,Doença cardíaca,2018-11-22 09:00:49,2019-01-03 20:58:54,2019-07-23 18:31:27,Hospital geral do vale do Jaguaribe,29,AGUARDANDO
+733,Clemmie Radband,04/11/1983,M,Violência doméstica,Vômito,Diabetes,2018-10-12 12:39:02,2019-02-03 14:58:40,2019-04-09 06:38:04,Hospital e maternidade celestina colares,43,REALOCADO
+734,Tymon Kennaird,08/14/1995,M,Acidente doméstico,Dor no peito,Hipertensão,2018-06-07 15:04:44,,,Hospital e maternidade celestina colares,22,AGUARDANDO
+735,Addie Detheridge,02/26/2016,F,Acidente no trânsito,Dor de cabeça,Doença cardíaca,2018-07-25 14:26:29,,,Hospital geral do vale do Jaguaribe,21,AGUARDANDO
+736,Pamella Panchin,07/15/1959,F,Febre,Febre,Diabetes,2018-07-25 16:03:42,,,Hospital e maternidade celestina colares,15,AGUARDANDO
+737,Reginald Kyle,10/28/2007,M,Febre,Cansaço,Diabetes,2018-07-04 08:37:50,2019-01-23 05:27:10,2019-03-27 13:44:15,Hospital geral do vale do Jaguaribe,20,REALOCADO
+738,Heddie Yeates,07/08/1951,F,Acidente no trânsito,Cansaço,Hipertensão,2018-02-26 14:26:02,2019-01-20 04:44:55,2019-09-13 00:23:41,Hospital São Raimundo,28,CONCLUÍDO
+739,Hilda Rattrie,01/30/1995,F,Violência doméstica,Cansaço,Diabetes,2018-12-12 15:36:21,2019-01-12 04:43:12,2019-05-25 14:38:08,Hospital São Raimundo,10,REALOCADO
+740,Rosana de Guerre,12/31/1943,F,Desmaio,Dor no peito,Doença respiratória,2018-07-12 19:23:15,2019-01-13 14:06:56,2019-03-04 09:39:33,Hospital geral do vale do Jaguaribe,15,EM ATENDIMENTO
+741,Dory Koppens,02/14/1987,M,Acidente doméstico,Febre,Hipertensão,2018-08-13 22:43:41,,,Hospital e maternidade celestina colares,11,AGUARDANDO
+742,Vaclav Nisco,11/27/1997,M,Dor no peito,Vômito,Hipertensão,2018-12-10 03:32:10,2019-01-01 11:34:29,2019-04-06 14:22:38,Hospital e maternidade celestina colares,27,AGUARDANDO
+743,Virge Kall,04/10/1959,M,Febre,Dor de cabeça,Diabetes,2018-12-06 23:40:07,2019-01-08 18:46:33,2019-03-13 18:50:52,Hospital e maternidade celestina colares,5,REALOCADO
+744,Ema Swanton,11/02/2017,F,Dor no peito,Dor de cabeça,Doença cardíaca,2018-04-01 05:28:02,,,Hospital e maternidade celestina colares,47,AGUARDANDO
+745,Farah Brambell,07/04/2000,F,Desmaio,Febre,Diabetes,2018-07-25 01:12:03,2019-02-09 02:53:56,2019-10-13 02:38:23,Hospital São Raimundo,9,AGUARDANDO
+746,Marisa Odgers,02/20/2010,F,Acidente no trânsito,Vômito,Diabetes,2018-08-11 18:10:39,2019-02-23 04:11:08,2019-03-13 03:36:52,Hospital geral do vale do Jaguaribe,2,AGUARDANDO
+747,Karen Raymont,08/04/1941,F,Acidente doméstico,Dor de cabeça,Doença respiratória,2018-03-28 11:46:17,2019-02-20 20:30:57,2019-03-31 07:12:50,Hospital geral do vale do Jaguaribe,25,CONCLUÍDO
+748,Carlin Brazear,09/13/1991,M,Desmaio,Dor de cabeça,Diabetes,2018-03-12 22:09:52,,,Hospital e maternidade celestina colares,5,REALOCADO
+749,Liv Hobben,11/16/2002,F,Acidente no trânsito,Falta de ar,Diabetes,2018-06-29 12:13:33,,,Hospital São Raimundo,8,AGUARDANDO
+750,Torey Kenwood,12/31/2003,M,Dor no peito,Cansaço,Hipertensão,2018-06-21 14:45:49,,,Hospital e maternidade celestina colares,4,REALOCADO
+751,Ivett Cestard,04/23/2013,F,Desmaio,Cansaço,Doença cardíaca,2018-04-05 22:35:19,2019-01-16 11:30:15,2019-10-21 02:26:33,Hospital geral do vale do Jaguaribe,13,EM ATENDIMENTO
+752,Rosie Ralls,04/03/1960,F,Dor de cabeça,Falta de ar,Doença cardíaca,2018-12-13 07:11:18,,,Hospital geral do vale do Jaguaribe,19,CONCLUÍDO
+753,Hughie Wilder,02/05/2014,M,Desmaio,Febre,Hipertensão,2018-10-24 19:36:13,2019-01-29 16:33:24,2019-10-07 10:49:35,Hospital e maternidade celestina colares,3,CONCLUÍDO
+754,Arleen Danilchenko,08/23/1981,F,Dor no peito,Dor de cabeça,Doença respiratória,2018-01-21 00:35:18,2019-02-09 00:01:47,2019-10-21 19:47:42,Hospital São Raimundo,5,CONCLUÍDO
+755,Nikki Michelle,10/20/1984,F,Desmaio,Cansaço,Doença respiratória,2018-07-25 02:54:36,,,Hospital geral do vale do Jaguaribe,35,CONCLUÍDO
+756,Kellby Hanalan,11/18/1977,M,Violência doméstica,Febre,Doença respiratória,2018-07-10 08:35:00,,,Hospital e maternidade celestina colares,30,AGUARDANDO
+757,Franny Demangel,10/07/1964,M,Desmaio,Vômito,Doença cardíaca,2018-09-09 16:30:50,,,Hospital e maternidade celestina colares,43,CONCLUÍDO
+758,Patty Hardwich,01/27/1985,F,Dor de cabeça,Cansaço,Diabetes,2018-02-04 01:57:57,2019-01-06 23:43:30,2019-06-04 16:44:02,Hospital e maternidade celestina colares,35,AGUARDANDO
+759,Normie Lunn,11/19/2005,M,Dor no peito,Cansaço,Hipertensão,2018-12-09 16:03:53,2019-01-22 05:18:08,2019-06-28 05:00:32,Hospital geral do vale do Jaguaribe,27,EM ATENDIMENTO
+760,Gideon Gillaspy,11/10/1950,M,Dor no peito,Febre,Hipertensão,2018-06-28 15:31:42,2019-02-04 11:38:28,2019-06-14 02:39:00,Hospital e maternidade celestina colares,31,REALOCADO
+761,Leroy Wildish,12/09/1945,M,Violência doméstica,Falta de ar,Diabetes,2018-09-09 09:12:34,,,Hospital e maternidade celestina colares,8,REALOCADO
+762,Fannie Reilly,06/26/1944,F,Desmaio,Vômito,Doença respiratória,2018-10-18 03:26:28,2019-01-29 12:21:25,2019-05-30 01:01:44,Hospital São Raimundo,9,AGUARDANDO
+763,Gale Filipic,07/25/1979,F,Dor de cabeça,Febre,Diabetes,2018-03-03 13:13:29,,,Hospital São Raimundo,31,EM ATENDIMENTO
+764,Teddy Webby,01/08/1941,M,Dor no peito,Febre,Diabetes,2018-04-13 05:24:03,,,Hospital geral do vale do Jaguaribe,5,AGUARDANDO
+765,Vivia Bringloe,08/15/1972,F,Febre,Dor no peito,Doença cardíaca,2018-08-23 11:55:03,2019-01-07 22:11:05,2019-04-03 02:39:51,Hospital São Raimundo,9,CONCLUÍDO
+766,Desmund Goodliff,06/15/1950,M,Violência doméstica,Dor no peito,Diabetes,2018-10-08 10:19:49,,,Hospital geral do vale do Jaguaribe,8,REALOCADO
+767,Tammy Kees,04/24/1954,M,Dor no peito,Cansaço,Doença cardíaca,2018-03-10 21:46:57,,,Hospital e maternidade celestina colares,3,AGUARDANDO
+768,Kimbra Ralls,04/10/1972,F,Desmaio,Dor de cabeça,Diabetes,2018-12-20 13:03:45,,,Hospital e maternidade celestina colares,13,EM ATENDIMENTO
+769,Geoff Farbrace,03/04/2007,M,Dor no peito,Falta de ar,Doença respiratória,2018-04-14 06:22:39,2019-02-14 03:19:58,2019-07-17 03:03:43,Hospital geral do vale do Jaguaribe,32,REALOCADO
+770,Aloysia Scarff,03/05/2011,F,Acidente no trânsito,Falta de ar,Hipertensão,2018-05-18 05:25:16,2019-02-03 12:27:35,2019-09-20 20:48:24,Hospital geral do vale do Jaguaribe,22,CONCLUÍDO
+771,Leon Samwayes,12/23/2012,M,Violência doméstica,Febre,Hipertensão,2018-02-05 04:32:41,2019-02-20 12:00:01,2019-03-02 20:32:37,Hospital São Raimundo,3,EM ATENDIMENTO
+772,Rafa Pear,12/09/1975,F,Febre,Falta de ar,Diabetes,2018-04-10 21:32:21,2019-01-19 23:22:29,2019-08-17 07:28:58,Hospital e maternidade celestina colares,26,EM ATENDIMENTO
+773,Ronny Delia,01/04/1966,M,Dor no peito,Cansaço,Doença cardíaca,2018-03-03 00:52:29,2019-02-09 13:32:31,2019-09-23 06:35:05,Hospital geral do vale do Jaguaribe,14,CONCLUÍDO
+774,Sheffy Worssam,02/26/1979,M,Acidente doméstico,Cansaço,Diabetes,2018-02-10 02:09:34,,,Hospital geral do vale do Jaguaribe,46,EM ATENDIMENTO
+775,Prue Hugenin,01/12/2015,F,Violência doméstica,Vômito,Hipertensão,2018-07-21 10:14:46,2019-01-20 17:41:19,2019-03-01 22:07:12,Hospital geral do vale do Jaguaribe,15,REALOCADO
+776,Merilee Bumford,01/24/1971,F,Dor de cabeça,Dor no peito,Hipertensão,2018-07-07 16:21:00,,,Hospital São Raimundo,12,CONCLUÍDO
+777,Olva Langham,10/26/2011,F,Desmaio,Vômito,Doença cardíaca,2018-02-25 18:35:02,2019-02-15 02:46:50,2019-06-30 22:21:54,Hospital São Raimundo,44,CONCLUÍDO
+778,Leelah Hedden,08/01/1998,F,Dor no peito,Febre,Diabetes,2018-10-10 04:27:48,2019-02-10 01:59:36,2019-03-25 14:23:36,Hospital São Raimundo,50,AGUARDANDO
+779,Jeni Steinham,12/02/1965,F,Febre,Vômito,Doença cardíaca,2018-06-26 13:21:48,,,Hospital e maternidade celestina colares,7,AGUARDANDO
+780,Dreddy Astill,07/28/1998,F,Acidente no trânsito,Febre,Doença cardíaca,2018-08-11 17:13:52,,,Hospital e maternidade celestina colares,6,REALOCADO
+781,Kelsey Scrigmour,12/19/1946,M,Violência doméstica,Dor no peito,Doença respiratória,2018-07-11 10:33:00,2019-02-04 08:53:52,2019-09-20 12:23:08,Hospital São Raimundo,40,CONCLUÍDO
+782,Vasilis Haukey,04/16/1943,M,Dor no peito,Cansaço,Diabetes,2018-02-28 02:08:50,2019-01-05 20:51:55,2019-03-02 20:06:55,Hospital geral do vale do Jaguaribe,43,AGUARDANDO
+783,Shurwood Sentinella,01/12/1985,M,Desmaio,Dor no peito,Diabetes,2018-10-29 08:16:53,2019-02-03 15:30:58,2019-08-11 14:33:41,Hospital São Raimundo,37,EM ATENDIMENTO
+784,Celinka Bunning,03/16/2017,F,Acidente no trânsito,Dor de cabeça,Doença cardíaca,2018-09-21 04:29:26,,,Hospital geral do vale do Jaguaribe,31,CONCLUÍDO
+785,Benita Tarte,08/31/1962,F,Febre,Vômito,Diabetes,2018-08-02 21:07:02,2019-01-01 20:46:55,2019-03-28 20:07:19,Hospital São Raimundo,11,EM ATENDIMENTO
+786,Sheelah Bownass,03/16/1960,F,Febre,Dor no peito,Doença cardíaca,2018-11-11 04:23:24,2019-01-07 11:35:56,2019-03-09 16:50:19,Hospital e maternidade celestina colares,5,CONCLUÍDO
+787,Kassi Pimley,12/03/1941,F,Dor de cabeça,Dor de cabeça,Hipertensão,2018-06-08 14:08:36,,,Hospital São Raimundo,43,EM ATENDIMENTO
+788,Maxie Mallinder,03/09/1991,F,Acidente no trânsito,Falta de ar,Doença respiratória,2018-12-14 07:17:33,2019-01-15 13:06:32,2019-05-14 16:49:30,Hospital geral do vale do Jaguaribe,16,EM ATENDIMENTO
+789,Demetrius Bartosch,07/14/1952,M,Desmaio,Dor no peito,Doença respiratória,2018-02-15 10:01:34,2019-01-03 02:32:58,2019-06-22 22:47:36,Hospital e maternidade celestina colares,39,EM ATENDIMENTO
+790,Nana Dennidge,05/23/1985,F,Desmaio,Febre,Diabetes,2018-08-09 13:35:56,,,Hospital São Raimundo,12,REALOCADO
+791,Nobe Southerton,03/24/1964,M,Febre,Dor no peito,Hipertensão,2018-03-17 05:58:03,2019-01-11 21:58:27,2019-10-10 03:18:56,Hospital geral do vale do Jaguaribe,48,AGUARDANDO
+792,Denna Filippozzi,07/09/1987,F,Violência doméstica,Falta de ar,Diabetes,2018-06-04 12:12:04,2019-01-17 04:21:52,2019-07-13 23:50:41,Hospital São Raimundo,9,REALOCADO
+793,Catha Labeuil,12/19/1966,F,Acidente no trânsito,Vômito,Doença cardíaca,2018-12-08 13:22:58,2019-01-06 07:18:39,2019-05-10 08:21:24,Hospital São Raimundo,24,EM ATENDIMENTO
+794,Angeline Pummery,07/07/1985,F,Acidente doméstico,Dor no peito,Diabetes,2018-07-20 13:25:39,2019-01-17 22:31:28,2019-07-02 18:56:57,Hospital e maternidade celestina colares,33,AGUARDANDO
+795,Goober Elcome,12/13/1967,M,Febre,Febre,Doença respiratória,2018-07-24 06:29:40,2019-02-27 13:05:00,2019-05-28 04:14:44,Hospital São Raimundo,30,REALOCADO
+796,Tremain Watton,07/29/2003,M,Violência doméstica,Falta de ar,Doença respiratória,2018-05-06 01:26:42,2019-02-01 03:43:44,2019-08-18 20:06:25,Hospital geral do vale do Jaguaribe,40,CONCLUÍDO
+797,Klemens Weber,06/10/1949,M,Dor no peito,Dor no peito,Diabetes,2018-08-06 18:19:31,2019-01-30 06:17:59,2019-05-18 14:59:22,Hospital São Raimundo,18,CONCLUÍDO
+798,Collete Bunten,11/20/1998,F,Dor de cabeça,Falta de ar,Doença respiratória,2018-02-22 20:24:34,,,Hospital e maternidade celestina colares,10,EM ATENDIMENTO
+799,Andriana Blaasch,04/24/1961,F,Violência doméstica,Dor de cabeça,Hipertensão,2018-03-01 20:05:21,2019-01-08 03:57:03,2019-06-17 22:27:52,Hospital geral do vale do Jaguaribe,50,REALOCADO
+800,Morissa Gobert,04/16/1949,F,Desmaio,Cansaço,Hipertensão,2018-12-04 01:45:57,,,Hospital São Raimundo,23,CONCLUÍDO
+801,Ximenez Cowderoy,11/27/2008,M,Violência doméstica,Febre,Doença respiratória,2018-08-09 09:53:21,2019-02-23 01:16:25,2019-04-02 01:41:51,Hospital geral do vale do Jaguaribe,23,CONCLUÍDO
+802,Donelle Nisco,06/14/1965,F,Febre,Febre,Doença cardíaca,2018-11-12 01:47:04,2019-02-23 12:01:29,2019-05-16 17:47:28,Hospital geral do vale do Jaguaribe,10,AGUARDANDO
+803,Marnia Broomhead,03/25/1981,F,Acidente no trânsito,Dor no peito,Diabetes,2018-11-02 02:52:28,2019-01-22 21:48:26,2019-04-20 16:46:12,Hospital São Raimundo,40,AGUARDANDO
+804,Gavra Yitzhok,06/08/1994,F,Desmaio,Dor de cabeça,Hipertensão,2018-05-16 15:23:57,,,Hospital geral do vale do Jaguaribe,15,AGUARDANDO
+805,Edi Gilardi,09/02/1961,F,Violência doméstica,Falta de ar,Doença respiratória,2018-03-21 12:55:41,2019-01-25 17:11:44,2019-05-29 22:47:53,Hospital São Raimundo,2,AGUARDANDO
+806,Uriel Garm,04/06/1940,M,Desmaio,Vômito,Doença cardíaca,2018-12-05 12:15:36,2019-01-28 01:32:19,2019-03-28 16:55:45,Hospital São Raimundo,27,CONCLUÍDO
+807,Arabel Barkas,09/11/2012,F,Acidente doméstico,Falta de ar,Doença cardíaca,2018-11-22 00:18:26,2019-02-08 06:36:31,2019-06-27 01:55:31,Hospital São Raimundo,32,CONCLUÍDO
+808,Brnaba Ansteys,03/06/1969,M,Dor de cabeça,Falta de ar,Doença cardíaca,2018-03-18 17:54:16,2019-01-24 16:22:11,2019-06-25 09:22:30,Hospital São Raimundo,22,CONCLUÍDO
+809,Cody Felkin,04/08/2013,F,Dor de cabeça,Cansaço,Hipertensão,2018-06-21 10:01:48,2019-02-21 22:13:41,2019-06-19 19:54:00,Hospital geral do vale do Jaguaribe,34,EM ATENDIMENTO
+810,Lotti Greguol,06/27/1976,F,Dor de cabeça,Dor de cabeça,Doença respiratória,2018-03-03 21:10:56,,,Hospital São Raimundo,29,CONCLUÍDO
+811,Felipa Spittal,09/18/1956,F,Desmaio,Falta de ar,Doença cardíaca,2018-10-26 10:11:39,2019-02-24 02:55:43,2019-03-09 20:50:49,Hospital São Raimundo,34,REALOCADO
+812,Lancelot Wycherley,03/27/1957,M,Acidente no trânsito,Dor no peito,Doença cardíaca,2018-04-29 14:40:30,2019-02-06 16:19:16,2019-03-02 10:56:48,Hospital e maternidade celestina colares,37,AGUARDANDO
+813,Madelina Dodge,09/06/2013,F,Dor de cabeça,Vômito,Doença respiratória,2018-04-29 11:51:35,2019-02-02 17:17:55,2019-03-07 23:02:40,Hospital e maternidade celestina colares,22,AGUARDANDO
+814,Ina Coushe,10/25/1960,F,Febre,Dor de cabeça,Doença respiratória,2018-12-17 06:54:55,2019-02-14 20:18:01,2019-09-28 03:25:58,Hospital e maternidade celestina colares,28,AGUARDANDO
+815,Pauly Coultous,10/18/2019,M,Febre,Febre,Doença respiratória,2018-05-02 21:58:55,2019-02-14 05:44:13,2019-06-13 00:24:25,Hospital e maternidade celestina colares,1,CONCLUÍDO
+816,Gwendolen Tidbold,06/10/2005,F,Dor de cabeça,Cansaço,Hipertensão,2018-08-04 17:12:22,,,Hospital geral do vale do Jaguaribe,15,AGUARDANDO
+817,Isaak Shirlaw,11/06/1953,M,Dor no peito,Falta de ar,Hipertensão,2018-07-17 04:11:28,2019-01-22 04:30:30,2019-04-16 09:23:31,Hospital geral do vale do Jaguaribe,22,REALOCADO
+818,Bevin Aucourte,10/19/2013,M,Acidente no trânsito,Falta de ar,Doença cardíaca,2018-03-24 16:06:53,,,Hospital e maternidade celestina colares,45,REALOCADO
+819,Alastair Claypool,07/13/1977,M,Dor no peito,Dor no peito,Hipertensão,2018-02-04 14:50:55,2019-01-31 08:20:24,2019-03-20 22:30:54,Hospital geral do vale do Jaguaribe,44,AGUARDANDO
+820,Boot Pullin,12/11/1993,M,Desmaio,Cansaço,Doença respiratória,2018-01-17 13:31:09,2019-02-16 13:01:43,2019-03-11 00:07:15,Hospital São Raimundo,9,EM ATENDIMENTO
+821,Lorianne Domerq,09/05/1950,F,Dor no peito,Cansaço,Hipertensão,2018-03-26 03:49:30,2019-01-05 02:48:52,2019-03-17 18:01:58,Hospital e maternidade celestina colares,10,AGUARDANDO
+822,Bernardina Pilkington,09/25/1998,F,Desmaio,Dor no peito,Diabetes,2018-11-16 20:43:27,,,Hospital e maternidade celestina colares,18,AGUARDANDO
+823,Beatrice Tumilty,07/17/1955,F,Acidente no trânsito,Dor no peito,Doença respiratória,2018-01-14 04:35:26,2019-01-02 14:23:17,2019-03-27 17:00:50,Hospital e maternidade celestina colares,19,AGUARDANDO
+824,Joey Hobbing,01/15/1961,M,Dor de cabeça,Falta de ar,Hipertensão,2018-07-01 20:01:28,2019-01-14 22:07:24,2019-05-14 13:31:53,Hospital e maternidade celestina colares,20,REALOCADO
+825,Maynard Falkinder,07/10/2007,M,Febre,Vômito,Doença cardíaca,2018-12-14 22:43:02,2019-01-01 07:47:50,2019-05-03 14:29:41,Hospital e maternidade celestina colares,2,REALOCADO
+826,Reinwald Fitzpayn,07/25/1965,M,Febre,Cansaço,Diabetes,2018-05-15 14:39:37,2019-01-14 09:11:15,2019-03-22 06:47:41,Hospital e maternidade celestina colares,42,AGUARDANDO
+827,Jobey Richemond,10/01/1941,F,Violência doméstica,Vômito,Doença respiratória,2018-05-17 21:29:47,2019-02-26 11:31:46,2019-07-05 09:43:33,Hospital e maternidade celestina colares,49,CONCLUÍDO
+828,Ingrid Kittoe,12/10/1990,F,Violência doméstica,Vômito,Hipertensão,2018-05-22 04:40:56,2019-02-05 06:23:15,2019-10-06 23:39:26,Hospital e maternidade celestina colares,49,CONCLUÍDO
+829,Clarine Rapi,11/04/1953,F,Acidente doméstico,Dor no peito,Diabetes,2018-12-09 04:28:27,2019-01-26 00:12:11,2019-08-08 20:34:59,Hospital geral do vale do Jaguaribe,6,REALOCADO
+830,Philbert Pember,09/23/1949,M,Desmaio,Dor de cabeça,Doença respiratória,2018-05-08 01:37:29,2019-01-02 17:16:45,2019-09-24 01:43:54,Hospital São Raimundo,7,AGUARDANDO
+831,Odette Gleeton,12/08/1969,F,Acidente no trânsito,Dor no peito,Doença respiratória,2018-09-23 23:55:55,2019-01-10 20:54:10,2019-06-10 13:51:03,Hospital geral do vale do Jaguaribe,7,REALOCADO
+832,Meir Kubicka,03/14/1976,M,Acidente no trânsito,Falta de ar,Hipertensão,2018-07-11 19:08:27,2019-01-02 21:41:01,2019-09-25 22:00:29,Hospital e maternidade celestina colares,37,EM ATENDIMENTO
+833,Mariellen Rolling,02/26/1971,F,Febre,Falta de ar,Doença respiratória,2018-04-02 15:25:31,2019-02-25 02:19:27,2019-05-25 21:03:46,Hospital São Raimundo,44,EM ATENDIMENTO
+834,Donni Rawne,02/22/1953,F,Febre,Vômito,Doença cardíaca,2018-09-28 00:15:49,2019-01-16 03:54:40,2019-09-28 08:41:58,Hospital e maternidade celestina colares,24,CONCLUÍDO
+835,Baldwin Scorer,07/29/1965,M,Febre,Vômito,Doença respiratória,2018-09-20 19:11:31,2019-02-04 08:07:16,2019-08-10 03:26:52,Hospital São Raimundo,31,AGUARDANDO
+836,Hettie Cunnington,07/06/2006,F,Violência doméstica,Dor de cabeça,Diabetes,2018-07-03 05:32:05,2019-01-21 19:58:57,2019-09-13 23:44:51,Hospital e maternidade celestina colares,7,CONCLUÍDO
+837,Ricky Flounders,03/22/1975,M,Dor no peito,Falta de ar,Hipertensão,2018-11-03 03:09:12,2019-02-13 09:16:26,2019-04-08 19:45:28,Hospital São Raimundo,44,EM ATENDIMENTO
+838,Alicea Woolam,04/22/1966,F,Acidente doméstico,Falta de ar,Doença cardíaca,2018-08-03 12:58:28,2019-01-20 02:41:06,2019-08-24 18:52:58,Hospital e maternidade celestina colares,50,EM ATENDIMENTO
+839,Olivier Norbury,11/19/1957,M,Dor no peito,Cansaço,Doença respiratória,2018-06-02 09:26:53,2019-01-07 15:19:55,2019-04-30 23:28:39,Hospital geral do vale do Jaguaribe,10,CONCLUÍDO
+840,Basilius Beceril,10/08/1948,M,Desmaio,Dor no peito,Hipertensão,2018-12-21 15:25:34,2019-01-28 04:34:36,2019-05-09 13:11:49,Hospital geral do vale do Jaguaribe,47,REALOCADO
+841,Robenia Moylane,07/12/2012,F,Acidente no trânsito,Dor de cabeça,Doença respiratória,2018-08-10 08:07:17,2019-02-07 20:35:20,2019-06-11 14:44:29,Hospital e maternidade celestina colares,42,REALOCADO
+842,Brien Stammler,11/28/1950,M,Desmaio,Dor de cabeça,Diabetes,2018-02-15 15:20:24,2019-02-11 20:01:34,2019-06-14 19:05:05,Hospital geral do vale do Jaguaribe,9,REALOCADO
+843,Ingaborg Stelljes,07/02/1951,F,Acidente doméstico,Dor de cabeça,Doença cardíaca,2018-03-28 00:57:10,2019-01-16 11:38:01,2019-08-10 06:26:04,Hospital geral do vale do Jaguaribe,6,AGUARDANDO
+844,Esra Crosson,11/16/1992,M,Violência doméstica,Dor de cabeça,Doença cardíaca,2018-07-09 20:44:26,2019-02-02 15:11:10,2019-04-21 00:50:58,Hospital geral do vale do Jaguaribe,32,AGUARDANDO
+845,Robin Ronchka,02/05/2006,M,Desmaio,Dor de cabeça,Doença respiratória,2018-07-02 02:13:59,2019-02-20 18:43:40,2019-04-21 20:38:23,Hospital geral do vale do Jaguaribe,9,EM ATENDIMENTO
+846,Jerrie Falkinder,07/08/1950,M,Febre,Falta de ar,Diabetes,2018-06-02 09:20:04,,,Hospital e maternidade celestina colares,34,REALOCADO
+847,Laurianne Bolus,09/19/1996,F,Acidente doméstico,Vômito,Doença cardíaca,2018-08-10 07:58:40,2019-02-22 00:13:01,2019-04-25 09:22:50,Hospital geral do vale do Jaguaribe,25,AGUARDANDO
+848,Chrisy Garrit,01/24/1940,M,Dor no peito,Dor de cabeça,Diabetes,2018-04-15 07:08:53,2019-02-03 07:11:40,2019-09-19 07:36:23,Hospital e maternidade celestina colares,3,AGUARDANDO
+849,Theresina Van den Dael,02/15/2001,F,Violência doméstica,Dor no peito,Diabetes,2018-03-22 12:11:16,2019-02-24 07:20:07,2019-04-26 16:05:13,Hospital geral do vale do Jaguaribe,11,CONCLUÍDO
+850,Eileen Martinon,06/23/1944,F,Acidente doméstico,Falta de ar,Doença respiratória,2018-12-27 04:06:44,,,Hospital São Raimundo,26,EM ATENDIMENTO
+851,Hunfredo Ivchenko,01/26/1940,M,Violência doméstica,Dor no peito,Hipertensão,2018-09-03 19:01:53,,,Hospital geral do vale do Jaguaribe,47,AGUARDANDO
+852,Hube Doughill,05/19/1972,M,Febre,Febre,Diabetes,2018-01-15 13:15:51,2019-01-09 01:09:05,2019-06-03 07:32:10,Hospital geral do vale do Jaguaribe,19,CONCLUÍDO
+853,Ettie Pinnere,05/26/1957,F,Dor de cabeça,Falta de ar,Doença respiratória,2018-05-13 17:49:21,2019-01-15 15:47:10,2019-04-25 22:09:26,Hospital São Raimundo,34,REALOCADO
+854,Constantina Tembey,03/08/1949,F,Acidente no trânsito,Febre,Doença cardíaca,2018-10-15 16:39:35,,,Hospital e maternidade celestina colares,30,EM ATENDIMENTO
+855,Morton Haile,05/07/1973,M,Desmaio,Dor no peito,Hipertensão,2018-04-12 10:05:31,,,Hospital geral do vale do Jaguaribe,10,CONCLUÍDO
+856,Roshelle Cusick,09/01/1974,F,Violência doméstica,Cansaço,Doença respiratória,2018-07-01 04:41:53,,,Hospital São Raimundo,46,AGUARDANDO
+857,Maje Meddemmen,08/14/2011,M,Acidente doméstico,Dor no peito,Diabetes,2018-12-25 06:48:04,2019-01-07 00:47:25,2019-07-14 09:23:43,Hospital geral do vale do Jaguaribe,42,CONCLUÍDO
+858,Jordain Toffolo,09/25/1987,F,Violência doméstica,Febre,Doença cardíaca,2018-07-17 10:06:37,2019-02-07 22:20:30,2019-06-30 06:07:08,Hospital geral do vale do Jaguaribe,48,REALOCADO
+859,Shoshana Aurelius,02/01/2013,F,Violência doméstica,Dor no peito,Diabetes,2018-03-06 11:47:02,2019-01-26 12:33:08,2019-07-20 21:38:06,Hospital São Raimundo,27,REALOCADO
+860,Sheelagh Dulson,04/26/1955,F,Violência doméstica,Dor no peito,Diabetes,2018-07-21 04:32:47,2019-02-09 23:39:50,2019-03-18 17:30:29,Hospital São Raimundo,30,EM ATENDIMENTO
+861,Gaye Waszczykowski,10/30/1974,F,Violência doméstica,Dor de cabeça,Hipertensão,2018-07-01 19:13:12,2019-01-05 05:18:18,2019-07-03 23:53:05,Hospital São Raimundo,9,CONCLUÍDO
+862,Elvin Tonnesen,12/30/1993,M,Dor no peito,Dor de cabeça,Diabetes,2018-10-16 18:32:26,2019-02-17 06:07:50,2019-07-23 00:18:58,Hospital geral do vale do Jaguaribe,19,CONCLUÍDO
+863,Marven Archbutt,01/26/1994,M,Dor no peito,Dor de cabeça,Diabetes,2018-07-03 04:55:26,2019-01-07 01:11:21,2019-03-05 14:47:52,Hospital e maternidade celestina colares,17,AGUARDANDO
+864,Nealy Cassius,09/08/1952,M,Acidente doméstico,Vômito,Hipertensão,2018-07-08 06:20:29,2019-01-27 11:40:15,2019-09-24 20:26:07,Hospital São Raimundo,30,AGUARDANDO
+865,Iolande Roderham,09/06/1989,F,Violência doméstica,Vômito,Doença respiratória,2018-02-08 10:17:41,,,Hospital geral do vale do Jaguaribe,35,CONCLUÍDO
+866,Darci Cussen,03/03/2016,F,Acidente doméstico,Dor de cabeça,Doença respiratória,2018-07-07 01:44:38,2019-01-21 05:03:20,2019-06-15 21:32:17,Hospital São Raimundo,2,REALOCADO
+867,Loni Lamblot,11/13/1996,F,Dor no peito,Vômito,Doença respiratória,2018-10-31 19:43:17,,,Hospital e maternidade celestina colares,43,AGUARDANDO
+868,Zebadiah Di Biasi,04/22/1940,M,Dor no peito,Cansaço,Diabetes,2018-08-18 09:12:28,2019-02-20 11:50:05,2019-07-29 06:04:34,Hospital São Raimundo,32,AGUARDANDO
+869,Terence Sewill,07/01/2002,M,Acidente doméstico,Febre,Doença cardíaca,2018-03-05 07:38:39,2019-01-15 02:38:10,2019-05-02 10:06:01,Hospital São Raimundo,34,EM ATENDIMENTO
+870,Tadio Gunbie,06/23/1998,M,Acidente no trânsito,Falta de ar,Doença respiratória,2018-07-18 13:36:33,2019-01-18 18:40:27,2019-06-09 04:59:52,Hospital geral do vale do Jaguaribe,5,AGUARDANDO
+871,Arlan Giamitti,03/09/2000,M,Acidente no trânsito,Vômito,Diabetes,2018-04-27 18:07:11,2019-02-17 17:47:11,2019-04-16 22:23:44,Hospital geral do vale do Jaguaribe,47,REALOCADO
+872,Linea Philip,12/20/1991,F,Dor de cabeça,Falta de ar,Doença cardíaca,2018-03-07 10:31:17,,,Hospital São Raimundo,13,EM ATENDIMENTO
+873,Duke Hulett,09/11/1970,M,Dor no peito,Vômito,Doença cardíaca,2018-01-20 08:23:11,2019-01-09 00:44:15,2019-03-06 20:52:26,Hospital geral do vale do Jaguaribe,40,CONCLUÍDO
+874,Jeremiah Spikeings,06/06/1978,M,Dor de cabeça,Dor de cabeça,Diabetes,2018-03-05 01:52:44,2019-02-07 14:24:27,2019-03-19 09:23:41,Hospital geral do vale do Jaguaribe,13,CONCLUÍDO
+875,Mycah Adamo,11/14/1977,M,Violência doméstica,Febre,Doença cardíaca,2018-06-27 12:41:17,,,Hospital São Raimundo,23,AGUARDANDO
+876,Clemmy Maxsted,06/22/1965,M,Febre,Vômito,Doença respiratória,2018-08-26 00:21:44,2019-02-08 22:38:38,2019-04-26 02:30:48,Hospital e maternidade celestina colares,39,REALOCADO
+877,Fidelity Houldey,10/21/1987,F,Violência doméstica,Falta de ar,Doença cardíaca,2018-02-15 04:55:36,2019-02-04 21:11:40,2019-08-01 02:13:56,Hospital e maternidade celestina colares,17,AGUARDANDO
+878,Deeyn Habbergham,10/03/1977,F,Desmaio,Dor no peito,Doença respiratória,2018-12-21 14:54:43,2019-01-29 19:26:56,2019-08-03 09:12:21,Hospital São Raimundo,44,EM ATENDIMENTO
+879,Robbin Guswell,08/15/1992,F,Febre,Vômito,Doença respiratória,2018-07-12 00:35:02,,,Hospital São Raimundo,24,EM ATENDIMENTO
+880,Maje Brouard,06/05/1964,M,Dor no peito,Vômito,Diabetes,2018-02-24 07:07:37,,,Hospital e maternidade celestina colares,7,REALOCADO
+881,Haze Netherwood,12/04/2008,M,Dor de cabeça,Falta de ar,Hipertensão,2018-03-19 11:09:27,,,Hospital e maternidade celestina colares,44,EM ATENDIMENTO
+882,Evelyn Mulrean,12/06/1976,F,Acidente doméstico,Dor de cabeça,Hipertensão,2018-09-28 14:15:33,2019-01-17 14:39:11,2019-06-21 04:41:35,Hospital geral do vale do Jaguaribe,7,REALOCADO
+883,Agathe Whines,10/30/1994,F,Febre,Cansaço,Doença cardíaca,2018-08-07 23:49:47,2019-02-19 18:20:51,2019-03-19 07:22:21,Hospital e maternidade celestina colares,5,REALOCADO
+884,Doro Volks,01/02/1952,F,Acidente no trânsito,Cansaço,Doença respiratória,2018-09-25 05:12:30,2019-01-24 07:39:26,2019-03-16 10:00:58,Hospital e maternidade celestina colares,50,REALOCADO
+885,Rafferty Wemm,02/09/1997,M,Desmaio,Falta de ar,Doença respiratória,2018-03-04 14:18:28,,,Hospital São Raimundo,41,CONCLUÍDO
+886,Nick Dartnell,03/05/1989,M,Desmaio,Dor de cabeça,Diabetes,2018-11-28 23:21:55,,,Hospital geral do vale do Jaguaribe,5,EM ATENDIMENTO
+887,Barbe Brooking,02/17/1976,F,Dor no peito,Dor de cabeça,Hipertensão,2018-07-25 08:16:43,2019-01-25 13:22:50,2019-09-04 10:53:32,Hospital e maternidade celestina colares,34,EM ATENDIMENTO
+888,Eleonora Oseland,04/18/1949,F,Acidente no trânsito,Dor de cabeça,Doença cardíaca,2018-01-28 14:43:42,2019-01-25 21:28:58,2019-03-30 19:44:09,Hospital geral do vale do Jaguaribe,9,REALOCADO
+889,Doralia Axby,07/07/1940,F,Violência doméstica,Cansaço,Diabetes,2018-07-09 09:23:37,,,Hospital São Raimundo,19,REALOCADO
+890,Valentia Norcutt,10/26/1943,F,Dor no peito,Febre,Doença cardíaca,2018-08-17 12:08:05,2019-02-05 01:51:26,2019-06-19 17:12:31,Hospital e maternidade celestina colares,35,EM ATENDIMENTO
+891,Bart Samart,05/24/1949,M,Violência doméstica,Dor de cabeça,Diabetes,2018-05-08 05:57:30,,,Hospital São Raimundo,40,EM ATENDIMENTO
+892,Nessy Tredinnick,10/11/1971,F,Dor de cabeça,Falta de ar,Doença cardíaca,2018-11-29 20:04:17,2019-01-16 08:48:13,2019-03-29 09:14:48,Hospital São Raimundo,14,EM ATENDIMENTO
+893,Max Boyen,03/03/1944,F,Febre,Vômito,Doença cardíaca,2018-07-28 09:21:10,,,Hospital São Raimundo,29,CONCLUÍDO
+894,Cindie Kellock,11/02/2018,F,Acidente no trânsito,Dor no peito,Doença cardíaca,2018-10-03 12:07:10,2019-02-13 13:55:02,2019-09-18 02:52:24,Hospital São Raimundo,48,CONCLUÍDO
+895,Kimberlee Poole,10/03/1961,F,Acidente no trânsito,Vômito,Hipertensão,2018-08-18 12:27:11,2019-01-08 21:59:38,2019-09-12 05:26:05,Hospital geral do vale do Jaguaribe,28,EM ATENDIMENTO
+896,Mil Roobottom,10/21/1972,F,Desmaio,Vômito,Diabetes,2018-02-16 12:12:28,,,Hospital São Raimundo,30,CONCLUÍDO
+897,Derek Kingsbury,03/20/1954,M,Dor no peito,Cansaço,Doença cardíaca,2018-07-11 14:15:46,2019-01-03 01:50:05,2019-08-07 01:59:30,Hospital geral do vale do Jaguaribe,39,CONCLUÍDO
+898,Brandtr Condliffe,11/30/1984,M,Febre,Febre,Doença cardíaca,2018-04-30 01:22:29,2019-01-22 22:15:36,2019-10-16 01:52:54,Hospital geral do vale do Jaguaribe,6,REALOCADO
+899,Kerrill Woodham,03/12/1955,F,Dor no peito,Dor no peito,Doença cardíaca,2018-10-10 10:58:31,2019-01-30 06:53:29,2019-06-21 22:13:02,Hospital e maternidade celestina colares,12,CONCLUÍDO
+900,Nessa Snoddy,01/14/1990,F,Desmaio,Falta de ar,Hipertensão,2018-09-24 03:38:20,,,Hospital São Raimundo,2,CONCLUÍDO
+901,Dalton Wissbey,07/30/2006,M,Dor de cabeça,Dor no peito,Hipertensão,2018-02-09 20:35:50,2019-01-31 13:25:00,2019-05-13 16:30:34,Hospital São Raimundo,18,EM ATENDIMENTO
+902,Laural Woolfenden,02/06/1950,F,Acidente doméstico,Dor de cabeça,Diabetes,2018-02-08 15:14:35,2019-02-15 03:14:24,2019-09-16 13:01:10,Hospital São Raimundo,39,CONCLUÍDO
+903,Nadean Wilds,02/08/2019,F,Dor no peito,Dor no peito,Diabetes,2018-12-16 18:58:18,2019-02-16 22:24:21,2019-03-01 15:24:03,Hospital São Raimundo,5,CONCLUÍDO
+904,Konstance Hartwright,05/03/1976,F,Dor de cabeça,Falta de ar,Doença respiratória,2018-04-11 21:21:03,2019-02-17 05:46:33,2019-04-01 15:15:17,Hospital geral do vale do Jaguaribe,11,REALOCADO
+905,Betti Goudie,03/09/2003,F,Dor de cabeça,Dor de cabeça,Diabetes,2018-05-08 16:18:47,2019-01-01 10:59:58,2019-06-07 16:26:37,Hospital geral do vale do Jaguaribe,7,EM ATENDIMENTO
+906,Cecilio Tuddenham,08/28/1978,M,Dor no peito,Dor no peito,Doença respiratória,2018-09-06 11:05:26,,,Hospital e maternidade celestina colares,44,EM ATENDIMENTO
+907,Stephanie Baldam,07/14/2014,F,Dor de cabeça,Falta de ar,Doença respiratória,2018-08-05 13:32:35,2019-01-21 23:11:45,2019-06-21 14:02:03,Hospital geral do vale do Jaguaribe,40,CONCLUÍDO
+908,Bibbye Jouaneton,02/14/1951,F,Violência doméstica,Falta de ar,Diabetes,2018-04-06 09:09:25,2019-02-07 05:31:13,2019-03-25 19:37:37,Hospital São Raimundo,25,CONCLUÍDO
+909,Sasha Fontell,11/10/1994,M,Violência doméstica,Dor de cabeça,Diabetes,2018-02-21 18:44:15,2019-02-04 11:50:02,2019-09-26 04:21:11,Hospital geral do vale do Jaguaribe,15,REALOCADO
+910,Ericha Ralling,10/13/1990,F,Dor de cabeça,Febre,Hipertensão,2018-12-09 04:20:30,2019-01-19 23:04:50,2019-07-16 02:05:32,Hospital geral do vale do Jaguaribe,17,REALOCADO
+911,Mikaela Stubbings,08/30/1973,F,Dor de cabeça,Falta de ar,Diabetes,2018-06-16 20:40:28,2019-02-06 18:12:45,2019-05-20 15:02:38,Hospital e maternidade celestina colares,18,REALOCADO
+912,Coralyn Boughey,06/13/1943,F,Acidente no trânsito,Dor de cabeça,Hipertensão,2018-11-20 20:12:17,2019-02-01 00:05:17,2019-05-03 15:10:34,Hospital geral do vale do Jaguaribe,39,EM ATENDIMENTO
+913,Edith Hardeman,05/16/1961,F,Dor no peito,Dor de cabeça,Doença respiratória,2018-08-10 22:24:07,2019-01-19 23:03:00,2019-10-22 08:43:42,Hospital São Raimundo,36,CONCLUÍDO
+914,Conrade Brevetor,02/10/1995,M,Febre,Febre,Hipertensão,2018-07-26 08:04:43,,,Hospital São Raimundo,38,CONCLUÍDO
+915,Marie-ann Carradice,10/13/1999,F,Desmaio,Falta de ar,Doença respiratória,2018-05-18 06:10:50,2019-01-15 08:29:28,2019-07-31 21:27:09,Hospital geral do vale do Jaguaribe,40,AGUARDANDO
+916,Orella Raithmill,10/28/1952,F,Desmaio,Dor de cabeça,Hipertensão,2018-10-26 04:57:52,2019-01-16 21:49:34,2019-08-06 18:48:13,Hospital São Raimundo,36,EM ATENDIMENTO
+917,Raviv Veschi,11/10/1980,M,Acidente no trânsito,Dor de cabeça,Doença cardíaca,2018-05-26 20:07:42,2019-01-08 22:55:52,2019-06-15 00:51:37,Hospital e maternidade celestina colares,39,REALOCADO
+918,Barty Ulyat,10/17/1976,M,Desmaio,Cansaço,Diabetes,2018-02-10 10:24:38,,,Hospital São Raimundo,11,REALOCADO
+919,Allistir Woolacott,04/19/1949,M,Dor no peito,Dor de cabeça,Doença respiratória,2018-09-20 13:07:06,,,Hospital geral do vale do Jaguaribe,46,EM ATENDIMENTO
+920,Sibella Barrie,07/09/1956,F,Febre,Cansaço,Hipertensão,2018-05-05 16:50:48,2019-01-24 01:24:23,2019-04-09 11:29:18,Hospital São Raimundo,33,EM ATENDIMENTO
+921,Julita Eagleston,01/27/1944,F,Dor de cabeça,Falta de ar,Diabetes,2018-03-14 00:41:12,2019-02-05 19:28:06,2019-10-14 16:50:30,Hospital geral do vale do Jaguaribe,37,REALOCADO
+922,Cornelia Lamond,01/26/1989,F,Dor no peito,Febre,Hipertensão,2018-11-17 12:44:37,,,Hospital e maternidade celestina colares,43,EM ATENDIMENTO
+923,Claybourne Strood,08/08/1965,M,Febre,Dor de cabeça,Doença cardíaca,2018-04-10 23:00:05,2019-02-10 19:14:37,2019-06-11 02:05:23,Hospital geral do vale do Jaguaribe,17,EM ATENDIMENTO
+924,Darci Beston,06/10/1959,F,Violência doméstica,Dor de cabeça,Hipertensão,2018-09-09 19:56:57,2019-02-26 20:56:33,2019-09-01 04:06:40,Hospital São Raimundo,31,EM ATENDIMENTO
+925,Waneta Creffeild,04/19/1993,F,Desmaio,Dor de cabeça,Doença respiratória,2018-12-07 12:47:49,2019-01-21 01:03:41,2019-04-03 13:19:18,Hospital geral do vale do Jaguaribe,46,CONCLUÍDO
+926,Branden Outram,06/12/1983,M,Violência doméstica,Falta de ar,Doença cardíaca,2018-08-19 21:30:50,2019-02-12 00:13:37,2019-06-14 11:16:45,Hospital geral do vale do Jaguaribe,38,EM ATENDIMENTO
+927,Keelby Westrey,08/05/1986,M,Febre,Dor no peito,Hipertensão,2018-04-20 07:17:13,2019-01-10 08:54:33,2019-07-19 08:58:23,Hospital e maternidade celestina colares,30,AGUARDANDO
+928,Tallie Drury,03/31/1981,M,Dor no peito,Febre,Hipertensão,2018-06-29 21:12:02,2019-01-10 11:35:06,2019-04-14 19:37:09,Hospital e maternidade celestina colares,6,EM ATENDIMENTO
+929,Bridget Sanford,11/26/1958,F,Febre,Dor de cabeça,Diabetes,2018-05-18 03:50:45,,,Hospital São Raimundo,23,REALOCADO
+930,Selinda Peppett,08/15/2001,F,Dor no peito,Falta de ar,Diabetes,2018-08-17 16:15:40,2019-01-21 06:53:16,2019-09-07 17:34:40,Hospital e maternidade celestina colares,33,REALOCADO
+931,Wendel Marqyes,05/08/1945,M,Acidente no trânsito,Febre,Doença cardíaca,2018-08-29 00:02:53,2019-01-31 03:34:11,2019-08-04 20:28:35,Hospital e maternidade celestina colares,40,EM ATENDIMENTO
+932,Maure Akess,06/06/2006,F,Desmaio,Febre,Diabetes,2018-09-15 06:34:11,2019-02-20 02:14:29,2019-08-31 11:42:28,Hospital São Raimundo,21,AGUARDANDO
+933,Tad Fireman,05/03/2018,M,Febre,Dor de cabeça,Doença cardíaca,2018-08-18 05:27:22,2019-01-25 06:19:42,2019-08-09 21:29:17,Hospital São Raimundo,49,REALOCADO
+934,Laural McLanachan,04/19/2004,F,Acidente doméstico,Dor de cabeça,Doença cardíaca,2018-11-28 20:23:08,,,Hospital e maternidade celestina colares,40,EM ATENDIMENTO
+935,Melva MacUchadair,10/31/1998,F,Desmaio,Cansaço,Doença cardíaca,2018-02-02 13:25:37,2019-01-12 08:28:01,2019-06-07 17:52:49,Hospital São Raimundo,42,REALOCADO
+936,Hildagarde Clamo,04/02/1965,F,Dor de cabeça,Dor no peito,Hipertensão,2018-08-08 14:45:54,2019-02-10 01:16:12,2019-06-14 00:59:46,Hospital e maternidade celestina colares,25,EM ATENDIMENTO
+937,Kylynn Marian,11/02/2004,F,Acidente no trânsito,Febre,Doença cardíaca,2018-09-12 23:12:44,2019-02-05 06:18:59,2019-07-21 21:51:06,Hospital e maternidade celestina colares,9,CONCLUÍDO
+938,Teodoro Lisciandro,03/21/2010,M,Febre,Vômito,Doença cardíaca,2018-05-06 19:32:07,,,Hospital São Raimundo,24,EM ATENDIMENTO
+939,Gypsy Sandford,12/11/1964,F,Dor no peito,Dor de cabeça,Doença respiratória,2018-11-08 09:54:43,2019-01-24 03:34:36,2019-09-16 23:38:16,Hospital São Raimundo,33,AGUARDANDO
+940,Noel Runnicles,05/24/1988,M,Violência doméstica,Dor de cabeça,Diabetes,2018-12-07 00:54:59,2019-02-19 08:37:48,2019-09-08 02:45:38,Hospital geral do vale do Jaguaribe,2,AGUARDANDO
+941,Neely Humphrys,03/07/1972,F,Violência doméstica,Febre,Doença cardíaca,2018-08-12 13:44:15,2019-01-30 12:29:57,2019-05-25 16:15:08,Hospital São Raimundo,44,CONCLUÍDO
+942,Rhea Copland,06/24/2020,F,Desmaio,Cansaço,Doença respiratória,2018-03-14 16:12:03,,,Hospital São Raimundo,29,AGUARDANDO
+943,Adlai Harback,01/05/1978,M,Dor no peito,Febre,Hipertensão,2018-04-19 10:31:46,2019-02-11 09:55:35,2019-07-20 14:07:47,Hospital e maternidade celestina colares,9,REALOCADO
+944,Maryanne MacGuffog,12/21/2005,F,Acidente no trânsito,Dor no peito,Doença cardíaca,2018-09-07 12:27:24,,,Hospital São Raimundo,18,EM ATENDIMENTO
+945,Georges Pirdue,01/23/2013,M,Dor no peito,Falta de ar,Hipertensão,2018-02-27 10:00:50,2019-01-16 11:57:44,2019-10-14 06:13:12,Hospital São Raimundo,41,AGUARDANDO
+946,Gasparo McTrusty,08/02/1944,M,Febre,Dor no peito,Hipertensão,2018-06-05 09:05:19,2019-02-27 06:33:47,2019-08-04 06:20:17,Hospital e maternidade celestina colares,44,AGUARDANDO
+947,Abigael Gaveltone,07/16/2012,F,Dor no peito,Febre,Diabetes,2018-09-11 21:02:50,2019-02-01 10:53:34,2019-06-29 02:23:51,Hospital geral do vale do Jaguaribe,4,REALOCADO
+948,Hatti Radloff,09/22/1996,F,Febre,Falta de ar,Doença respiratória,2018-11-29 07:24:34,2019-01-25 08:20:21,2019-04-23 22:56:12,Hospital e maternidade celestina colares,33,EM ATENDIMENTO
+949,Liva Eddowis,11/02/1952,F,Acidente no trânsito,Febre,Doença cardíaca,2018-03-30 00:14:38,2019-02-09 05:32:50,2019-04-08 16:38:05,Hospital geral do vale do Jaguaribe,2,EM ATENDIMENTO
+950,Hyman Shakelady,11/07/2018,M,Dor de cabeça,Falta de ar,Doença respiratória,2018-09-25 11:08:23,,,Hospital e maternidade celestina colares,7,AGUARDANDO
+951,Sarge Horder,03/27/1948,M,Acidente no trânsito,Dor no peito,Doença cardíaca,2018-01-18 23:15:43,,,Hospital São Raimundo,15,EM ATENDIMENTO
+952,Reggie Budnik,09/16/1966,M,Acidente doméstico,Vômito,Doença respiratória,2018-01-19 13:49:01,2019-02-16 17:51:13,2019-07-30 15:51:36,Hospital São Raimundo,39,AGUARDANDO
+953,Nedi Derl,06/16/2001,F,Dor de cabeça,Febre,Doença cardíaca,2018-08-15 12:02:54,,,Hospital e maternidade celestina colares,16,CONCLUÍDO
+954,Nelli Stanbury,03/02/1989,F,Desmaio,Vômito,Doença cardíaca,2018-12-02 07:35:42,2019-02-24 15:18:29,2019-08-04 04:38:07,Hospital geral do vale do Jaguaribe,45,EM ATENDIMENTO
+955,Fairlie Coronado,01/05/2007,M,Violência doméstica,Dor no peito,Hipertensão,2018-02-08 17:42:28,2019-01-25 14:54:03,2019-10-22 16:50:50,Hospital e maternidade celestina colares,27,REALOCADO
+956,Broderick MacMeanma,06/29/2014,M,Dor no peito,Vômito,Doença respiratória,2018-02-24 22:06:36,,,Hospital e maternidade celestina colares,7,REALOCADO
+957,Jamaal Endricci,08/02/1998,M,Febre,Dor de cabeça,Doença respiratória,2018-01-20 00:57:20,,,Hospital São Raimundo,21,CONCLUÍDO
+958,Felita Hannum,12/06/1952,F,Dor de cabeça,Cansaço,Hipertensão,2018-01-29 19:09:36,2019-01-03 03:21:18,2019-07-28 20:37:31,Hospital e maternidade celestina colares,34,CONCLUÍDO
+959,Amata Stefanovic,04/03/2020,F,Acidente doméstico,Cansaço,Doença cardíaca,2018-03-19 22:14:22,,,Hospital geral do vale do Jaguaribe,3,REALOCADO
+960,Gary Hissett,01/01/1975,M,Febre,Falta de ar,Doença respiratória,2018-04-14 16:42:36,2019-02-27 20:17:27,2019-09-25 13:33:25,Hospital São Raimundo,36,AGUARDANDO
+961,Constantina Julien,03/04/1949,F,Violência doméstica,Vômito,Hipertensão,2018-10-21 22:58:35,,,Hospital geral do vale do Jaguaribe,39,CONCLUÍDO
+962,Lucita Dummigan,10/09/1964,F,Acidente no trânsito,Dor no peito,Doença cardíaca,2018-10-19 02:39:34,2019-01-21 02:14:53,2019-09-29 09:46:38,Hospital São Raimundo,18,AGUARDANDO
+963,Alla Ganter,11/20/1962,F,Dor de cabeça,Falta de ar,Doença respiratória,2018-12-03 17:04:47,2019-01-25 01:56:45,2019-07-05 06:41:30,Hospital São Raimundo,9,EM ATENDIMENTO
+964,Julee Gawthorpe,08/21/1987,F,Desmaio,Febre,Hipertensão,2018-11-16 23:43:27,2019-02-07 00:17:02,2019-10-01 15:01:19,Hospital São Raimundo,18,CONCLUÍDO
+965,Odey Sycamore,01/17/1995,M,Dor de cabeça,Dor de cabeça,Doença respiratória,2018-01-25 10:01:47,,,Hospital São Raimundo,14,CONCLUÍDO
+966,Sayers Lancastle,04/06/1957,M,Violência doméstica,Dor de cabeça,Doença cardíaca,2018-05-29 14:17:39,2019-02-09 07:40:08,2019-05-01 10:39:42,Hospital geral do vale do Jaguaribe,41,REALOCADO
+967,Fredek Beale,04/24/1952,M,Acidente doméstico,Febre,Diabetes,2018-08-31 16:13:12,2019-02-08 02:31:21,2019-05-13 01:58:32,Hospital e maternidade celestina colares,14,EM ATENDIMENTO
+968,Catrina Hendrikse,04/15/1977,F,Dor de cabeça,Febre,Diabetes,2018-04-20 01:10:08,2019-01-24 02:07:26,2019-05-15 23:08:05,Hospital São Raimundo,2,AGUARDANDO
+969,Marleen Alexsandrovich,09/30/1940,F,Acidente doméstico,Dor de cabeça,Hipertensão,2018-05-29 18:09:58,,,Hospital São Raimundo,21,AGUARDANDO
+970,Culver De Dei,03/28/2007,M,Dor de cabeça,Falta de ar,Diabetes,2018-12-16 07:53:06,2019-01-09 18:56:47,2019-09-29 04:24:17,Hospital e maternidade celestina colares,3,AGUARDANDO
+971,Marve Pawling,12/05/1948,M,Dor de cabeça,Febre,Doença respiratória,2018-12-14 12:44:43,2019-01-13 20:45:50,2019-08-25 20:37:31,Hospital São Raimundo,22,REALOCADO
+972,Jobye Eslemont,09/21/1943,F,Dor no peito,Cansaço,Diabetes,2018-09-25 17:41:22,2019-01-04 19:21:38,2019-03-05 05:44:22,Hospital e maternidade celestina colares,37,CONCLUÍDO
+973,Alejandra Carlsson,12/05/1949,F,Acidente doméstico,Dor de cabeça,Doença cardíaca,2018-07-20 06:24:57,2019-02-25 06:16:57,2019-03-24 16:27:35,Hospital geral do vale do Jaguaribe,2,AGUARDANDO
+974,Jessie Cazalet,05/30/1975,M,Acidente doméstico,Febre,Doença respiratória,2018-07-04 23:57:09,,,Hospital São Raimundo,17,EM ATENDIMENTO
+975,Lemar Passion,10/12/1996,M,Desmaio,Falta de ar,Diabetes,2018-03-26 23:11:36,,,Hospital São Raimundo,32,EM ATENDIMENTO
+976,Vasilis Blabey,10/27/2008,M,Dor no peito,Dor de cabeça,Doença respiratória,2018-02-09 18:03:29,2019-02-18 22:11:47,2019-09-10 15:25:01,Hospital geral do vale do Jaguaribe,26,REALOCADO
+977,Sheree Bottlestone,12/12/2018,F,Dor no peito,Vômito,Diabetes,2018-06-08 07:37:57,2019-01-10 10:35:38,2019-09-28 07:09:20,Hospital e maternidade celestina colares,32,AGUARDANDO
+978,Drusy Huckstepp,02/10/1979,F,Dor no peito,Dor de cabeça,Diabetes,2018-10-16 20:12:56,,,Hospital São Raimundo,22,REALOCADO
+979,Evie Wharram,02/06/1976,F,Dor de cabeça,Cansaço,Doença respiratória,2018-07-31 01:28:16,,,Hospital geral do vale do Jaguaribe,15,REALOCADO
+980,Letty Gibbin,03/05/1974,F,Acidente doméstico,Falta de ar,Diabetes,2018-11-07 19:43:01,2019-01-10 07:58:22,2019-04-15 04:56:47,Hospital São Raimundo,7,CONCLUÍDO
+981,Lisbeth Figgs,11/23/2016,F,Febre,Cansaço,Doença respiratória,2018-08-08 16:45:38,2019-01-22 09:30:51,2019-07-14 17:38:29,Hospital geral do vale do Jaguaribe,47,REALOCADO
+982,Jaynell Spohrmann,11/14/1946,F,Violência doméstica,Dor no peito,Doença cardíaca,2018-12-26 15:40:28,2019-02-07 04:20:22,2019-05-06 13:36:23,Hospital São Raimundo,31,AGUARDANDO
+983,Scotty Garahan,04/06/1986,M,Dor no peito,Cansaço,Hipertensão,2018-04-01 04:33:21,2019-01-16 02:30:32,2019-07-17 12:23:51,Hospital e maternidade celestina colares,31,AGUARDANDO
+984,Dayna Ryan,08/28/2003,F,Acidente no trânsito,Vômito,Hipertensão,2018-02-25 13:30:28,,,Hospital geral do vale do Jaguaribe,12,EM ATENDIMENTO
+985,Chadd Farrell,01/18/2003,M,Dor no peito,Falta de ar,Hipertensão,2018-12-08 13:45:34,2019-02-16 11:30:43,2019-08-16 22:12:58,Hospital geral do vale do Jaguaribe,27,EM ATENDIMENTO
+986,Rupert Rowthorn,07/23/1980,M,Febre,Cansaço,Diabetes,2018-12-06 15:49:12,,,Hospital e maternidade celestina colares,32,EM ATENDIMENTO
+987,Griselda Ibarra,10/20/1989,F,Desmaio,Dor de cabeça,Doença cardíaca,2018-07-24 11:24:24,2019-02-22 01:27:32,2019-05-22 08:15:35,Hospital São Raimundo,29,EM ATENDIMENTO
+988,Nike Perel,11/17/2016,F,Dor no peito,Cansaço,Diabetes,2018-04-12 01:11:23,2019-01-28 12:28:01,2019-10-10 07:34:03,Hospital geral do vale do Jaguaribe,36,REALOCADO
+989,Edithe Stede,09/05/1952,F,Acidente no trânsito,Dor no peito,Diabetes,2018-10-26 21:51:23,2019-01-27 16:14:37,2019-03-17 01:53:34,Hospital São Raimundo,15,EM ATENDIMENTO
+990,Manolo Yglesia,06/14/2016,M,Desmaio,Dor de cabeça,Doença respiratória,2018-11-25 20:27:21,,,Hospital São Raimundo,47,AGUARDANDO
+991,Nevin Labat,03/05/2012,M,Dor de cabeça,Dor no peito,Doença respiratória,2018-06-28 11:51:34,2019-02-16 03:07:28,2019-04-28 01:53:11,Hospital e maternidade celestina colares,13,REALOCADO
+992,Nev Peperell,02/07/2005,M,Dor no peito,Falta de ar,Doença respiratória,2018-10-10 16:30:28,2019-01-02 15:52:06,2019-10-11 22:02:29,Hospital geral do vale do Jaguaribe,3,CONCLUÍDO
+993,Bobina Stonebanks,10/23/1978,F,Dor de cabeça,Febre,Doença respiratória,2018-12-27 04:25:19,,,Hospital geral do vale do Jaguaribe,20,EM ATENDIMENTO
+994,Cordelia Gavan,12/21/1984,F,Dor no peito,Cansaço,Doença cardíaca,2018-05-06 02:02:01,2019-01-31 11:17:13,2019-03-23 15:44:50,Hospital e maternidade celestina colares,16,EM ATENDIMENTO
+995,Joceline Pearcy,02/20/2000,F,Acidente doméstico,Cansaço,Doença respiratória,2018-02-18 18:46:21,2019-02-03 16:33:52,2019-06-14 06:38:17,Hospital São Raimundo,32,AGUARDANDO
+996,Alessandro Cawt,08/13/1980,M,Acidente doméstico,Falta de ar,Diabetes,2018-11-29 18:21:25,2019-02-23 05:47:19,2019-05-14 11:03:36,Hospital geral do vale do Jaguaribe,35,CONCLUÍDO
+997,Gasper Caesmans,07/12/1954,M,Acidente no trânsito,Vômito,Hipertensão,2018-06-15 20:26:57,2019-01-27 10:24:54,2019-03-30 10:57:59,Hospital São Raimundo,43,AGUARDANDO
+998,Carmita Skullet,08/06/1972,F,Violência doméstica,Dor no peito,Hipertensão,2018-02-06 16:35:03,2019-01-18 01:26:29,2019-06-14 12:40:38,Hospital São Raimundo,47,CONCLUÍDO
+999,Vanda Adiscot,06/16/2004,F,Acidente no trânsito,Dor de cabeça,Doença respiratória,2018-03-25 17:21:07,,,Hospital São Raimundo,21,REALOCADO
+1000,Ermentrude Keyme,06/29/1970,F,Desmaio,Cansaço,Doença cardíaca,2018-06-11 18:30:32,2019-01-16 18:35:53,2019-03-18 19:23:48,Hospital São Raimundo,45,EM ATENDIMENTO
